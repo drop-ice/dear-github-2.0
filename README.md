@@ -14,4 +14,4 @@ We therefore call upon GitHub to:
 We still believe in GitHub as a platform, as a place to help the open source community make the world a genuinely better place. Please, step up and join us.
 
 Signed,
-
+<!-- signatures -->
