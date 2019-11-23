@@ -13,5 +13,7 @@ We therefore call upon GitHub to:
 
 We still believe in GitHub as a platform, as a place to help the open source community make the world a genuinely better place. Please, step up and join us.
 
+[Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/1)
+
 Signed,
 <!-- signatures -->
