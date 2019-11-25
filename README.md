@@ -15,5 +15,7 @@ We still believe in GitHub as a platform, as a place to help the open source com
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/1)
 
+Kushal Das (Public Interest Technologist, Freedom of the Press Foundation)
+
 Signed,
 <!-- signatures -->
