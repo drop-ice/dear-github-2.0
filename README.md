@@ -17,3 +17,4 @@ We still believe in GitHub as a platform, as a place to help the open source com
 
 Signed,
 Kushal Das (Public Interest Technologist, Freedom of the Press Foundation)
+David Heinemeier Hansson (Ruby on Rails)
