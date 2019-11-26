@@ -25,3 +25,4 @@ Signed,
 - Marcos Cáceres (W3C Web Applications WG Chair, Mozilla)
 - Tony Arcieri (iqlusion, RustSec)
 - Buster Neece (AzuraCast)
+- Jan Lehnardt (CEO Neighbourhoodie Software, PMC Chair Apache CouchDB)
