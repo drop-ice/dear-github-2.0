@@ -21,3 +21,4 @@ Signed,
 - David Heinemeier Hansson (Ruby on Rails)  
 - Anaïs Betts (ReactiveUI)
 - Kat Marchán (Entropic)
+- Natalie Weizenbaum (Sass)
