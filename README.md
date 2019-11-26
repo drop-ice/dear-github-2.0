@@ -24,3 +24,4 @@ Signed,
 - Natalie Weizenbaum (Sass)
 - Marcos Cáceres (W3C Web Applications WG Chair, Mozilla)
 - Tony Arcieri (iqlusion, RustSec)
+- Buster Neece (AzuraCast)
