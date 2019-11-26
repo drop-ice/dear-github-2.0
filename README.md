@@ -22,3 +22,4 @@ Signed,
 - Anaïs Betts (ReactiveUI)
 - Kat Marchán (Entropic)
 - Natalie Weizenbaum (Sass)
+- Marcos Cáceres (W3C Web Applications WG Chair, Mozilla)
