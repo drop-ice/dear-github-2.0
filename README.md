@@ -17,13 +17,14 @@ We still believe in GitHub as a platform, as a place to help the open source com
 
 Signed,
 
+- Tony Arcieri, @tarcieri (iqlusion, RustSec)
+- Anaïs Betts, @anaisbetts (ReactiveUI)
+- Marcos Cáceres, @marcoscaceres (W3C Web Applications WG Chair, Mozilla)
 - Kushal Das, @kushaldas (Public Interest Technologist, Freedom of the Press Foundation)  
 - David Heinemeier Hansson, @dhh (Ruby on Rails)  
-- Anaïs Betts, @anaisbetts (ReactiveUI)
-- Kat Marchán, @zkat (Entropic)
-- Natalie Weizenbaum, @nex3 (Sass)
-- Marcos Cáceres, @marcoscaceres (W3C Web Applications WG Chair, Mozilla)
-- Tony Arcieri, @tarcieri (iqlusion, RustSec)
-- Buster Neece, @SlvrEagle23 (AzuraCast)
 - Jan Lehnardt, @janl (CEO Neighbourhoodie Software, PMC Chair Apache CouchDB)
 - Lauren McCarthy, @lmccart (p5.js, Processing Foundation)
+– Tatiana Mac, @TatianaMac (Self-Defined Dictionary)
+- Kat Marchán, @zkat (Entropic)
+- Buster Neece, @SlvrEagle23 (AzuraCast)
+- Natalie Weizenbaum, @nex3 (Sass)
