@@ -24,7 +24,7 @@ Signed,
 - David Heinemeier Hansson, @dhh (Ruby on Rails)  
 - Jan Lehnardt, @janl (CEO Neighbourhoodie Software, PMC Chair Apache CouchDB)
 - Lauren McCarthy, @lmccart (p5.js, Processing Foundation)
-– Tatiana Mac, @TatianaMac (Self-Defined Dictionary)
+- Tatiana Mac, @TatianaMac (Self-Defined Dictionary)
 - Kat Marchán, @zkat (Entropic)
 - Buster Neece, @SlvrEagle23 (AzuraCast)
 - Natalie Weizenbaum, @nex3 (Sass)
