@@ -26,3 +26,4 @@ Signed,
 - Tony Arcieri, @tarcieri (iqlusion, RustSec)
 - Buster Neece, @SlvrEagle23 (AzuraCast)
 - Jan Lehnardt, @janl (CEO Neighbourhoodie Software, PMC Chair Apache CouchDB)
+- Lauren McCarthy, @lmccart (p5.js, Processing Foundation)
