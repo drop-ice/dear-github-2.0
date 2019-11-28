@@ -17,6 +17,7 @@ We still believe in GitHub as a platform, as a place to help the open source com
 
 Signed,
 
+- Daniel Appelquist, @torgo (Co-Chair, W3C Technical Architecture Group)
 - Tony Arcieri, @tarcieri (iqlusion, RustSec)
 - Anaïs Betts, @anaisbetts (ReactiveUI)
 - Marcos Cáceres, @marcoscaceres (W3C Web Applications WG Chair, Mozilla)
