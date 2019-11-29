@@ -22,6 +22,7 @@ Signed,
 - Anaïs Betts, @anaisbetts (ReactiveUI)
 - Marcos Cáceres, @marcoscaceres (W3C Web Applications WG Chair, Mozilla)
 - Kushal Das, @kushaldas (Public Interest Technologist, Freedom of the Press Foundation)  
+- Don Goodman-Wilson, @DEGoodmanWilson (developer advocate, GitHub; board, Maintainerati)
 - David Heinemeier Hansson, @dhh (Ruby on Rails)  
 - Jan Lehnardt, @janl (CEO Neighbourhoodie Software, PMC Chair Apache CouchDB)
 - Tatiana Mac, @TatianaMac (Self-Defined Dictionary)
