@@ -21,6 +21,7 @@ Signed,
 - Tony Arcieri, @tarcieri (iqlusion, RustSec)
 - Anaïs Betts, @anaisbetts (ReactiveUI)
 - Marcos Cáceres, @marcoscaceres (W3C Web Applications WG Chair, Mozilla)
+- Ada Rose Cannon, @lady_ada_king (Co-chair, W3C Immersive Web Working Group, Developer Advocate Samsung)
 - Kushal Das, @kushaldas (Public Interest Technologist, Freedom of the Press Foundation)  
 - Don Goodman-Wilson, @DEGoodmanWilson (developer advocate, GitHub; board, Maintainerati)
 - David Heinemeier Hansson, @dhh (Ruby on Rails)  
