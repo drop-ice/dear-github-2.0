@@ -30,4 +30,5 @@ Signed,
 - Kat Marchán, @zkat (Entropic)
 - Lauren McCarthy, @lmccart (p5.js, Processing Foundation)
 - Buster Neece, @SlvrEagle23 (AzuraCast)
+- Jordan Santell, @jsantell (immersive web tools)
 - Natalie Weizenbaum, @nex3 (Sass)
