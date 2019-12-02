@@ -32,3 +32,4 @@ Signed,
 - Buster Neece, @SlvrEagle23 (AzuraCast)
 - Jordan Santell, @jsantell (immersive web tools)
 - Natalie Weizenbaum, @nex3 (Sass)
+- Taeyoon Choi, @tchoi8 (School for Poetic Computation)
