@@ -32,4 +32,5 @@ Signed,
 - Buster Neece, @SlvrEagle23 (AzuraCast)
 - Jordan Santell, @jsantell (immersive web tools)
 - Natalie Weizenbaum, @nex3 (Sass)
+- Richard Schneeman, @schneems (CodeTriage creator, Puma, Sprockets, Ruby on Rails contributor)
 - Taeyoon Choi, @tchoi8 (School for Poetic Computation)
