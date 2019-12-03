@@ -47,3 +47,4 @@ Signed,
 - Daniel Shiffman, @shiffman (Processing Foundation, The Coding Train)
 - Daniel Stockman, @evocateur (Lerna)
 - Natalie Weizenbaum, @nex3 (Sass)
+- C J Silverio, @ceejbot (Entropic)
