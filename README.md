@@ -52,3 +52,4 @@ Signed,
 - C J Silverio, @ceejbot (Entropic)
 - Daniel Stockman, @evocateur (Lerna)
 - Natalie Weizenbaum, @nex3 (Sass)
+- Greg Wilson, @gvwilson (RStudio)
