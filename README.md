@@ -37,6 +37,7 @@ Signed,
 - David Heinemeier Hansson, @dhh (Ruby on Rails)
 - Geoffrey Huntley, @geoffreyhuntley (ReactiveUI)
 - Vaidehi Joshi, @vaidehijoshi (basecs)
+- Zach Leatherman, @zachleat (Eleventy 11ty.io)
 - Jan Lehnardt, @janl (CEO Neighbourhoodie Software, PMC Chair Apache CouchDB)
 - Tatiana Mac, @TatianaMac (Self-Defined Dictionary)
 - Kat Marchán, @zkat (Entropic)
