@@ -33,6 +33,7 @@ Signed,
 - Audrey Eschright, @aeschright (Calagator)
 - Brian Gesiak, @modocache (Swift, LLVM)
 - Don Goodman-Wilson, @DEGoodmanWilson (developer advocate, GitHub; board, Maintainerati)
+- Jordan Harband, @ljharb (TC39 Editor; Opendoor engineer; npm package author)
 - David Heinemeier Hansson, @dhh (Ruby on Rails)
 - Geoffrey Huntley, @geoffreyhuntley (ReactiveUI)
 - Vaidehi Joshi, @vaidehijoshi (basecs)
