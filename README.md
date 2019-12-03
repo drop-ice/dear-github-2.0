@@ -25,6 +25,7 @@ Signed,
 - Ada Rose Cannon, @lady_ada_king (Co-chair, W3C Immersive Web Working Group, Developer Advocate Samsung)
 - Taeyoon Choi, @tchoi8 (School for Poetic Computation)
 - Kushal Das, @kushaldas (Public Interest Technologist, Freedom of the Press Foundation)  
+- Audrey Eschright, @aeschright (Calagator)
 - Brian Gesiak, @modocache (Swift, LLVM)
 - Don Goodman-Wilson, @DEGoodmanWilson (developer advocate, GitHub; board, Maintainerati)
 - David Heinemeier Hansson, @dhh (Ruby on Rails)
@@ -38,4 +39,3 @@ Signed,
 - Richard Schneeman, @schneems (CodeTriage creator, Puma, Sprockets, Ruby on Rails contributor)
 - Daniel Shiffman, @shiffman (Processing Foundation, The Coding Train)
 - Natalie Weizenbaum, @nex3 (Sass)
-- Audrey Eschright, @aeschright (Calagator)
