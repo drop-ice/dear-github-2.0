@@ -27,6 +27,7 @@ Signed,
 - Taeyoon Choi, @tchoi8 (School for Poetic Computation)
 - Josh Comeau, @joshwcomeau (staff software engineer, Gatsby)
 - Marc Cornellà, @mcornella (Oh My Zsh) 
+- Matt Cowley, @MattIPv4 (cdnjs)
 - Kushal Das, @kushaldas (Public Interest Technologist, Freedom of the Press Foundation)
 - Audrey Eschright, @aeschright (Calagator)
 - Brian Gesiak, @modocache (Swift, LLVM)
