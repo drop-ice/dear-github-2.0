@@ -45,6 +45,7 @@ Signed,
 - Lauren McCarthy, @lmccart (p5.js, Processing Foundation)
 - Buster Neece, @SlvrEagle23 (AzuraCast)
 - Tim Pope, @tpope (Vim plugins)
+- Jordan Rose, @belkadan (Swift contributor)
 - Jordan Santell, @jsantell (immersive web tools)
 - Richard Schneeman, @schneems (CodeTriage creator, Puma, Sprockets, Ruby on Rails contributor)
 - Pam Selle, @pselle (former IOpipe maintainer, Terraform contributor)
