@@ -49,6 +49,6 @@ Signed,
 - Richard Schneeman, @schneems (CodeTriage creator, Puma, Sprockets, Ruby on Rails contributor)
 - Pam Selle, @pselle (former IOpipe maintainer, Terraform contributor)
 - Daniel Shiffman, @shiffman (Processing Foundation, The Coding Train)
+- C J Silverio, @ceejbot (Entropic)
 - Daniel Stockman, @evocateur (Lerna)
 - Natalie Weizenbaum, @nex3 (Sass)
-- C J Silverio, @ceejbot (Entropic)
