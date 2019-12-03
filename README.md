@@ -38,4 +38,4 @@ Signed,
 - Richard Schneeman, @schneems (CodeTriage creator, Puma, Sprockets, Ruby on Rails contributor)
 - Daniel Shiffman, @shiffman (Processing Foundation, The Coding Train)
 - Natalie Weizenbaum, @nex3 (Sass)
-
+- Audrey Eschright, @aeschright (Calagator)
