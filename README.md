@@ -25,6 +25,7 @@ Signed,
 - Ada Rose Cannon, @lady_ada_king (Co-chair, W3C Immersive Web Working Group, Developer Advocate Samsung)
 - Paddy Carver, @paddycarver (Terraform contributor)
 - Taeyoon Choi, @tchoi8 (School for Poetic Computation)
+- Marc Cornellà, @mcornella (Oh My Zsh)
 - Kushal Das, @kushaldas (Public Interest Technologist, Freedom of the Press Foundation)  
 - Audrey Eschright, @aeschright (Calagator)
 - Brian Gesiak, @modocache (Swift, LLVM)
