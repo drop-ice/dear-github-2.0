@@ -29,6 +29,7 @@ Signed,
 - Brian Gesiak, @modocache (Swift, LLVM)
 - Don Goodman-Wilson, @DEGoodmanWilson (developer advocate, GitHub; board, Maintainerati)
 - David Heinemeier Hansson, @dhh (Ruby on Rails)
+- Geoffrey Huntley, @geoffreyhuntley (ReactiveUI)
 - Vaidehi Joshi, @vaidehijoshi (basecs)
 - Jan Lehnardt, @janl (CEO Neighbourhoodie Software, PMC Chair Apache CouchDB)
 - Tatiana Mac, @TatianaMac (Self-Defined Dictionary)
