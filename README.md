@@ -35,6 +35,7 @@ Signed,
 - Kat Marchán, @zkat (Entropic)
 - Lauren McCarthy, @lmccart (p5.js, Processing Foundation)
 - Buster Neece, @SlvrEagle23 (AzuraCast)
+- Tim Pope, @tpope (Vim plugins)
 - Jordan Santell, @jsantell (immersive web tools)
 - Richard Schneeman, @schneems (CodeTriage creator, Puma, Sprockets, Ruby on Rails contributor)
 - Daniel Shiffman, @shiffman (Processing Foundation, The Coding Train)
