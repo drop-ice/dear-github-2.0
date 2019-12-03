@@ -26,6 +26,7 @@ Signed,
 - Paddy Carver, @paddycarver (Terraform contributor)
 - Taeyoon Choi, @tchoi8 (School for Poetic Computation)
 - Josh Comeau, @joshwcomeau (staff software engineer, Gatsby)
+- Marc Cornellà, @mcornella (Oh My Zsh) 
 - Kushal Das, @kushaldas (Public Interest Technologist, Freedom of the Press Foundation)
 - Audrey Eschright, @aeschright (Calagator)
 - Brian Gesiak, @modocache (Swift, LLVM)
