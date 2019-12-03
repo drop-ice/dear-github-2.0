@@ -25,6 +25,7 @@ Signed,
 - Ada Rose Cannon, @lady_ada_king (Co-chair, W3C Immersive Web Working Group, Developer Advocate Samsung)
 - Paddy Carver, @paddycarver (Terraform contributor)
 - Taeyoon Choi, @tchoi8 (School for Poetic Computation)
+- Matt Cowley, @MattIPv4 (cdnjs)
 - Kushal Das, @kushaldas (Public Interest Technologist, Freedom of the Press Foundation)  
 - Audrey Eschright, @aeschright (Calagator)
 - Brian Gesiak, @modocache (Swift, LLVM)
@@ -42,4 +43,3 @@ Signed,
 - Richard Schneeman, @schneems (CodeTriage creator, Puma, Sprockets, Ruby on Rails contributor)
 - Daniel Shiffman, @shiffman (Processing Foundation, The Coding Train)
 - Natalie Weizenbaum, @nex3 (Sass)
-- Matt Cowley, @MattIPv4 (cdnjs)
