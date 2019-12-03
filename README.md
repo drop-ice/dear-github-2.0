@@ -56,3 +56,4 @@ Signed,
 - Daniel Stockman, @evocateur (Lerna)
 - Natalie Weizenbaum, @nex3 (Sass)
 - Greg Wilson, @gvwilson (RStudio)
+- Boaz Sender (Bocoup, OpenJS Foundation, Processing Foundation, W3C, Ecma International)
