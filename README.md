@@ -40,6 +40,7 @@ Signed,
 - Vaidehi Joshi, @vaidehijoshi (basecs)
 - Zach Leatherman, @zachleat (Eleventy 11ty.io)
 - Jan Lehnardt, @janl (CEO Neighbourhoodie Software, PMC Chair Apache CouchDB)
+- Verónica López, @verolop (DigitalOcean/ Kubernetes contributor)
 - Tatiana Mac, @TatianaMac (Self-Defined Dictionary)
 - Kat Marchán, @zkat (Entropic)
 - Lauren McCarthy, @lmccart (p5.js, Processing Foundation)
