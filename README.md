@@ -23,6 +23,7 @@ Signed,
 - Jory Burson, @jorydotcom, (Web Standards & Open Source Community Liaison: Bocoup, Ecma International, OASIS Open, OpenJS Foundation, W3C)
 - Marcos Cáceres, @marcoscaceres (W3C Web Applications WG Chair, Mozilla)
 - Ada Rose Cannon, @lady_ada_king (Co-chair, W3C Immersive Web Working Group, Developer Advocate Samsung)
+- Paddy Carver, @paddycarver (Terraform contributor)
 - Taeyoon Choi, @tchoi8 (School for Poetic Computation)
 - Kushal Das, @kushaldas (Public Interest Technologist, Freedom of the Press Foundation)  
 - Audrey Eschright, @aeschright (Calagator)
