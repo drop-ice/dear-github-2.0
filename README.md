@@ -72,5 +72,6 @@ Signed,
 - Jeremy Meiss, @jerdog (DevRel, Community)
 - Dorothy R. Santos, @dorothysantos (Processing Foundation)
 - Brian McFee, @bmcfee (librosa)
+- Chris Galardi, @ixtli (Engineer, iphone dev team)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
