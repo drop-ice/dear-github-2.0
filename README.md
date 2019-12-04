@@ -59,10 +59,21 @@ Signed,
 - Itamar Turner-Trauring, @itamarst (Eliot, formerly Twisted and Telepresence)
 - Natalie Weizenbaum, @nex3 (Sass)
 - Greg Wilson, @gvwilson (RStudio)
-- Chris J. Zähller, @seezee (Messenger Web Design, Mercury Photo Bureau, WP FOFT Loader plugin for WordPress)
 
 ----
 
 - Tierney Cyren, @bnb (Node.js, OpenJS Foundation, Cutenode, Electron)
+- Marco Perone, @marcosh (Statebox)
+- Henry Desroches, @xdesro (Faculty)
+- Johan van der Knijff, @bitsgalore (jpylyzer maintainer)
+- Eric Schultz, @wwahammy (CommitChange, Houdini Project)
+- David Celis, @davidcelis (maintainer of and contributor to various Ruby gems)
+- Phillip Harrington, @phillipsharring (Software Developer)
+- Jeremy Meiss, @jerdog (DevRel, Community)
+- Dorothy R. Santos, @dorothysantos (Processing Foundation)
+- Brian McFee, @bmcfee (librosa)
+- Eden Segal-Grossman, @edensg (Open Pit, Parent Company)
+- Ron. A, @0xadada (Unredacted Word)
+- Chris J. Zähller, @seezee (Messenger Web Design, Mercury Photo Bureau, WP FOFT Loader plugin for WordPress)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
