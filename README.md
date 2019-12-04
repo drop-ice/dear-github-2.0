@@ -39,6 +39,7 @@ Signed,
 - Geoffrey Huntley, @geoffreyhuntley (ReactiveUI)
 - Vaidehi Joshi, @vaidehijoshi (basecs)
 - Zach Leatherman, @zachleat (Eleventy 11ty.io)
+- Olivier Lacan, @olivierlacan (Keep a Changelog, Shields, Code School)
 - Glyph Lefkowitz, @glyph (founder, Twisted)
 - Jan Lehnardt, @janl (CEO Neighbourhoodie Software, PMC Chair Apache CouchDB)
 - Verónica López, @verolop (DigitalOcean/ Kubernetes contributor)
