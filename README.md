@@ -59,6 +59,7 @@ Signed,
 - Itamar Turner-Trauring, @itamarst (Eliot, formerly Twisted and Telepresence)
 - Natalie Weizenbaum, @nex3 (Sass)
 - Greg Wilson, @gvwilson (RStudio)
+- Jamie Kyle, @jamiebuilds (Babel, Yarn, Parcel, Lerna, Flow, Marionette, Dear GitHub 1.0)
 
 ----
 
