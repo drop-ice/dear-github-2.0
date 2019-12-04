@@ -46,6 +46,7 @@ Signed,
 - Kat Marchán, @zkat (Entropic)
 - Lauren McCarthy, @lmccart (p5.js, Processing Foundation)
 - Buster Neece, @SlvrEagle23 (AzuraCast)
+- Tilde Thurium, @annthurium (Atom Editor contributor, Write Speak Code organizer)
 - David Nicholson, @NickleDave (contributor to scientific Python libraries)
 - Tim Pope, @tpope (Vim plugins)
 - Jordan Rose, @belkadan (Swift contributor)
