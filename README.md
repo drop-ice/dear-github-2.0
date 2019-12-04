@@ -62,6 +62,8 @@ Signed,
 
 ----
 
+- Tierney Cyren, @bnb (Node.js, OpenJS Foundation, Cutenode, Electron)
+- Marco Perone, @marcosh (Statebox)
 - Henry Desroches, @xdesro (Faculty)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
