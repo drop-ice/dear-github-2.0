@@ -63,5 +63,6 @@ Signed,
 ----
 
 - Tierney Cyren, @bnb (Node.js, OpenJS Foundation, Cutenode, Electron)
+- Elliot Blackburn, @BlueHatbRit (mdpdf, and npm package author)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
