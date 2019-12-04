@@ -39,7 +39,6 @@ Signed,
 - Geoffrey Huntley, @geoffreyhuntley (ReactiveUI)
 - Vaidehi Joshi, @vaidehijoshi (basecs)
 - Zach Leatherman, @zachleat (Eleventy 11ty.io)
-- Olivier Lacan, @olivierlacan (Keep a Changelog, Shields, Code School)
 - Glyph Lefkowitz, @glyph (founder, Twisted)
 - Jan Lehnardt, @janl (CEO Neighbourhoodie Software, PMC Chair Apache CouchDB)
 - Verónica López, @verolop (DigitalOcean/ Kubernetes contributor)
@@ -64,5 +63,6 @@ Signed,
 ----
 
 - Tierney Cyren, @bnb (Node.js, OpenJS Foundation, Cutenode, Electron)
+- Olivier Lacan, @olivierlacan (Keep a Changelog, Shields, Code School)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
