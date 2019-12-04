@@ -25,7 +25,7 @@ Signed,
 - Taeyoon Choi, @tchoi8 (School for Poetic Computation)
 - Krzysztof Cieslak, @Krzysztof-Cieslak (CEO, OSS developer, Ionide, Saturn, FsAutocomplete)
 - Josh Comeau, @joshwcomeau (staff software engineer, Gatsby)
-- Marc Cornellà, @mcornella (Oh My Zsh) 
+- Marc Cornellà, @mcornella (Oh My Zsh)
 - Matt Cowley, @MattIPv4 (cdnjs)
 - Kushal Das, @kushaldas (Public Interest Technologist, Freedom of the Press Foundation)
 - Chris Dickinson, @chrisdickinson (Entropic)
@@ -73,5 +73,6 @@ Signed,
 - Dorothy R. Santos, @dorothysantos (Processing Foundation)
 - Brian McFee, @bmcfee (librosa)
 - Eden Segal-Grossman, @edensg (Open Pit, Parent Company)
+- Jeremy Wagner, @malchata (yall.js, independent web performance consultant)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
