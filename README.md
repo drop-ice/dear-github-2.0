@@ -72,5 +72,6 @@ Signed,
 - Jeremy Meiss, @jerdog (DevRel, Community)
 - Dorothy R. Santos, @dorothysantos (Processing Foundation)
 - Brian McFee, @bmcfee (librosa)
+- Gueorgui Tcherednitchenko, @gueorgui (A Possible Space)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
