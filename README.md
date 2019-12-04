@@ -59,7 +59,7 @@ Signed,
 - Itamar Turner-Trauring, @itamarst (Eliot, formerly Twisted and Telepresence)
 - Natalie Weizenbaum, @nex3 (Sass)
 - Greg Wilson, @gvwilson (RStudio)
-
+- Brian McFee, @bmcfee (librosa)
 ----
 
 - Tierney Cyren, @bnb (Node.js, OpenJS Foundation, Cutenode, Electron)
