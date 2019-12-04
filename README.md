@@ -32,6 +32,7 @@ Signed,
 - Chris Dickinson, @chrisdickinson (Entropic)
 - Buck Doyle, @backspace (Nomad contributor)
 - Audrey Eschright, @aeschright (Calagator)
+- Steffen Forkmann, @forki (Paket, FAKE)
 - Brian Gesiak, @modocache (Swift, LLVM)
 - Don Goodman-Wilson, @DEGoodmanWilson (developer advocate, GitHub; board, Maintainerati)
 - Jordan Harband, @ljharb (TC39 Editor; Opendoor engineer; npm package author)
