@@ -59,6 +59,7 @@ Signed,
 - Itamar Turner-Trauring, @itamarst (Eliot, formerly Twisted and Telepresence)
 - Natalie Weizenbaum, @nex3 (Sass)
 - Greg Wilson, @gvwilson (RStudio)
+- Chris J. Zähller, @seezee (Messenger Web Design, Mercury Photo Bureau, WP FOFT Loader plugin for WordPress)
 
 ----
 
