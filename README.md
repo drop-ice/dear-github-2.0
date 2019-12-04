@@ -59,6 +59,7 @@ Signed,
 - Itamar Turner-Trauring, @itamarst (Eliot, formerly Twisted and Telepresence)
 - Natalie Weizenbaum, @nex3 (Sass)
 - Greg Wilson, @gvwilson (RStudio)
+- Colby Swandale, @colby-swandale (Bundler, Rubygems, RubyGems.org)
 
 ----
 
