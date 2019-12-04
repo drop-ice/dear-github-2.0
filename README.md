@@ -60,9 +60,9 @@ Signed,
 - Natalie Weizenbaum, @nex3 (Sass)
 - Greg Wilson, @gvwilson (RStudio)
 
-
 ----
 
+- Tierney Cyren, @bnb (Node.js, OpenJS Foundation, Cutenode, Electron)
 - Marco Perone, @marcosh (Statebox)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
