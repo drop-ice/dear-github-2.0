@@ -63,5 +63,5 @@ Signed,
 ----
 
 - Tierney Cyren, @bnb (Node.js, OpenJS Foundation, Cutenode, Electron)
-- Noah Berman, @bermannoah (small but mighty Ruby OSS projects)
+- Noah Berman, @bermannoah (small but mighty Ruby OSS projects, coffeebot)
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
