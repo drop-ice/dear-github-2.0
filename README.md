@@ -59,6 +59,7 @@ Signed,
 - Itamar Turner-Trauring, @itamarst (Eliot, formerly Twisted and Telepresence)
 - Natalie Weizenbaum, @nex3 (Sass)
 - Greg Wilson, @gvwilson (RStudio)
+- Jeremy Meiss, @jerdog (DevRel, Community)
 
 ----
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
