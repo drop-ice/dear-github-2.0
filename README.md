@@ -13,8 +13,6 @@ We therefore call upon GitHub to:
 
 We still believe in GitHub as a platform, as a place to help the open source community make the world a genuinely better place. Please, step up and join us.
 
-[Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
-
 Signed,
 
 - Daniel Appelquist, @torgo (Co-Chair, W3C Technical Architecture Group)
@@ -61,3 +59,6 @@ Signed,
 - Itamar Turner-Trauring, @itamarst (Eliot, formerly Twisted and Telepresence)
 - Natalie Weizenbaum, @nex3 (Sass)
 - Greg Wilson, @gvwilson (RStudio)
+
+----
+[Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
