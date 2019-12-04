@@ -53,6 +53,7 @@ Signed,
 - Pam Selle, @pselle (former IOpipe maintainer, Terraform contributor)
 - Daniel Shiffman, @shiffman (Processing Foundation, The Coding Train)
 - C J Silverio, @ceejbot (Entropic)
+- Boaz Sender (Bocoup, OpenJS Foundation, Processing Foundation, W3C, Ecma International)
 - Daniel Stockman, @evocateur (Lerna)
 - Natalie Weizenbaum, @nex3 (Sass)
 - Greg Wilson, @gvwilson (RStudio)
