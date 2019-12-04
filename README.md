@@ -69,5 +69,6 @@ Signed,
 - Eric Schultz, @wwahammy (CommitChange, Houdini Project)
 - David Celis, @davidcelis (maintainer of and contributor to various Ruby gems)
 - Phillip Harrington, @phillipsharring (Software Developer)
+- Michael Daryabeygi, @ginkgoMZD (CiviCRM Contributor)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
