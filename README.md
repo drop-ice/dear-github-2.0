@@ -25,6 +25,7 @@ Signed,
 - Ada Rose Cannon, @lady_ada_king (Co-chair, W3C Immersive Web Working Group, Developer Advocate Samsung)
 - Paddy Carver, @paddycarver (Terraform contributor)
 - Taeyoon Choi, @tchoi8 (School for Poetic Computation)
+- Krzysztof Cieslak, @Krzysztof-Cieslak (CEO, OSS developer, Ionide, Saturn, FsAutocomplete)
 - Josh Comeau, @joshwcomeau (staff software engineer, Gatsby)
 - Marc Cornellà, @mcornella (Oh My Zsh) 
 - Matt Cowley, @MattIPv4 (cdnjs)
