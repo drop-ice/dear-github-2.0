@@ -59,7 +59,10 @@ Signed,
 - Itamar Turner-Trauring, @itamarst (Eliot, formerly Twisted and Telepresence)
 - Natalie Weizenbaum, @nex3 (Sass)
 - Greg Wilson, @gvwilson (RStudio)
-- Marco Perone, @marcosh (Statebox)
+
 
 ----
+
+- Marco Perone, @marcosh (Statebox)
+
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
