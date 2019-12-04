@@ -59,7 +59,9 @@ Signed,
 - Itamar Turner-Trauring, @itamarst (Eliot, formerly Twisted and Telepresence)
 - Natalie Weizenbaum, @nex3 (Sass)
 - Greg Wilson, @gvwilson (RStudio)
-- Johan van der Knijff, @bitsgalore (jpylyzer maintainer)
 
 ----
+
+- Johan van der Knijff, @bitsgalore (jpylyzer maintainer)
+
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
