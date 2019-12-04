@@ -70,5 +70,6 @@ Signed,
 - David Celis, @davidcelis (maintainer of and contributor to various Ruby gems)
 - Phillip Harrington, @phillipsharring (Software Developer)
 - Jeremy Meiss, @jerdog (DevRel, Community)
+- Dorothy R. Santos, @dorothysantos (Processing Foundation)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
