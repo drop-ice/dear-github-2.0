@@ -68,6 +68,11 @@ Signed,
 - Johan van der Knijff, @bitsgalore (jpylyzer maintainer)
 - Eric Schultz, @wwahammy (CommitChange, Houdini Project)
 - David Celis, @davidcelis (maintainer of and contributor to various Ruby gems)
+- Phillip Harrington, @phillipsharring (Software Developer)
+- Jeremy Meiss, @jerdog (DevRel, Community)
+- Dorothy R. Santos, @dorothysantos (Processing Foundation)
+- Brian McFee, @bmcfee (librosa)
+- Eden Segal-Grossman, @edensg (Open Pit, Parent Company)
 - Judson Lester, @nyarly (Many small projects and contributions)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
