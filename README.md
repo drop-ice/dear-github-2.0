@@ -66,6 +66,8 @@ Signed,
 - Marco Perone, @marcosh (Statebox)
 - Henry Desroches, @xdesro (Faculty)
 - Johan van der Knijff, @bitsgalore (jpylyzer maintainer)
+- Eric Schultz, @wwahammy (CommitChange, Houdini Project)
+- David Celis, @davidcelis (maintainer of and contributor to various Ruby gems)
 - Corey Farwell, @frewsxcv (@kickstarter, Rust)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
