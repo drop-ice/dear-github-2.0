@@ -102,6 +102,7 @@ Signed,
 - Mitch Chapman, @mchapman87501 (Software Developer)
 - David Chopin, @ChopinDavid (Software Developer, student)
 - Andrew Chou, @achou11 (Software Engineer)
+- Joe Clay, @17cupsofcoffee (Software Engineer)
 - Jimmy Cuadra, @jimmycuadra (Lita, Ruma)
 - Tierney Cyren, @bnb (Node.js, OpenJS Foundation, Cutenode, Electron)
 - Paul D'Ambra, @pauldambra (Software Engineer)
