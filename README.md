@@ -166,5 +166,6 @@ Signed,
 - Kaylum Lally, @HiKaylum (Senior UX Developer, Accessibility Advocate)
 - Filipe Roman Veloso, @rovel (Umanni)
 - Dominik Wilkowski @dominikwilkowski (Thinkmill, Australian Government, Westpac)
+- Aleph Santos Oliveira, @haple
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
