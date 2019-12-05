@@ -169,5 +169,6 @@ Signed,
 - Thomas Tortorini, @mr21 (gridsound)
 - Anton Rusinov, @RusinovAnton (JS tl;dr)
 - Thomas Russell Murphy, @thomasrussellmurphy (iStyle Verilog maintainer)
+- Aatish Bhatia, @aatishb (aatishb.com)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
