@@ -208,6 +208,7 @@ Signed,
 - Hannah Blau, @hannahblau (research software engineer)
 - Zac Anger, @zacanger (Node packages maintainer)
 - Trevor Flowers, @TrevorFSmith (Chair of W3C Immersive Web CG, Invited expert of W3C Immersive Web WG, Principal at Transmutable)
+- Rhodey Orbits, @rhodey (RadioWitness)
 - Alanna Scott, @ascott (Software Engineer)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
