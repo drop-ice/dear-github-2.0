@@ -284,5 +284,6 @@ Signed,
 - Palash Nigam, @palash25, (Student, Contributor to various projects)
 - Daniel Bolivar, @ddanielbee (Software Engineer)
 - Brendan Zabarauskas, @brendanzab (Software Engineer)
+- Thomas Wouters, @Yhg1s (Python)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
