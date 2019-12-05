@@ -105,6 +105,7 @@ Signed,
 - Colin Caine, @cmcaine (Tridactyl and open scientific software)
 - Loren Segal, @lsegal (YARD, RubyDoc.info)
 - Laryn Kragt Bakker, @laryn (Backdrop CMS and CiviCRM contributor)
+- John-Mark Gurney, @jmgurney (personal, boycott GitHub)
 - Ibrahim Cesar, @ibrahimcesar (React Lite YouTube Embed)
 - Shawn Eisenach, @wholewheattoast (Artist and Software Developer)
 - Matheus Graciano, @graciano (tananã)
