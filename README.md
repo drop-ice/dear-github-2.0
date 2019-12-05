@@ -77,6 +77,7 @@ Signed,
 - Evan Bailey, @cynicaloptimist (Improved Initiative)
 - Laryn Kragt Bakker, @laryn (Backdrop CMS and CiviCRM contributor)
 - Amr Bakry, @amrrbakry (Software Engineer)
+- Allen Ballway, @lballway (Software Engineer)
 - Artur Barseghyan, @barseghyanartur (open-source contributor)
 - Daniel Bayley, @danielbayley (Motion/graphic designer and software developer)
 - Phil Beauvoir, @Phillipus (Archi)
