@@ -117,5 +117,6 @@ Signed,
 - Dinesh Gurnani, @dgurnani12 (EECS and Enthusiast)
 - Michael Daryabeygi, @ginkgoMZD (CiviCRM Contributor)
 - Kyle Simpson, @getify (Getify, YDKJS)
+- Richard Littauer, @RichardLitt (Maintainer Mountaineer)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
