@@ -225,6 +225,7 @@ Signed,
 - Steve Peters, @scpeters (Software Engineer, Homebrew maintainer)
 - Emily Pillmore, @emilypi (cohomolo.gy)
 - Erin Power, @XAMPPRocky (Rust-lang contributor, tokei)
+- Steve Purcell, @purcell
 - Gustav Pursche, @gustavpursche (Software Engineer)
 - Daniel Quinn, @danielquinn (Paperless, Aletheia, mt103)
 - Kurtis Rainbolt-Greene, @krainboltgreene (Difference Engineers, owner of vcr.rb, mastodon core contributor, former rubygems core contributor)
