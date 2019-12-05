@@ -292,5 +292,6 @@ Signed,
 - Eslam Khoga, @KhogaEslam (Software Engineer)
 - Ivan Huayraña, @ivanhuay (Software Engineer, open source contributor)
 - Joe Bowser, @infil00p (Software Engineer)
+- Simon Pieters, @zcorpan (Web Standards, Bocoup)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
