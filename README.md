@@ -273,6 +273,7 @@ Signed,
 - Erin Power, @XAMPPRocky (Rust-lang contributor, tokei)
 - Amr Bakry, @amrrbakry (Software Engineer)
 - Gustav Pursche, @gustavpursche (Software Engineer)
+- Anthony Lee, @antwonlee (Software Engineer)
 - Jörn Huxhorn, @huxi (Software Engineer)
 - Gavin Gray, @gngdb (Machine Learning Researcher)
 - Anne van Kesteren, @annevk (Web Standards, Mozilla)
