@@ -131,5 +131,6 @@ Signed,
 - Reilly Grant, @reillyeon (W3C Devices and Sensors WG Co-chair, Google)
 - Garrett Green, @garrett-green (Software Developer)
 - Gueorgui Tcherednitchenko, @gueorgui (A Possible Space)
+- Sebastian Riedel, @kraih (Mojolicious)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
