@@ -107,6 +107,7 @@ Signed,
 - Paul D'Ambra, @pauldambra (Software Engineer)
 - Timothy Dang, @timdang (Software Engineer)
 - Michael Daryabeygi, @ginkgoMZD (CiviCRM Contributor)
+- Logan Davis, @brainsnail
 - Tom de Bruijn, @tombruijn (Software developer)
 - Matthew Dean, @matthew-dean (Less.js)
 - Suhas Deshpande, @suhasdeshpande (Typescript & Angular contributor)
