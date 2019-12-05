@@ -106,5 +106,6 @@ Signed,
 - Shawn Eisenach, @wholewheattoast (Artist and Software Developer)
 - Matheus Graciano, @graciano (tananã)
 - Remie Bolte, @remie (YouTransfer.io, gfc.io)
+- Evan Bailey, @cynicaloptimist (Improved Initiative)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
