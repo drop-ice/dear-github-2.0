@@ -121,7 +121,6 @@ Signed,
 - Brian Cain, @briancain (Vagrant contributor)
 - Matheus Fantinel, @matfantinel (Software Developer)
 - Thibaud Guillaume-Gentil, @thibaudgg (creator and contributor of various Ruby gems)
-- Andrew Scheuermann, @a15n (Airbnb)
 - Jacob Helwig, @jhelwig (Calagator)
 - Thomas Donoghue, @TomDonoghue (open-source software developer)
 - Patrick Hickey, @pchickey (WebAssembly software developer)
@@ -149,5 +148,6 @@ Signed,
 - Subhrajyoti Sen, @SubhrajyotiSen (Mozilla contributor)
 - Jannis Leidel, @jezdez (Mozilla, Python Software Foundation, Django Software Foundation)
 - Colby Swandale, @colby-swandale (Bundler, Rubygems, RubyGems.org)
+- Andrew Scheuermann, @a15n (Airbnb)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
