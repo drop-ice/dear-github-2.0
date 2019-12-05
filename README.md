@@ -200,5 +200,6 @@ Signed,
 - Luna Nielsen, @Member1221 (Glimpse, PolyplexEngine)
 - Adam H. Sparks, @adamhsparks (#rstats package author and other FOSS projects)
 - Peter Aronoff, @telemachus (Lua modules split and tapered)
+- Evan Bailey, @cynicaloptimist (Improved Initiative)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
