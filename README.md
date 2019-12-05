@@ -216,5 +216,6 @@ Signed,
 - April H, @NthPortal (Scala contributor)
 - Aleph Santos Oliveira, @haple
 - Andy Wortman, @iximeow (Lucet, open-source contributor)
+- Matt Travi @travi (greenkeeper-keeper, GitHub Settings)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
