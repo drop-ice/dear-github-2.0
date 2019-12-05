@@ -121,5 +121,6 @@ Signed,
 - Brian Cain, @briancain (Vagrant contributor)
 - Matheus Fantinel, @matfantinel (Software Developer)
 - Thibaud Guillaume-Gentil, @thibaudgg (creator and contributor of various Ruby gems)
+- Andrew Scheuermann, @a15n (Airbnb)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
