@@ -137,6 +137,7 @@ Signed,
 - Sebastian Riedel, @kraih (Mojolicious)
 - Federico Mena Quintero, @federicomenaquintero (GNOME)
 - Matt Chapman, @matt2000 (Code Contributor to many open-source projects)
+- Shanley, @shanley (Model View Culture, Fund Club, #NoTechforICE) 
 - James Vorderbruggen, @JamesVorder (MassMesh)
 - Phil Beauvoir, @Phillipus (Archi)
 - Myles Lewando, @codemacabre (CodeMacabre, OpenPlanetary)
