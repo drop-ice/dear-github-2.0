@@ -178,5 +178,6 @@ Signed,
 - Judson Lester, @nyarly (Many small projects and contributions)
 - Stephen P. Huff, @hakamadare (SRE)
 - Justin Mazzocchi, @jzzocc (Software Developer)
+- Tarjei Husøy, @thusoy (Megacool, saltstack contributor)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
