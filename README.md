@@ -113,6 +113,7 @@ Signed,
 - Henry Desroches, @xdesro (Faculty)
 - iliana destroyer of worlds, @iliana (Amazon Web Services)
 - Chance Dickson, @chancedickson (Product Engineer @ Glitch)
+- Gordon Diggs, @gdiggs
 - Jason Dixon, @obfuscurity (ex-GitHub employee, Monitorama founder, open source contributor)
 - Cory Dodt, @corydodt (Bright.md)
 - Thomas Donoghue, @TomDonoghue (open-source software developer)
