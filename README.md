@@ -188,5 +188,6 @@ Signed,
 - Kylan Byrd, @AvianAnalyst (Software Developer)
 - Justin Reese, @justaddcoffee
 - Kayla Brackson, @colorincode (Color in Code / Developer)
+- Ryan Mottley, @ligerzero459 (Help.com)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
