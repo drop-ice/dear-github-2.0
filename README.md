@@ -239,5 +239,6 @@ Signed,
 - Christoph Stock, @stockulus (Software Engineer)
 - Tiago Rodrigues, @trodrigues (Software Engineer, open source contributor, previously LXJS organizer)
 - Tobi Schäfer, @p3k (Antville.org)
+- Erin Power, @XAMPPRocky (Rust-lang contributor, tokei)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
