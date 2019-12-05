@@ -224,6 +224,7 @@ Signed,
 - Alanna Scott, @ascott (Software Engineer)
 - Jason Dixon, @obfuscurity (ex-GitHub employee, Monitorama founder, open source contributor)
 - Anthony Maki, @4cm4k1 (Software Engineer)
+- Jan-Erik Rediger, @badboy (Rust, Rust Berlin, RustFest, Mozilla)
 - Dave Ackley, @daveackley (Best effort advocate and developer of MFM, ulam, SPLAT)
 - Jakob Runge, @runjak (Software Engineer)
 - Joseph Luck, @josephluck (Software Engineer, various open source)
