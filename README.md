@@ -224,6 +224,7 @@ Signed,
 - Alanna Scott, @ascott (Software Engineer)
 - Jason Dixon, @obfuscurity (ex-GitHub employee, Monitorama founder, open source contributor)
 - Anthony Maki, @4cm4k1 (Software Engineer)
+- Marcus Jensen, @Lomztein (Software Engineering Student, Hobbyist Developer)
 - Kira Oakley, @noffle (Digital Democracy, Cabal Club)
 - Francis Gulotta, @reconbot (Node Serialport, Request)
 - Chance Dickson, @chancedickson (Product Engineer @ Glitch)
