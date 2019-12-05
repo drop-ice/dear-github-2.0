@@ -125,5 +125,6 @@ Signed,
 - Thomas Donoghue, @TomDonoghue (open-source software developer)
 - Patrick Hickey, @pchickey (WebAssembly software developer)
 - Coraline Ada Ehmke, @coralineada (Contributor Covenant, Beacon, Hippocratic License, and EthicalSource.dev)
+- Patrick Arnett, @patrickarnett (Software Developer)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
