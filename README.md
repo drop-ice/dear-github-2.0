@@ -273,5 +273,6 @@ Signed,
 - Erin Power, @XAMPPRocky (Rust-lang contributor, tokei)
 - Amr Bakry, @amrrbakry (Software Engineer)
 - Gustav Pursche, @gustavpursche (Software Engineer)
+- Palash Nigam, @palash25, (Student, Contributor to various projects)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
