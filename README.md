@@ -176,5 +176,6 @@ Signed,
 - Adam Recvlohe, @arecvlohe (Natives in Tech)
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Judson Lester, @nyarly (Many small projects and contributions)
+- Stephen P. Huff, @hakamadare (SRE)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
