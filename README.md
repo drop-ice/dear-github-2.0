@@ -59,7 +59,6 @@ Signed,
 - Itamar Turner-Trauring, @itamarst (Eliot, formerly Twisted and Telepresence)
 - Natalie Weizenbaum, @nex3 (Sass)
 - Greg Wilson, @gvwilson (RStudio)
-- Vincent Grafé, @vgrafe
 
 ----
 
@@ -77,5 +76,7 @@ Signed,
 - Ron. A, @0xadada (Unredacted Word)
 - Chris J. Zähller, @seezee (Messenger Web Design, Mercury Photo Bureau, WP FOFT Loader plugin for WordPress)
 - Elliot Blackburn, @BlueHatbRit (mdpdf, and npm package author)
+- Vincent Grafé, @vgrafe
+- Olivier Lacan, @olivierlacan (Keep a Changelog, Shields, Code School)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
