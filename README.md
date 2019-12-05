@@ -114,5 +114,6 @@ Signed,
 - Shane Becker, @veganstraightedge (CrimethInc. Ex-Workers Collective @crimethinc)
 - Daniel Bayley, @danielbayley (Motion/graphic designer and software developer)
 - Chris Galardi, @ixtli (Engineer, iphone dev team)
+- Dinesh Gurnani, @dgurnani12 (EECS and Enthusiast)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
