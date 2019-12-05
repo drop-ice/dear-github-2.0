@@ -96,5 +96,6 @@ Signed,
 - Melissa Elliott, @0xabad1dea (infosec researcher)
 - Zach Klippenstein, @zach-klippenstein (Square)
 - James Farmer, @jpfarmer (Honey Milk Software)
+- Jeremy Macaluso, @jvluso (Ethereum-oauth, Frame)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
