@@ -286,5 +286,6 @@ Signed,
 - Brendan Zabarauskas, @brendanzab (Software Engineer)
 - Rahul Mathews, @rahulmathews (Full Stack Developer)
 - Delan Azabani, @delan (software person)
+- Oliver Drotbohm, @odrotbohm (Software Engineer, Spring Framework)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
