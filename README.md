@@ -252,6 +252,7 @@ Signed,
 - Dorothy R. Santos, @dorothysantos (Processing Foundation)
 - Aleph Santos Oliveira, @haple
 - Kaja Santro, @kajatiger, (software engineer, code curious organizer)
+- Josiah Savary, @jozanza (Software Engineer)
 - Tobi Schäfer, @p3k (Antville.org)
 - Andrew Scheuermann, @a15n (Airbnb)
 - Moritz Schlarb, @moschlar (Cloud Engineer)
