@@ -205,6 +205,7 @@ Signed,
 - Brian McFee, @bmcfee (librosa)
 - Rob McLarty, @robmclarty (js, bikes, infosec)
 - Julie McMurry, @jmcmurry (Monarch Initiative, Oregon State Faculty)
+- Pablo Meier, @pablo-meier (a human)
 - Jeremy Meiss, @jerdog (DevRel, Community)
 - Federico Mena Quintero, @federicomenaquintero (GNOME)
 - Matt Mills, @photomattmills (Software Engineer, ElixirBridge co-founder)
