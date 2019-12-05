@@ -82,5 +82,6 @@ Signed,
 - Artemis Tosini, @artemist (independent security researcher)
 - Hannah Howard, @hannahhoward (Carbon Five, RxReact)
 - Florian Gilcher, @skade (Rust, Rust Berlin, Ruby Berlin e.V.)
+- Dan Bentley, @dbentley (Tilt)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
