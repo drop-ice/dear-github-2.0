@@ -98,6 +98,7 @@ Signed,
 - Lachlan Campbell, @lachlanjc (Hack Club)
 - David Celis, @davidcelis (maintainer of and contributor to various Ruby gems)
 - Ibrahim Cesar, @ibrahimcesar (React Lite YouTube Embed)
+- Andrew Cassidy, @drewcassidy (Engineering Student and KSP modder)
 - Matt Chapman, @matt2000 (Code Contributor to many open-source projects)
 - Mitch Chapman, @mchapman87501 (Software Developer)
 - David Chopin, @ChopinDavid (Software Developer, student)
