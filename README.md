@@ -203,5 +203,6 @@ Signed,
 - Evan Bailey, @cynicaloptimist (Improved Initiative)
 - Jimmy Cuadra, @jimmycuadra (Lita, Ruma)
 - Kurtis Rainbolt-Greene, @krainboltgreene (Difference Engineers, owner of vcr.rb, mastodon core contributor, former rubygems core contributor)
+- Andrew Scheuermann, @a15n (Airbnb)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
