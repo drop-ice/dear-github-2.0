@@ -78,5 +78,6 @@ Signed,
 - Elliot Blackburn, @BlueHatbRit (mdpdf, and npm package author)
 - Vincent Grafé, @vgrafe
 - Olivier Lacan, @olivierlacan (Keep a Changelog, Shields, Code School)
+- Lachlan Campbell, @lachlanjc (Hack Club)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
