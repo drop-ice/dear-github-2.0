@@ -74,6 +74,7 @@ Signed,
 - Christian Aust, @datenimperator (Software Developer)
 - Delan Azabani, @delan (software person)
 - Pierre-Yves Baccou, @pyb (Light Meta)
+- Kevin Backhouse, @kevinbackhouse (Security Researcher, GitHub)
 - Evan Bailey, @cynicaloptimist (Improved Initiative)
 - Laryn Kragt Bakker, @laryn (Backdrop CMS and CiviCRM contributor)
 - Amr Bakry, @amrrbakry (Software Engineer)
