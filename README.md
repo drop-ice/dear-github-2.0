@@ -100,5 +100,6 @@ Signed,
 - Elana Hashman, @ehashman (Open Source Initiative, Debian, Python Packaging Authority, Kubernetes)
 - Giles Bowkett, @gilesbowkett (various Ruby & JS contributions and personal projects)
 - Colin Caine, @cmcaine (Tridactyl and open scientific software)
+- Loren Segal, @lsegal (YARD, RubyDoc.info)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
