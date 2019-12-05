@@ -71,6 +71,7 @@ Signed,
 - Zac Anger, @zacanger (Node packages maintainer)
 - Patrick Arnett, @patrickarnett (Software Developer)
 - Peter Aronoff, @telemachus (Lua modules split and tapered)
+- Jon Atkinson, @jonatkinson (Software Engineer)
 - Christian Aust, @datenimperator (Software Developer)
 - Delan Azabani, @delan (software person)
 - Pierre-Yves Baccou, @pyb (Light Meta)
