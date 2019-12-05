@@ -289,5 +289,6 @@ Signed,
 - Oliver Drotbohm, @odrotbohm (Software Engineer, Spring Framework)
 - Mitch Chapman, @mchapman87501 (Software Developer)
 - Eslam Khoga, @KhogaEslam (Software Engineer)
+- Ivan Huayraña, @ivanhuay (Software Engineer, open source contributor)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
