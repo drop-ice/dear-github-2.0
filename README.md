@@ -135,6 +135,6 @@ Signed,
 - Federico Mena Quintero, @federicomenaquintero (GNOME)
 - Matt Chapman, @matt2000 (Code Contributor to many open-source projects)
 - James Vorderbruggen, @JamesVorder (MassMesh)
-- Phil Beauvoir, @Phillipus (Archi)
+- Zac Anger, @zacanger (Node packages maintainer)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
