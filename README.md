@@ -175,6 +175,7 @@ Signed,
 - Jake Brussel Faria, @jacobbf (Developer, technical writer, working on open source type projects)
 - Adam Recvlohe, @arecvlohe (Natives in Tech)
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
+- Martin Heidegger, @martinheidegger (consento-org, jsconfjp, ...)
 - Judson Lester, @nyarly (Many small projects and contributions)
 - Stephen P. Huff, @hakamadare (SRE)
 - Justin Mazzocchi, @jzzocc (Software Developer)
