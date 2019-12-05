@@ -138,6 +138,7 @@ Signed,
 - Phil Beauvoir, @Phillipus (Archi)
 - Myles Lewando, @codemacabre (CodeMacabre, OpenPlanetary)
 - Stephanie Wilkinson, @stephaniewilkinson (@naisorg)
+- Timothy Dang, @timdang (Software Engineer)
 - Thomas Fuchs, @madrobby (Zepto, scriptaculous)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
