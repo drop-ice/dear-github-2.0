@@ -99,5 +99,6 @@ Signed,
 - Jeremy Macaluso, @jvluso (Ethereum-oauth, Frame)
 - Elana Hashman, @ehashman (Open Source Initiative, Debian, Python Packaging Authority, Kubernetes)
 - Giles Bowkett, @gilesbowkett (various Ruby & JS contributions and personal projects)
+- Colin Caine, @cmcaine (Tridactyl and open scientific software)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
