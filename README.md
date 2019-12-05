@@ -85,6 +85,7 @@ Signed,
 - Gregor, @gr2m (Octokit)
 - Dan Bentley, @dbentley (Tilt)
 - Kristal Garcia, @kgmajor (Techqueria)
+- iliana destroyer of worlds, @iliana (Amazon Web Services)
 - Frédéric Harper, @fharper
 - Noah Berman, @bermannoah (small but mighty Ruby OSS projects, coffeebot)
 - Tilde Thurium, @annthurium (Atom Editor contributor, Write Speak Code organizer)
