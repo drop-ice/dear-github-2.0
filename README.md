@@ -224,6 +224,7 @@ Signed,
 - Alanna Scott, @ascott (Software Engineer)
 - Jason Dixon, @obfuscurity (ex-GitHub employee, Monitorama founder, open source contributor)
 - Anthony Maki, @4cm4k1 (Software Engineer)
+- Kevin Krieger, @kkrieger85 (#Openmage, different Magento1 Modules/Shops)
 - Chris Hiestand, @chrishiestand (GitHub App Creator www.boss.dev)
 - Katherine Flavel, @katef (Software Engineer)
 - Jürgen Gmach, @jugmac00 (Software Engineer)
