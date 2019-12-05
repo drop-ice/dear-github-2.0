@@ -68,6 +68,7 @@ Signed,
 - Felix Ableitner, @nutomic (/e/ foundation, former developer of syncthing-android)
 - Dave Ackley, @daveackley (Best effort advocate and developer of MFM, ulam, SPLAT)
 - Zac Adam-MacEwen, @ZAdamMac (KSL)
+- Ryan Addessi, @raddessi (Systems/Network Engineer)
 - Zac Anger, @zacanger (Node packages maintainer)
 - Patrick Arnett, @patrickarnett (Software Developer)
 - Peter Aronoff, @telemachus (Lua modules split and tapered)
