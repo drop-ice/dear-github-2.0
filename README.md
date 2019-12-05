@@ -134,5 +134,6 @@ Signed,
 - Sebastian Riedel, @kraih (Mojolicious)
 - Federico Mena Quintero, @federicomenaquintero (GNOME)
 - Matt Chapman, @matt2000 (Code Contributor to many open-source projects)
+- Vui Nguyen, @vuinguyen (iOS and JavaScript Contributor of open-source projects)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
