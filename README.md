@@ -108,5 +108,6 @@ Signed,
 - Remie Bolte, @remie (YouTransfer.io, gfc.io)
 - Rob McLarty, @robmclarty (js, bikes, infosec)
 - Joe Granville, @metaregress (hobbyist)
+- Saul Shanabrook, @saulshanabrook (Quansight, Jupyter)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
