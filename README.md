@@ -78,10 +78,11 @@ Signed,
 - Elliot Blackburn, @BlueHatbRit (mdpdf, and npm package author)
 - Vincent Grafé, @vgrafe
 - Olivier Lacan, @olivierlacan (Keep a Changelog, Shields, Code School)
-- Felipe Ventura @fvntr (Techqueria)
+- Felipe Ventura, @fvntr (Techqueria)
 - Artemis Tosini, @artemist (independent security researcher)
 - Hannah Howard, @hannahhoward (Carbon Five, RxReact)
 - Florian Gilcher, @skade (Rust, Rust Berlin, Ruby Berlin e.V.)
 - Dan Bentley, @dbentley (Tilt)
+- Kristal Garcia, @kgmajor (Techqueria)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
