@@ -46,7 +46,6 @@ Signed,
 - Kat Marchán, @zkat (Entropic)
 - Lauren McCarthy, @lmccart (p5.js, Processing Foundation)
 - Buster Neece, @SlvrEagle23 (AzuraCast)
-- Tilde Thurium, @annthurium (Atom Editor contributor, Write Speak Code organizer)
 - David Nicholson, @NickleDave (contributor to scientific Python libraries)
 - Tim Pope, @tpope (Vim plugins)
 - Jordan Rose, @belkadan (Swift contributor)
@@ -64,5 +63,6 @@ Signed,
 ----
 
 - Tierney Cyren, @bnb (Node.js, OpenJS Foundation, Cutenode, Electron)
+- Tilde Thurium, @annthurium (Atom Editor contributor, Write Speak Code organizer)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
