@@ -113,5 +113,6 @@ Signed,
 - Adam C. Foltzer, @acfoltzer (Lucet)
 - Shane Becker, @veganstraightedge (CrimethInc. Ex-Workers Collective @crimethinc)
 - Daniel Bayley, @danielbayley (Motion/graphic designer and software developer)
+- Chris Galardi, @ixtli (Engineer, iphone dev team)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
