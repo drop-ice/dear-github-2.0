@@ -183,5 +183,6 @@ Signed,
 - Erik Marks, @rekmarks (Software Developer)
 - Suhas Deshpande, @suhasdeshpande (Typescript & Angular contributor)
 - Jeremy Wagner, @malchata (yall.js, independent web performance consultant)
+- Andrew Chou, @achou11 (Software Engineer)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
