@@ -59,6 +59,9 @@ Signed,
 - Itamar Turner-Trauring, @itamarst (Eliot, formerly Twisted and Telepresence)
 - Natalie Weizenbaum, @nex3 (Sass)
 - Greg Wilson, @gvwilson (RStudio)
+
+----
+
 - Tierney Cyren, @bnb (Node.js, OpenJS Foundation, Cutenode, Electron)
 - Marco Perone, @marcosh (Statebox)
 - Henry Desroches, @xdesro (Faculty)
@@ -70,7 +73,6 @@ Signed,
 - Dorothy R. Santos, @dorothysantos (Processing Foundation)
 - Brian McFee, @bmcfee (librosa)
 - Eden Segal-Grossman, @edensg (Open Pit, Parent Company)
-- Brenna Flood, @brennx0r (OSFeels Conference Organizer, contributor to various JS, Ruby, DevOps projects)
 - Ron. A, @0xadada (Unredacted Word)
 - Chris J. Zähller, @seezee (Messenger Web Design, Mercury Photo Bureau, WP FOFT Loader plugin for WordPress)
 - Elliot Blackburn, @BlueHatbRit (mdpdf, and npm package author)
@@ -97,6 +99,6 @@ Signed,
 - Jeremy Macaluso, @jvluso (Ethereum-oauth, Frame)
 - Elana Hashman, @ehashman (Open Source Initiative, Debian, Python Packaging Authority, Kubernetes)
 - Giles Bowkett, @gilesbowkett (various Ruby & JS contributions and personal projects)
-
+- Brenna Flood, @brennx0r (OSFeels Conference Organizer, contributor to various JS, Ruby, DevOps projects)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
