@@ -232,6 +232,7 @@ Signed,
 - Thorr Stevens, @thorrstevens (Javascript Developer, date-fns contributor)
 – Andreas Zecher, @pixelate (Web Developer)
 - Christoph Stock, @stockulus (Software Engineer)
+- Tiago Rodrigues, @trodrigues (Software Engineer, open source contributor, previously LXJS organizer)
 - Tobi Schäfer, @p3k (Antville.org)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
