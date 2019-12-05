@@ -146,5 +146,6 @@ Signed,
 - Pedro Reys, @pedroreys (Programmer)
 - Philipp Hansch, @phansch (Rust & rust-clippy contributor)
 - Subhrajyoti Sen, @SubhrajyotiSen (Mozilla contributor)
+- Jannis Leidel, @jezdez (Mozilla, Python Software Foundation, Django Software Foundation)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
