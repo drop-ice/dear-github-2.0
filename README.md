@@ -225,5 +225,7 @@ Signed,
 - Jason Dixon, @obfuscurity (ex-GitHub employee, Monitorama founder, open source contributor)
 - Anthony Maki, @4cm4k1 (Software Engineer)
 - Thorr Stevens, @thorrstevens (Javascript Developer, date-fns contributor)
+– Andreas Zecher, @pixelate (Web Developer)
+- Christoph Stock, @stockulus (Software Engineer)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
