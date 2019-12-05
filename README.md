@@ -207,6 +207,7 @@ Signed,
 - Julie McMurry, @jmcmurry (Monarch Initiative, Oregon State Faculty)
 - Jeremy Meiss, @jerdog (DevRel, Community)
 - Federico Mena Quintero, @federicomenaquintero (GNOME)
+- August Miller, @augustmiller (Web Developer)
 - Matt Mills, @photomattmills (Software Engineer, ElixirBridge co-founder)
 - Ryan Mottley, @ligerzero459 (Help.com)
 - Thomas Russell Murphy, @thomasrussellmurphy (iStyle Verilog maintainer)
@@ -294,4 +295,3 @@ Signed,
 - Younes Zakaria, @drcd (lp0.dk)
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Andreas Zecher, @pixelate (Web Developer)
-- August Miller, @augustmiller (Web Developer)
