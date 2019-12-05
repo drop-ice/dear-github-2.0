@@ -163,6 +163,7 @@ Signed,
 - Jacob Helwig, @jhelwig (Calagator)
 - Patrick Hickey, @pchickey (WebAssembly software developer)
 - Chris Hiestand, @chrishiestand (GitHub App Creator www.boss.dev)
+- Joshua Hoskins, @friendtocephalopods (Square)
 - Hannah Howard, @hannahhoward (Carbon Five, RxReact)
 - Ivan Huayraña, @ivanhuay (Software Engineer, open source contributor)
 - Stephen P. Huff, @hakamadare (SRE)
