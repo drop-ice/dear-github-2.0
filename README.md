@@ -224,6 +224,7 @@ Signed,
 - Alanna Scott, @ascott (Software Engineer)
 - Jason Dixon, @obfuscurity (ex-GitHub employee, Monitorama founder, open source contributor)
 - Anthony Maki, @4cm4k1 (Software Engineer)
+- Liz Fong-Jones, @lizthegrey (Principal Developer Advocate, @honeycombio; @opentelemetry governance committee; affiliations for identification purposes only)
 - Kirill Pahnev, @pahnev (Software Developer)
 - Christian Aust, @datenimperator (Software Developer)
 - Tom de Bruijn, @tombruijn (Software developer)
