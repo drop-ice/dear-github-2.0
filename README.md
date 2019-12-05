@@ -188,6 +188,7 @@ Signed,
 - Soni L., @soniex2 (GAnarchy)
 - Olivier Lacan, @olivierlacan (Keep a Changelog, Shields, Code School)
 - Kaylum Lally, @HiKaylum (Senior UX Developer, Accessibility Advocate)
+- Thuy Le, @1000miles (Software Engineer)
 - Anthony Lee, @antwonlee (Software Engineer)
 - Jannis Leidel, @jezdez (Mozilla, Python Software Foundation, Django Software Foundation)
 - Judson Lester, @nyarly (Many small projects and contributions)
