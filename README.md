@@ -185,5 +185,6 @@ Signed,
 - Jeremy Wagner, @malchata (yall.js, independent web performance consultant)
 - Julie McMurry, @jmcmurry (Monarch Initiative, Oregon State Faculty)
 - Brenna Flood, @brennx0r (OSFeels Conference Organizer, contributor to various JS, Ruby, DevOps projects)
+- Kylan Byrd, @AvianAnalyst (Software Developer)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
