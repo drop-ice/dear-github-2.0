@@ -151,5 +151,6 @@ Signed,
 - David Ranzolin, @daranzolin (San Francisco State University)
 - Josh Simmons, @joshsimmons (FOSS community organizer)
 - Cory Dodt, @corydodt (Bright.md)
+- Artur Barseghyan, @barseghyanartur (open-source contributor)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
