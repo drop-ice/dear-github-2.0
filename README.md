@@ -144,5 +144,6 @@ Signed,
 - Jamie Kyle, @jamiebuilds (Babel, Yarn, Parcel, Lerna, Flow, Marionette, Dear GitHub 1.0)
 - Kay Rhodes, @masukomi (maintainer of and contributer to multiple projects)
 - Pedro Reys, @pedroreys (Programmer)
+- Philipp Hansch, @phansch (Rust & rust-clippy contributor)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
