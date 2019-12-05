@@ -224,5 +224,8 @@ Signed,
 - Alanna Scott, @ascott (Software Engineer)
 - Jason Dixon, @obfuscurity (ex-GitHub employee, Monitorama founder, open source contributor)
 - Anthony Maki, @4cm4k1 (Software Engineer)
+- Kevin Krieger, @kkrieger85 (#Openmage, different Magento1 Modules/Shops)
+
+
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
