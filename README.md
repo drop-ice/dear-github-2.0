@@ -224,6 +224,7 @@ Signed,
 - Alanna Scott, @ascott (Software Engineer)
 - Jason Dixon, @obfuscurity (ex-GitHub employee, Monitorama founder, open source contributor)
 - Anthony Maki, @4cm4k1 (Software Engineer)
+- Omer Katz, @thedrow (Celery Project)
 - Kaja Santro, @kajatiger, (software engineer, code curious organizer)
 - Gianpaolo Fili, @gianpaolof (Software Engineer)
 - Cheng You Bai, @cybai (Software Engineer)
