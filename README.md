@@ -89,5 +89,6 @@ Signed,
 - Tilde Thurium, @annthurium (Atom Editor contributor, Write Speak Code organizer)
 - Alexander Payne, @myrrlyn (Rust community)
 - Sam Whited, @SamWhited (Go, Docker, Conversations, etc. contributor)
+- Younes Zakaria, @drcd (lp0.dk)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
