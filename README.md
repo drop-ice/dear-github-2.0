@@ -94,5 +94,6 @@ Signed,
 - Brian Knox, @taotetek (GoCZMQ, contributor to CZMQ, Rsyslog)
 - Pierre-Yves Baccou, @pyb (Light Meta)
 - Melissa Elliott, @0xabad1dea (infosec researcher)
+- Zach Klippenstein, @zach-klippenstein (Square)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
