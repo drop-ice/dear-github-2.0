@@ -283,6 +283,7 @@ Signed,
 - James Vorderbruggen, @JamesVorder (MassMesh)
 - Jeremy Wagner, @malchata (yall.js, independent web performance consultant)
 - Sam Whited, @SamWhited (Go, Docker, Conversations, etc. contributor)
+- Jamie Wilkinson, @jaqx0r (Google SRE)
 - Stephanie Wilkinson, @stephaniewilkinson (@naisorg)
 - Dominik Wilkowski @dominikwilkowski (Thinkmill, Australian Government, Westpac)
 - Eberhard Wolff, @ewolff (Software Person, Author)
