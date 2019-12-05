@@ -224,6 +224,7 @@ Signed,
 - Alanna Scott, @ascott (Software Engineer)
 - Jason Dixon, @obfuscurity (ex-GitHub employee, Monitorama founder, open source contributor)
 - Anthony Maki, @4cm4k1 (Software Engineer)
+- Vikash Saini, @enigma10 (Software Engineer)
 - David Chopin, @ChopinDavid (Software Developer, student)
 - Steve Peters, @scpeters (Software Engineer, Homebrew maintainer)
 - Moritz Schlarb, @moschlar (Cloud Engineer)
