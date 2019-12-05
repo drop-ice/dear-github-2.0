@@ -82,6 +82,7 @@ Signed,
 - Artemis Tosini, @artemist (independent security researcher)
 - Hannah Howard, @hannahhoward (Carbon Five, RxReact)
 - Florian Gilcher, @skade (Rust, Rust Berlin, Ruby Berlin e.V.)
+- Gregor, @gr2m (Octokit)
 - Dan Bentley, @dbentley (Tilt)
 - Kristal Garcia, @kgmajor (Techqueria)
 - Frédéric Harper, @fharper
