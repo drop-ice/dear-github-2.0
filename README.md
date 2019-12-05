@@ -87,5 +87,6 @@ Signed,
 - Frédéric Harper, @fharper
 - Noah Berman, @bermannoah (small but mighty Ruby OSS projects, coffeebot)
 - Tilde Thurium, @annthurium (Atom Editor contributor, Write Speak Code organizer)
+- Alexander Payne, @myrrlyn (Rust community)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
