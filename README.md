@@ -171,5 +171,6 @@ Signed,
 - Thomas Russell Murphy, @thomasrussellmurphy (iStyle Verilog maintainer)
 - Aatish Bhatia, @aatishb (aatishb.com)
 - Becca Ricks, @baricks (Mozilla Foundation, tendernet)
+- Jake Gealer, @JakeMakesStuff (MagicCap)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
