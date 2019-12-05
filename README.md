@@ -67,6 +67,7 @@ Signed,
 - Ron. A, @0xadada (Unredacted Word)
 - Felix Ableitner, @nutomic (/e/ foundation, former developer of syncthing-android)
 - Dave Ackley, @daveackley (Best effort advocate and developer of MFM, ulam, SPLAT)
+- Artur Diniz Adam, @artdiniz (Instructor and developer @Caelum)
 - Zac Adam-MacEwen, @ZAdamMac (KSL)
 - Zac Anger, @zacanger (Node packages maintainer)
 - Patrick Arnett, @patrickarnett (Software Developer)
