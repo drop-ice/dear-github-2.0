@@ -279,5 +279,6 @@ Signed,
 - Felipe Rueda, @ferueda (Product Manager)
 - Espen Klem, @eklem (Interaction designer & opensource coder)
 - Alex Sanders, @sndrs (Software Engineer)
+- Ellie Huxtable, @ellmh (Software Engineer)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
