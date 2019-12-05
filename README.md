@@ -116,6 +116,7 @@ Signed,
 - Jason Dixon, @obfuscurity (ex-GitHub employee, Monitorama founder, open source contributor)
 - Cory Dodt, @corydodt (Bright.md)
 - Thomas Donoghue, @TomDonoghue (open-source software developer)
+- Jonathan Dorety, @kyullog (Software Developer)
 - Cédric Bonhomme, @cedricbonhomme (Software Engineer)
 - Oliver Drotbohm, @odrotbohm (Software Engineer, Spring Framework)
 - Renée Kooi, @goto-bus-stop (browserify; Clinic.js; Uppy)
