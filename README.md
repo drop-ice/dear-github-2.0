@@ -102,6 +102,7 @@ Signed,
 - Mitch Chapman, @mchapman87501 (Software Developer)
 - David Chopin, @ChopinDavid (Software Developer, student)
 - Andrew Chou, @achou11 (Software Engineer)
+- Frances Coronel, @fvcproductions (Co-Director, Techqueria)
 - Jimmy Cuadra, @jimmycuadra (Lita, Ruma)
 - Tierney Cyren, @bnb (Node.js, OpenJS Foundation, Cutenode, Electron)
 - Paul D'Ambra, @pauldambra (Software Engineer)
@@ -294,4 +295,3 @@ Signed,
 - Younes Zakaria, @drcd (lp0.dk)
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Andreas Zecher, @pixelate (Web Developer)
-- Frances Coronel, @fvcproductions (Co-Director, Techqueria)
