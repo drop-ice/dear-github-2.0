@@ -224,6 +224,7 @@ Signed,
 - Alanna Scott, @ascott (Software Engineer)
 - Jason Dixon, @obfuscurity (ex-GitHub employee, Monitorama founder, open source contributor)
 - Anthony Maki, @4cm4k1 (Software Engineer)
+- Eric, @TheLastZombie (webpages, scrapers, bots, tools)
 - Cédric Bonhomme, @cedricbonhomme (Software Engineer)
 - Emma C Humphries, @emceeaich (Firefox and Bugzilla)
 - Matt Mills, @photomattmills (Software Engineer, ElixirBridge co-founder)
