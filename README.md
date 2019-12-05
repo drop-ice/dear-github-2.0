@@ -192,5 +192,6 @@ Signed,
 - Jason Garber, @jgarber623 (web developer and standards advocate)
 - isis lovecruft, @isislovecruft (Cryptographer)
 - Peter Squicciarini, @stripedpajamas (VSCodium)
+- Zac Adam-MacEwen, @ZAdamMac (KSL)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
