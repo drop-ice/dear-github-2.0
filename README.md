@@ -100,6 +100,7 @@ Signed,
 - James Farmer, @jpfarmer (Honey Milk Software)
 - Jeremy Macaluso, @jvluso (Ethereum-oauth, Frame)
 - Elana Hashman, @ehashman (Open Source Initiative, Debian, Python Packaging Authority, Kubernetes)
+- Soni L., @soniex2 (GAnarchy)
 - Giles Bowkett, @gilesbowkett (various Ruby & JS contributions and personal projects)
 - Colin Caine, @cmcaine (Tridactyl and open scientific software)
 - Loren Segal, @lsegal (YARD, RubyDoc.info)
