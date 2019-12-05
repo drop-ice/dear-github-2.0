@@ -225,6 +225,7 @@ Signed,
 - Jason Dixon, @obfuscurity (ex-GitHub employee, Monitorama founder, open source contributor)
 - Anthony Maki, @4cm4k1 (Software Engineer)
 - Chris Hiestand, @chrishiestand (GitHub App Creator www.boss.dev)
+- Katherine Flavel, @katef (Software Engineer)
 - Jürgen Gmach, @jugmac00 (Software Engineer)
 - Keith Rarick, @kr
 - Eric, @TheLastZombie (webpages, scrapers, bots, tools)
