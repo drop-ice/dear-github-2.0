@@ -159,5 +159,6 @@ Signed,
 - Tomas Jansson, @mastoj (VP Engineering, Unacast)
 - Paul D'Ambra, @pauldambra (Software Engineer)
 - Andrew-David Jahchan, @AndrewDavid (Definitely Not A Co, Wild Gamut)
+- Renée Kooi, @goto-bus-stop (browserify; Clinic.js; Uppy)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
