@@ -161,5 +161,6 @@ Signed,
 - Andrew-David Jahchan, @AndrewDavid (Definitely Not A Co, Wild Gamut)
 - Scott Matsuda, @Scotterpops19
 - Renée Kooi, @goto-bus-stop (browserify; Clinic.js; Uppy)
+- Fedor Indutny, @indutny (Node.js)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
