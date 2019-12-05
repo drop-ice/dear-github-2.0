@@ -281,5 +281,6 @@ Signed,
 - Alex Sanders, @sndrs (Software Engineer)
 - Ellie Huxtable, @ellmh (Software Engineer)
 - Immanuel von Detten, @ypislon (Ready To Code @readytocode, Software Engineer)
+- whitequark, @whitequark (SolveSpace, nMigen, LLVM)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
