@@ -153,5 +153,6 @@ Signed,
 - Cory Dodt, @corydodt (Bright.md)
 - Artur Barseghyan, @barseghyanartur (open-source contributor)
 - Tomas Jansson, @mastoj (VP Engineering, Unacast)
+- Paul D'Ambra, @pauldambra (Software Engineer)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
