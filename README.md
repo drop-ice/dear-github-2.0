@@ -72,6 +72,14 @@ Signed,
 - Jeremy Meiss, @jerdog (DevRel, Community)
 - Dorothy R. Santos, @dorothysantos (Processing Foundation)
 - Brian McFee, @bmcfee (librosa)
+- Eden Segal-Grossman, @edensg (Open Pit, Parent Company)
+- Ron. A, @0xadada (Unredacted Word)
+- Chris J. Zähller, @seezee (Messenger Web Design, Mercury Photo Bureau, WP FOFT Loader plugin for WordPress)
+- Elliot Blackburn, @BlueHatbRit (mdpdf, and npm package author)
+- Vincent Grafé, @vgrafe
+- Olivier Lacan, @olivierlacan (Keep a Changelog, Shields, Code School)
+- Felipe Ventura @fvntr (Techqueria)
+- Artemis Tosini, @artemist (independent security researcher)
 - Hannah Howard, @hannahhoward (Carbon Five, RxReact)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
