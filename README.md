@@ -273,6 +273,9 @@ Signed,
 - Erin Power, @XAMPPRocky (Rust-lang contributor, tokei)
 - Amr Bakry, @amrrbakry (Software Engineer)
 - Gustav Pursche, @gustavpursche (Software Engineer)
+- Jörn Huxhorn, @huxi (Software Engineer)
+- Gavin Gray, @gngdb (Machine Learning Researcher)
+- Anne van Kesteren, @annevk (Web Standards, Mozilla)
 - Felipe Rueda, @ferueda (Product Manager)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
