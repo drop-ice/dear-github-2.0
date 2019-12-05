@@ -210,6 +210,7 @@ Signed,
 - Matt Mills, @photomattmills (Software Engineer, ElixirBridge co-founder)
 - Ryan Mottley, @ligerzero459 (Help.com)
 - Thomas Russell Murphy, @thomasrussellmurphy (iStyle Verilog maintainer)
+- Ferdous Nasri, @ferbsx (Web developer, code curious and ruby monstas)
 - Liam Newman, @bitwiseman (Jenkins project contributor, github-api, js-beautify)
 - Vui Nguyen, @vuinguyen (iOS and JavaScript Contributor of open-source projects)
 - Luna Nielsen, @Member1221 (Glimpse, PolyplexEngine)
