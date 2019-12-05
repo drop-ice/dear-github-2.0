@@ -119,5 +119,6 @@ Signed,
 - Kyle Simpson, @getify (Getify, YDKJS)
 - Richard Littauer, @RichardLitt (Maintainer Mountaineer)
 - Brian Cain, @briancain (Vagrant contributor)
+- Matheus Fantinel, @matfantinel (Software Developer)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
