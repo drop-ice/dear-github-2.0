@@ -190,5 +190,6 @@ Signed,
 - Kayla Brackson, @colorincode (Color in Code / Developer)
 - Ryan Mottley, @ligerzero459 (Help.com)
 - Jason Garber, @jgarber623 (web developer and standards advocate)
+- isis lovecruft, @isislovecruft (Cryptographer)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
