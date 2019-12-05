@@ -110,5 +110,6 @@ Signed,
 - Joe Granville, @metaregress (hobbyist)
 - Saul Shanabrook, @saulshanabrook (Quansight, Jupyter)
 - Ken Arroyo Ohori, @kenohori (Delft University of Technology)
+- Adam C. Foltzer, @acfoltzer (Lucet)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
