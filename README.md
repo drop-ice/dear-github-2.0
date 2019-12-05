@@ -149,5 +149,6 @@ Signed,
 - Jannis Leidel, @jezdez (Mozilla, Python Software Foundation, Django Software Foundation)
 - Colby Swandale, @colby-swandale (Bundler, Rubygems, RubyGems.org)
 - David Ranzolin, @daranzolin (San Francisco State University)
+- Josh Simmons, @joshsimmons (FOSS community organizer)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
