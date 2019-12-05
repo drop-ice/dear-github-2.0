@@ -264,7 +264,7 @@ Signed,
 - Francis Gulotta, @reconbot (Node Serialport, Request)
 - Chance Dickson, @chancedickson (Product Engineer @ Glitch)
 - Thorr Stevens, @thorrstevens (Javascript Developer, date-fns contributor)
-– Andreas Zecher, @pixelate (Web Developer)
+- Andreas Zecher, @pixelate (Web Developer)
 - Christoph Stock, @stockulus (Software Engineer)
 - Sebastian Vilhelm Nielsen, @VilhelmNielsen (Software Engineer)
 - Gaurav Rao, @wizgrao (Flipout)
