@@ -164,5 +164,6 @@ Signed,
 - Renée Kooi, @goto-bus-stop (browserify; Clinic.js; Uppy)
 - Fedor Indutny, @indutny (Node.js)
 - Kaylum Lally, @HiKaylum (Senior UX Developer, Accessibility Advocate)
+- Filipe Roman Veloso, @rovel (Umanni)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
