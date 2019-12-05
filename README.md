@@ -122,5 +122,6 @@ Signed,
 - Matheus Fantinel, @matfantinel (Software Developer)
 - Thibaud Guillaume-Gentil, @thibaudgg (creator and contributor of various Ruby gems)
 - Jacob Helwig, @jhelwig (Calagator)
+- Thomas Donoghue, @TomDonoghue (open-source software developer)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
