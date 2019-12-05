@@ -141,5 +141,6 @@ Signed,
 - Timothy Dang, @timdang (Software Engineer)
 - Thomas Fuchs, @madrobby (Zepto, scriptaculous)
 - Ray Ryan, @rjrjr (Square)
+- Avery Katko, @averykatko (Software Developer)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
