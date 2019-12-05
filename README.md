@@ -275,5 +275,6 @@ Signed,
 - Gustav Pursche, @gustavpursche (Software Engineer)
 - Jörn Huxhorn, @huxi (Software Engineer)
 - Gavin Gray, @gngdb (Machine Learning Researcher)
+- Owen Blacker, @owenblacker (technologist and activist, trustee Open Rights Group, ex-trustee mySociety)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
