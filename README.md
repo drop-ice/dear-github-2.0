@@ -224,6 +224,7 @@ Signed,
 - Alanna Scott, @ascott (Software Engineer)
 - Jason Dixon, @obfuscurity (ex-GitHub employee, Monitorama founder, open source contributor)
 - Anthony Maki, @4cm4k1 (Software Engineer)
+- Katherine Flavel, @katef (Software Engineer)
 - Jürgen Gmach, @jugmac00 (Software Engineer)
 - Keith Rarick, @kr
 - Eric, @TheLastZombie (webpages, scrapers, bots, tools)
