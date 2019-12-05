@@ -285,5 +285,6 @@ Signed,
 - Daniel Bolivar, @ddanielbee (Software Engineer)
 - Brendan Zabarauskas, @brendanzab (Software Engineer)
 - Rahul Mathews, @rahulmathews (Full Stack Developer)
+- Matthieu Collé, @raiseandfall (Software Engineer)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
