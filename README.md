@@ -84,5 +84,6 @@ Signed,
 - Florian Gilcher, @skade (Rust, Rust Berlin, Ruby Berlin e.V.)
 - Dan Bentley, @dbentley (Tilt)
 - Kristal Garcia, @kgmajor (Techqueria)
+- Frédéric Harper, @fharper
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
