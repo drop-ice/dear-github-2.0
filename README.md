@@ -237,6 +237,7 @@ Signed,
 - Thorr Stevens, @thorrstevens (Javascript Developer, date-fns contributor)
 – Andreas Zecher, @pixelate (Web Developer)
 - Christoph Stock, @stockulus (Software Engineer)
+- Gaurav Rao, @wizgrao (Flipout)
 - Tiago Rodrigues, @trodrigues (Software Engineer, open source contributor, previously LXJS organizer)
 - Tobi Schäfer, @p3k (Antville.org)
 - Erin Power, @XAMPPRocky (Rust-lang contributor, tokei)
