@@ -59,7 +59,6 @@ Signed,
 - Itamar Turner-Trauring, @itamarst (Eliot, formerly Twisted and Telepresence)
 - Natalie Weizenbaum, @nex3 (Sass)
 - Greg Wilson, @gvwilson (RStudio)
-- Jamie Kyle, @jamiebuilds (Babel, Yarn, Parcel, Lerna, Flow, Marionette, Dear GitHub 1.0)
 
 ----
 
@@ -73,5 +72,6 @@ Signed,
 - Jeremy Meiss, @jerdog (DevRel, Community)
 - Dorothy R. Santos, @dorothysantos (Processing Foundation)
 - Brian McFee, @bmcfee (librosa)
+- Jamie Kyle, @jamiebuilds (Babel, Yarn, Parcel, Lerna, Flow, Marionette, Dear GitHub 1.0)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
