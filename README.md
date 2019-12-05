@@ -220,5 +220,6 @@ Signed,
 - Andrew Chou, @achou11 (Software Engineer)
 - Masafumi Koba, @ybiquitous (Software Developer)
 - Rian Finnegan, @xtellurian (Amphora Data)
+- Jeff Forcier, @bitprophet (Fabric, Paramiko, etc)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
