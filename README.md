@@ -215,5 +215,6 @@ Signed,
 - Felix Ableitner, @nutomic (/e/ foundation, former developer of syncthing-android)
 - April H, @NthPortal (Scala contributor)
 - Aleph Santos Oliveira, @haple
+- Andy Wortman, @iximeow (Lucet, open-source contributor)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
