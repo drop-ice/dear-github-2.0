@@ -97,5 +97,6 @@ Signed,
 - Zach Klippenstein, @zach-klippenstein (Square)
 - James Farmer, @jpfarmer (Honey Milk Software)
 - Jeremy Macaluso, @jvluso (Ethereum-oauth, Frame)
+- Elana Hashman, @ehashman (Open Source Initiative, Debian, Python Packaging Authority, Kubernetes)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
