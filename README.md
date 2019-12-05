@@ -282,5 +282,6 @@ Signed,
 - Ellie Huxtable, @ellmh (Software Engineer)
 - Immanuel von Detten, @ypislon (Ready To Code @readytocode, Software Engineer)
 - Palash Nigam, @palash25, (Student, Contributor to various projects)
+- Daniel Bolivar, @ddanielbee (Software Engineer)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
