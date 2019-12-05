@@ -73,6 +73,18 @@ Signed,
 - Dorothy R. Santos, @dorothysantos (Processing Foundation)
 - Brian McFee, @bmcfee (librosa)
 - Eden Segal-Grossman, @edensg (Open Pit, Parent Company)
+- Ron. A, @0xadada (Unredacted Word)
+- Chris J. Zähller, @seezee (Messenger Web Design, Mercury Photo Bureau, WP FOFT Loader plugin for WordPress)
+- Elliot Blackburn, @BlueHatbRit (mdpdf, and npm package author)
+- Vincent Grafé, @vgrafe
+- Olivier Lacan, @olivierlacan (Keep a Changelog, Shields, Code School)
+- Felipe Ventura, @fvntr (Techqueria)
+- Artemis Tosini, @artemist (independent security researcher)
+- Hannah Howard, @hannahhoward (Carbon Five, RxReact)
+- Florian Gilcher, @skade (Rust, Rust Berlin, Ruby Berlin e.V.)
+- Dan Bentley, @dbentley (Tilt)
+- Kristal Garcia, @kgmajor (Techqueria)
+- Frédéric Harper, @fharper
 - Noah Berman, @bermannoah (small but mighty Ruby OSS projects, coffeebot)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
