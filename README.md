@@ -192,6 +192,7 @@ Signed,
 - Jannis Leidel, @jezdez (Mozilla, Python Software Foundation, Django Software Foundation)
 - Judson Lester, @nyarly (Many small projects and contributions)
 - Myles Lewando, @codemacabre (CodeMacabre, OpenPlanetary)
+- Eric Lewis, @ericandrewlewis (Software Engineer)
 - Richard Littauer, @RichardLitt (Maintainer Mountaineer)
 - isis lovecruft, @isislovecruft (Cryptographer)
 - Joseph Luck, @josephluck (Software Engineer, various open source)
