@@ -198,6 +198,7 @@ Signed,
 - Jeremy Macaluso, @jvluso (Ethereum-oauth, Frame)
 - Mathew Maidment, @lioncash (Emulator developer; Dolphin, Citra, yuzu)
 - Anthony Maki, @4cm4k1 (Software Engineer)
+- Esteban Manchado Velázquez, @emanchado (RoboHydra)
 - Erik Marks, @rekmarks (Software Developer)
 - Rahul Mathews, @rahulmathews (Full Stack Developer)
 - Scott Matsuda, @Scotterpops19
