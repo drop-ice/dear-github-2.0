@@ -177,6 +177,7 @@ Signed,
 - Avery Katko, @averykatko (Software Developer)
 - Omer Katz, @thedrow (Celery Project)
 - Eslam Khoga, @KhogaEslam (Software Engineer)
+- Markus Kitsinger, @SwooshyCueb (Software Engineer)
 - Espen Klem, @eklem (Interaction designer & opensource coder)
 - Zach Klippenstein, @zach-klippenstein (Square)
 - Brian Knox, @taotetek (GoCZMQ, contributor to CZMQ, Rsyslog)
