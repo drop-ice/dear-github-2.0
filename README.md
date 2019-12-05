@@ -89,6 +89,7 @@ Signed,
 - Hannah Blau, @hannahblau (research software engineer)
 - Daniel Bolivar, @ddanielbee (Software Engineer)
 - Remie Bolte, @remie (YouTransfer.io, gfc.io)
+- Nathan Bouscal, @nbouscal (Software Engineer)
 - Giles Bowkett, @gilesbowkett (various Ruby & JS contributions and personal projects)
 - Joe Bowser, @infil00p (Software Engineer)
 - Kayla Brackson, @colorincode (Color in Code / Developer)
