@@ -179,5 +179,6 @@ Signed,
 - Stephen P. Huff, @hakamadare (SRE)
 - Justin Mazzocchi, @jzzocc (Software Developer)
 - Tarjei Husøy, @thusoy (Megacool, saltstack contributor)
+- Julian Raufelder, @SailReal (Software Developer)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
