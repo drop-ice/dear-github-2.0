@@ -271,6 +271,7 @@ Signed,
 - Christoph Stock, @stockulus (Software Engineer)
 - Colby Swandale, @colby-swandale (Bundler, Rubygems, RubyGems.org)
 - Gueorgui Tcherednitchenko, @gueorgui (A Possible Space)
+- Peter Thaleikis, @spekulatius (Software engineer)
 - Tilde Thurium, @annthurium (Atom Editor contributor, Write Speak Code organizer)
 - Thomas Tortorini, @mr21 (gridsound)
 - Artemis Tosini, @artemist (independent security researcher)
