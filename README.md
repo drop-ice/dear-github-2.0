@@ -224,6 +224,7 @@ Signed,
 - Alanna Scott, @ascott (Software Engineer)
 - Jason Dixon, @obfuscurity (ex-GitHub employee, Monitorama founder, open source contributor)
 - Anthony Maki, @4cm4k1 (Software Engineer)
+- Fynn Becker, @mvsde (Frontend Developer, Pangolin.js maintainer)
 - Ellen Wondra, @ln1draw (Software Engineer)
 - Eberhard Wolff, @ewolff (Software Person, Author)
 - Carlos Rufo, @swcarlosrj (Software Engineer)
