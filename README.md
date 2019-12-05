@@ -92,5 +92,6 @@ Signed,
 - Younes Zakaria, @drcd (lp0.dk)
 - Corey Farwell, @frewsxcv (@kickstarter, Rust)
 - Brian Knox, @taotetek (GoCZMQ, contributor to CZMQ, Rsyslog)
+- Pierre-Yves Baccou, @pyb (Light Meta)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
