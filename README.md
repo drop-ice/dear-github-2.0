@@ -282,6 +282,7 @@ Signed,
 - Immanuel von Detten, @ypislon (Ready To Code @readytocode, Software Engineer)
 - James Vorderbruggen, @JamesVorder (MassMesh)
 - Jeremy Wagner, @malchata (yall.js, independent web performance consultant)
+- Max Dominik Weber, @fenhl (Computer Science student, hobbyist programmer)
 - Sam Whited, @SamWhited (Go, Docker, Conversations, etc. contributor)
 - Stephanie Wilkinson, @stephaniewilkinson (@naisorg)
 - Dominik Wilkowski @dominikwilkowski (Thinkmill, Australian Government, Westpac)
