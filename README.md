@@ -167,5 +167,6 @@ Signed,
 - Filipe Roman Veloso, @rovel (Umanni)
 - Dominik Wilkowski @dominikwilkowski (Thinkmill, Australian Government, Westpac)
 - Thomas Tortorini, @mr21 (gridsound)
+- Anton Rusinov, @RusinovAnton (JS tl;dr)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
