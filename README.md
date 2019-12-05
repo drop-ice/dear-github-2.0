@@ -80,5 +80,6 @@ Signed,
 - Olivier Lacan, @olivierlacan (Keep a Changelog, Shields, Code School)
 - Felipe Ventura @fvntr (Techqueria)
 - Artemis Tosini, @artemist (independent security researcher)
+- Hannah Howard, @hannahhoward (Carbon Five, RxReact)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
