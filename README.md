@@ -25,7 +25,7 @@ Signed,
 - Taeyoon Choi, @tchoi8 (School for Poetic Computation)
 - Krzysztof Cieslak, @Krzysztof-Cieslak (CEO, OSS developer, Ionide, Saturn, FsAutocomplete)
 - Josh Comeau, @joshwcomeau (staff software engineer, Gatsby)
-- Marc Cornellà, @mcornella (Oh My Zsh) 
+- Marc Cornellà, @mcornella (Oh My Zsh)
 - Matt Cowley, @MattIPv4 (cdnjs)
 - Kushal Das, @kushaldas (Public Interest Technologist, Freedom of the Press Foundation)
 - Chris Dickinson, @chrisdickinson (Entropic)
@@ -103,5 +103,6 @@ Signed,
 - Loren Segal, @lsegal (YARD, RubyDoc.info)
 - Laryn Kragt Bakker, @laryn (Backdrop CMS and CiviCRM contributor)
 - Ibrahim Cesar, @ibrahimcesar (React Lite YouTube Embed)
+- Shawn Eisenach, @wholewheattoast (Artist and Software Developer)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
