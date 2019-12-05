@@ -222,5 +222,6 @@ Signed,
 - Rian Finnegan, @xtellurian (Amphora Data)
 - Jeff Forcier, @bitprophet (Fabric, Paramiko, etc)
 - Alanna Scott, @ascott (Software Engineer)
+- Jason Dixon, @obfuscurity (ex-GitHub employee, Monitorama founder, open source contributor)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
