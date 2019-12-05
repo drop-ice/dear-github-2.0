@@ -86,6 +86,7 @@ Signed,
 - Noah Berman, @bermannoah (small but mighty Ruby OSS projects, coffeebot)
 - Aatish Bhatia, @aatishb (aatishb.com)
 - Elliot Blackburn, @BlueHatbRit (mdpdf, and npm package author)
+- Tamzin Blake, @tamzinblake (Software Engineer)
 - Hannah Blau, @hannahblau (research software engineer)
 - Daniel Bolivar, @ddanielbee (Software Engineer)
 - Remie Bolte, @remie (YouTransfer.io, gfc.io)
@@ -294,4 +295,3 @@ Signed,
 - Younes Zakaria, @drcd (lp0.dk)
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Andreas Zecher, @pixelate (Web Developer)
-
