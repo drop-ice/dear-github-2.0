@@ -199,6 +199,7 @@ Signed,
 - Mathew Maidment, @lioncash (Emulator developer; Dolphin, Citra, yuzu)
 - Anthony Maki, @4cm4k1 (Software Engineer)
 - Erik Marks, @rekmarks (Software Developer)
+- Mano Marks, @ManoMarks
 - Rahul Mathews, @rahulmathews (Full Stack Developer)
 - Scott Matsuda, @Scotterpops19
 - Justin Mazzocchi, @jzzocc (Software Developer)
