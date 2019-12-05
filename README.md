@@ -224,6 +224,7 @@ Signed,
 - Alanna Scott, @ascott (Software Engineer)
 - Jason Dixon, @obfuscurity (ex-GitHub employee, Monitorama founder, open source contributor)
 - Anthony Maki, @4cm4k1 (Software Engineer)
+- Carlos Rufo, @swcarlosrj (Software Engineer)
 - Emily Pillmore, @emilypi (cohomolo.gy)
 - Simon Kunz @MDSLKTR (Software Engineer, npm package author)
 - Liam Newman, @bitwiseman (Jenkins project contributor, github-api, js-beautify)
