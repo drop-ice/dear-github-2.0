@@ -102,5 +102,6 @@ Signed,
 - Colin Caine, @cmcaine (Tridactyl and open scientific software)
 - Loren Segal, @lsegal (YARD, RubyDoc.info)
 - Laryn Kragt Bakker, @laryn (Backdrop CMS and CiviCRM contributor)
+- Ibrahim Cesar, @ibrahimcesar (React Lite YouTube Embed)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
