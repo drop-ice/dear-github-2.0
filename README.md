@@ -86,5 +86,6 @@ Signed,
 - Kristal Garcia, @kgmajor (Techqueria)
 - Frédéric Harper, @fharper
 - Noah Berman, @bermannoah (small but mighty Ruby OSS projects, coffeebot)
+- Luna Nielsen, @Member1221 (Glimpse, PolyplexEngine)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
