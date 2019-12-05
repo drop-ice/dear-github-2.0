@@ -136,5 +136,6 @@ Signed,
 - Matt Chapman, @matt2000 (Code Contributor to many open-source projects)
 - James Vorderbruggen, @JamesVorder (MassMesh)
 - Phil Beauvoir, @Phillipus (Archi)
-
+- Trevor Flowers, @TrevorFSmith (Chair of W3C Immersive Web CG, Invited expert of W3C Immersive Web WG, Principal at Transmutable)
+  
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
