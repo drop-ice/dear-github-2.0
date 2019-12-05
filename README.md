@@ -281,5 +281,6 @@ Signed,
 - Alex Sanders, @sndrs (Software Engineer)
 - Ellie Huxtable, @ellmh (Software Engineer)
 - Immanuel von Detten, @ypislon (Ready To Code @readytocode, Software Engineer)
+- Scott van Looy, @scottbert (ojoho)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
