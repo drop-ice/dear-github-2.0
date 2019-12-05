@@ -224,6 +224,7 @@ Signed,
 - Marco Perone, @marcosh (Statebox)
 - Steve Peters, @scpeters (Software Engineer, Homebrew maintainer)
 - Emily Pillmore, @emilypi (cohomolo.gy)
+- George Platko, @geo1088 (Student, npm package author, web developer, Discord bot contributor)
 - Erin Power, @XAMPPRocky (Rust-lang contributor, tokei)
 - Gustav Pursche, @gustavpursche (Software Engineer)
 - Daniel Quinn, @danielquinn (Paperless, Aletheia, mt103)
