@@ -198,5 +198,6 @@ Signed,
 - Rebecca Turner, @9999years (Xoogler)
 - Shubha Rajan, @shubha-rajan (Ada Developers Academy, STEM Education advocate && Software Developer)
 - Luna Nielsen, @Member1221 (Glimpse, PolyplexEngine)
+- Adam H. Sparks, @adamhsparks (#rstats package author and other FOSS projects)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
