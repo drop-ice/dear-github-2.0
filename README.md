@@ -172,5 +172,6 @@ Signed,
 - Aatish Bhatia, @aatishb (aatishb.com)
 - Becca Ricks, @baricks (Mozilla Foundation, tendernet)
 - Jake Gealer, @JakeMakesStuff (MagicCap)
+- Andy Wortman, @iximeow (Lucet, open-source contributor)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
