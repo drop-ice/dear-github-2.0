@@ -175,6 +175,6 @@ Signed,
 - Jake Brussel Faria, @jacobbf (Developer, technical writer, working on open source type projects)
 - Adam Recvlohe, @arecvlohe (Natives in Tech)
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
-- Judson Lester, @nyarly (Many small projects and contributions)
+- Martin Heidegger, @martinheidegger (consento-org, jsconfjp, ...)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
