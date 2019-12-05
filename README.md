@@ -207,5 +207,6 @@ Signed,
 - Joshua Shao, @jhuashao (Product Designer)
 - Hannah Blau, @hannahblau (research software engineer)
 - Zac Anger, @zacanger (Node packages maintainer)
+- Alanna Scott, @ascott (Software Engineer)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
