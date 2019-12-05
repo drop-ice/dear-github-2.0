@@ -205,5 +205,6 @@ Signed,
 - Kurtis Rainbolt-Greene, @krainboltgreene (Difference Engineers, owner of vcr.rb, mastodon core contributor, former rubygems core contributor)
 - Andrew Scheuermann, @a15n (Airbnb)
 - Joshua Shao, @jhuashao (Product Designer)
+- Anthony Maki, @4cm4k1 (Software Engineer)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
