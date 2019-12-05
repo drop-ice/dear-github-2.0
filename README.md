@@ -224,6 +224,7 @@ Signed,
 - Alanna Scott, @ascott (Software Engineer)
 - Jason Dixon, @obfuscurity (ex-GitHub employee, Monitorama founder, open source contributor)
 - Anthony Maki, @4cm4k1 (Software Engineer)
+- Christian Aust, @datenimperator (Software Developer)
 - Tom de Bruijn, @tombruijn (Software developer)
 - Anna Krasner, @annakrasner (Software Engineer, Game Developer)
 - Vikash Saini, @enigma10 (Software Engineer)
