@@ -211,5 +211,6 @@ Signed,
 - Rhodey Orbits, @rhodey (RadioWitness)
 - Avery Katko, @averykatko (Software Developer)
 - Vui Nguyen, @vuinguyen (iOS and JavaScript Contributor of open-source projects)
+- Mathew Maidment, @lioncash (Emulator developer; Dolphin, Citra, yuzu)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
