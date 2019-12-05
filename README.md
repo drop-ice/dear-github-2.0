@@ -112,11 +112,6 @@ Signed,
 - Ken Arroyo Ohori, @kenohori (Delft University of Technology)
 - Adam C. Foltzer, @acfoltzer (Lucet)
 - Shane Becker, @veganstraightedge (CrimethInc. Ex-Workers Collective @crimethinc)
-- Daniel Bayley, @danielbayley (Motion/graphic designer and software developer)
-- Chris Galardi, @ixtli (Engineer, iphone dev team)
-- Dinesh Gurnani, @dgurnani12 (EECS and Enthusiast)
-- Michael Daryabeygi, @ginkgoMZD (CiviCRM Contributor)
-- Kyle Simpson, @getify (Getify, YDKJS)
-- Richard Littauer, @RichardLitt (Maintainer Mountaineer)
+- Kurtis Rainbolt-Greene, @krainboltgreene (Difference Engineers, owner of vcr.rb, mastodon core contributor, former rubygems core contributor)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
