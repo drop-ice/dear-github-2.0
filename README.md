@@ -195,5 +195,6 @@ Signed,
 - Zac Adam-MacEwen, @ZAdamMac (KSL)
 - Lachlan Campbell, @lachlanjc (Hack Club)
 - Daniel Quinn, @danielquinn (Paperless, Aletheia, mt103)
+- Rebecca Turner, @9999years (Xoogler)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
