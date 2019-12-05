@@ -94,5 +94,6 @@ Signed,
 - Brian Knox, @taotetek (GoCZMQ, contributor to CZMQ, Rsyslog)
 - Pierre-Yves Baccou, @pyb (Light Meta)
 - Melissa Elliott, @0xabad1dea (infosec researcher)
+- Peter Aronoff, @telemachus (Lua modules split and tapered)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
