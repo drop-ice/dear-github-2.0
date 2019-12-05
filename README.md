@@ -115,5 +115,6 @@ Signed,
 - Daniel Bayley, @danielbayley (Motion/graphic designer and software developer)
 - Chris Galardi, @ixtli (Engineer, iphone dev team)
 - Dinesh Gurnani, @dgurnani12 (EECS and Enthusiast)
+- Michael Daryabeygi, @ginkgoMZD (CiviCRM Contributor)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
