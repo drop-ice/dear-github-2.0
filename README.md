@@ -137,5 +137,8 @@ Signed,
 - James Vorderbruggen, @JamesVorder (MassMesh)
 - Phil Beauvoir, @Phillipus (Archi)
 - Trevor Flowers, @TrevorFSmith (Chair of W3C Immersive Web CG, Invited expert of W3C Immersive Web WG, Principal at Transmutable)
-  
+- Myles Lewando, @codemacabre (CodeMacabre, OpenPlanetary)
+- Stephanie Wilkinson, @stephaniewilkinson (@naisorg)
+- Thomas Fuchs, @madrobby (Zepto, scriptaculous)
+
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
