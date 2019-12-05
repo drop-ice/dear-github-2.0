@@ -137,5 +137,6 @@ Signed,
 - James Vorderbruggen, @JamesVorder (MassMesh)
 - Phil Beauvoir, @Phillipus (Archi)
 - Myles Lewando, @codemacabre (CodeMacabre, OpenPlanetary)
+- Stephanie Wilkinson, @stephaniewilkinson (@naisorg)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
