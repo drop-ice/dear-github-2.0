@@ -224,6 +224,7 @@ Signed,
 - Alanna Scott, @ascott (Software Engineer)
 - Jason Dixon, @obfuscurity (ex-GitHub employee, Monitorama founder, open source contributor)
 - Anthony Maki, @4cm4k1 (Software Engineer)
+- Chance Dickson, @chancedickson (Product Engineer @ Glitch)
 - Thorr Stevens, @thorrstevens (Javascript Developer, date-fns contributor)
 – Andreas Zecher, @pixelate (Web Developer)
 - Christoph Stock, @stockulus (Software Engineer)
