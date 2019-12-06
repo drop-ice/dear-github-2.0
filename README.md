@@ -400,6 +400,7 @@ Signed,
 - Johan van der Knijff, @bitsgalore (jpylyzer maintainer)
 - Anne van Kesteren, @annevk (Web Standards, Mozilla)
 - Tara Vancil, @taravancil (Software Engineer, Glitch)
+- Sergei Visotsky @sergeivisotsky (Java Developer)
 - Felipe Ventura, @fvntr (Techqueria)
 - Sylvia van Os, @TheLastProject (UNIX Engineer, Open Source developer)
 - Immanuel von Detten, @ypislon (Ready To Code @readytocode, Software Engineer)
