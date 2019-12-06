@@ -427,6 +427,3 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
-
-[Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
-=======
