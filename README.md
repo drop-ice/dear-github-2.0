@@ -283,6 +283,7 @@ Signed,
 - Kevin Obuya, @obuya
 - Rhodey Orbits, @rhodey (RadioWitness)
 - Ken Arroyo Ohori, @kenohori (Delft University of Technology)
+- Leslie Owusu-Appiah, @leslieoa (Developer)
 - Sefa Ozalp, @sefabey (Data Science Researcher @ Cardiff University, HateLab)
 - Ave Ozkal, @aveao (Lead Software Developer, open source contributor; team at @elixire, @lasagnaltd, @reswitched, @switchroot)
 - Kirill Pahnev, @pahnev (Software Developer)
