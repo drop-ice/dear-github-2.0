@@ -79,6 +79,7 @@ Signed,
 - Jon Atkinson, @jonatkinson (Software Engineer)
 - Abdullah Atta, @thecodrr (Software Developer)
 - Christian Aust, @datenimperator (Software Developer)
+- Arber Avdullahu, @labbloom (Software Engineer)
 - Delan Azabani, @delan (software person)
 - Pierre-Yves Baccou, @pyb (Light Meta)
 - Kevin Backhouse, @kevinbackhouse (Security Researcher, GitHub)
