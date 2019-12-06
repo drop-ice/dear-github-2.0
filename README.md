@@ -320,6 +320,7 @@ Signed,
 - Dorothy R. Santos, @dorothysantos (Processing Foundation)
 - Aleph Santos Oliveira, @haple
 - Kaja Santro, @kajatiger, (software engineer, code curious organizer)
+- Sanjit Sarda @Sanjit1 (Student, RBHS)
 - Josiah Savary, @jozanza (Software Engineer)
 - Tobi Schäfer, @p3k (Antville.org)
 - Andrew Scheuermann, @a15n (Airbnb)
@@ -382,4 +383,3 @@ Signed,
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
-- Sanjit Sarda @Sanjit1 (Student, RBHS)
