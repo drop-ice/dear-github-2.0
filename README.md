@@ -349,6 +349,7 @@ Signed,
 - Artemis Tosini, @artemist (independent security researcher)
 - Matt Travi @travi (greenkeeper-keeper, GitHub Settings)
 - Kai Tribble @1ktribble (Software Engineer, Grubhub)
+- Jonathan Turner, @jonathandturner (Nushell, Rust, TypeScript)
 - Rebecca Turner, @9999years (Xoogler)
 - Johan van der Knijff, @bitsgalore (jpylyzer maintainer)
 - Anne van Kesteren, @annevk (Web Standards, Mozilla)
