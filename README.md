@@ -323,6 +323,7 @@ Signed,
 - Kevin Obuya, @obuya
 - Alessio Occhipinti, @LasaleFamine (Web Developer)
 - Ken Arroyo Ohori, @kenohori (Delft University of Technology)
+- Gray Olson, @termhn (Rust community, Amethyst contributor, ASU)
 - Rhodey Orbits, @rhodey (RadioWitness)
 - Uğur Oruc, @ketcap (Developer)
 - Leslie Owusu-Appiah, @leslieoa (Developer)
