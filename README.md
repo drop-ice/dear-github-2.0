@@ -96,6 +96,7 @@ Signed,
 - Elliot Blackburn, @BlueHatbRit (mdpdf, and npm package author)
 - Tamzin Blake, @tamzinblake (Software Engineer)
 - Hannah Blau, @hannahblau (research software engineer)
+- Bobbbay Bobbbayan, @bobbbay (Full Stack Web Developer)
 - Daniel Bolivar, @ddanielbee (Software Engineer)
 - Remie Bolte, @remie (YouTransfer.io, gfc.io)
 - Cédric Bonhomme, @cedricbonhomme (Software Engineer)
@@ -382,4 +383,3 @@ Signed,
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
-- Bobbbay Bobbbayan, @bobbbay (Full Stack Web Developer)
