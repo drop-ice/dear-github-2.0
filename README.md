@@ -152,6 +152,7 @@ Signed,
 - Jürgen Gmach, @jugmac00 (Software Engineer)
 - Thibaud Guillaume-Gentil, @thibaudgg (creator and contributor of various Ruby gems)
 - Francis Gulotta, @reconbot (Node Serialport, Request)
+- E.L. Guerrero, @thinkbulecount2 (Software Developer, PKP)
 - Dinesh Gurnani, @dgurnani12 (EECS and Enthusiast)
 - John-Mark Gurney, @jmgurney (personal, boycott GitHub)
 - April H, @NthPortal (Scala contributor)
