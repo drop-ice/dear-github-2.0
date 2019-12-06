@@ -399,6 +399,7 @@ Signed,
 - Kai Tribble @1ktribble (Software Engineer, Grubhub)
 - Rebecca Turner, @9999years (Xoogler)
 - Manuel Uberti, @manuel-uberti
+- Kashif Umair Liaqat, @kashif-umair (Senior Software Engineer)
 - Johan van der Knijff, @bitsgalore (jpylyzer maintainer)
 - Anne van Kesteren, @annevk (Web Standards, Mozilla)
 - Tara Vancil, @taravancil (Software Engineer, Glitch)
