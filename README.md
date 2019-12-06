@@ -258,6 +258,7 @@ Signed,
 - Jeremy Meiss, @jerdog (DevRel, Community)
 - Edgar Mejía, @edgarMejia (Creativa Consultores)
 - Federico Mena Quintero, @federicomenaquintero (GNOME)
+- Simon Menke, @fd (Mr. Henry)
 - Miguel Michelson, @michelson (vadb.org)
 - August Miller, @augustmiller (Web Developer)
 - Tony Miller, @mcfiredrill (@datafruits, @streampusher, open source contributor)
