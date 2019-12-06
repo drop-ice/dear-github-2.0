@@ -244,6 +244,7 @@ Signed,
 - Sebastian Riedel, @kraih (Mojolicious)
 - Tiago Rodrigues, @trodrigues (Software Engineer, open source contributor, previously LXJS organizer)
 - Filipe Roman Veloso, @rovel (Umanni)
+- Koz Ross, @kozross (awesome-c)
 - Felipe Rueda, @ferueda (Product Manager)
 - Carlos Rufo, @swcarlosrj (Software Engineer)
 - Jakob Runge, @runjak (Software Engineer)
