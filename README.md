@@ -123,6 +123,7 @@ Signed,
 - Tierney Cyren, @bnb (Node.js, OpenJS Foundation, Cutenode, Electron)
 - Paul D'Ambra, @pauldambra (Software Engineer)
 - Timothy Dang, @timdang (Software Engineer)
+- Jon Daniel, @binarycleric (Infrastructure Engineer, Heroku)
 - Michael Daryabeygi, @ginkgoMZD (CiviCRM Contributor)
 - Logan Davis, @brainsnail
 - Tom de Bruijn, @tombruijn (Software developer)
