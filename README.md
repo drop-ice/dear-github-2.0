@@ -277,6 +277,7 @@ Signed,
 - Ave Ozkal, @aveao (Lead Software Developer, open source contributor; team at @elixire, @lasagnaltd, @reswitched, @switchroot)
 - Kirill Pahnev, @pahnev (Software Developer)
 - Alexander Payne, @myrrlyn (Rust community)
+- Maarten Peels, @maartenpeels (Software Developer)
 - Marco Perone, @marcosh (Statebox)
 - Steve Peters, @scpeters (Software Engineer, Homebrew maintainer)
 - Penelope Phippen, @penelope_zone (Maintainer RSpec/Rubyfmt)
