@@ -209,6 +209,7 @@ Signed,
 - Federico Mena Quintero, @federicomenaquintero (GNOME)
 - Matt Mills, @photomattmills (Software Engineer, ElixirBridge co-founder)
 - Ryan Mottley, @ligerzero459 (Help.com)
+- Jose Munoz, @jdmg94 (Software Engineer)
 - Thomas Russell Murphy, @thomasrussellmurphy (iStyle Verilog maintainer)
 - Liam Newman, @bitwiseman (Jenkins project contributor, github-api, js-beautify)
 - Vui Nguyen, @vuinguyen (iOS and JavaScript Contributor of open-source projects)
@@ -294,4 +295,3 @@ Signed,
 - Younes Zakaria, @drcd (lp0.dk)
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Andreas Zecher, @pixelate (Web Developer)
-- Jose Munoz, @jdmg94 (Software Engineer)
