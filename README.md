@@ -234,6 +234,7 @@ Signed,
 - Steve Peters, @scpeters (Software Engineer, Homebrew maintainer)
 - Emily Pillmore, @emilypi (cohomolo.gy)
 - Erin Power, @XAMPPRocky (Rust-lang contributor, tokei)
+- Steve Purcell, @purcell
 - Gustav Pursche, @gustavpursche (Software Engineer)
 - Daniel Quinn, @danielquinn (Paperless, Aletheia, mt103)
 - Railken, @railken (web developer)
