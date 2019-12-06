@@ -365,6 +365,7 @@ Signed,
 - Jamie Wilkinson, @jaqx0r (Google SRE)
 - Stephanie Wilkinson, @stephaniewilkinson (@naisorg)
 - Dominik Wilkowski @dominikwilkowski (Thinkmill, Australian Government, Westpac)
+- Lars Willighagen, @larsgw (open-source contributor, Citation.js maintainer)
 - Eberhard Wolff, @ewolff (Software Person, Author)
 - Ellen Wondra, @ln1draw (Software Engineer)
 - Frank Wong, @f-wong (Principal Engineer, DevOps & Cloud)
