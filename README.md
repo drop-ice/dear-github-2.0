@@ -276,6 +276,7 @@ Signed,
 - Palash Nigam, @palash25, (Student, Contributor to various projects)
 - Kira Oakley, @noffle (Digital Democracy, Cabal Club)
 - Kevin Obuya, @obuya
+- Alessio Occhipinti, @LasaleFamine (Web Developer)
 - Rhodey Orbits, @rhodey (RadioWitness)
 - Ken Arroyo Ohori, @kenohori (Delft University of Technology)
 - Ave Ozkal, @aveao (Lead Software Developer, open source contributor; team at @elixire, @lasagnaltd, @reswitched, @switchroot)
@@ -382,4 +383,3 @@ Signed,
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
-- Alessio Occhipinti, @LasaleFamine (Web Developer)
