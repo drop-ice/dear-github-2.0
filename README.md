@@ -317,6 +317,7 @@ Signed,
 - Luna Nielsen, @Member1221 (Glimpse, PolyplexEngine)
 - Sebastian Vilhelm Nielsen, @VilhelmNielsen (Software Engineer)
 - Palash Nigam, @palash25, (Student, Contributor to various projects)
+- Forrest L Norvell, @othiym23 (Software Engineer, open source contributor)
 - Kira Oakley, @noffle (Digital Democracy, Cabal Club)
 - Jonathan Oberländer, @L3viathan (Software Developer)
 - Kevin Obuya, @obuya
