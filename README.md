@@ -123,6 +123,7 @@ Signed,
 - Joe Clay, @17cupsofcoffee (Software Engineer)
 - Alan Coopersmith, @alanc (X.Org maintainer)
 - Frances Coronel, @fvcproductions (Co-Director, Techqueria)
+- Denis Costa, @deniscostadsc (Programmer)
 - Anna Cruz, @annacruz (Software developer, ofx gem maintainer)
 - Jimmy Cuadra, @jimmycuadra (Lita, Ruma)
 - Nguyen Manh Cuong, @starfruitjsc (JavaScript Developer)
