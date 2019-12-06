@@ -245,6 +245,7 @@ Signed,
 - Pablo Meier, @pablo-meier (a human)
 - Jeremy Meiss, @jerdog (DevRel, Community)
 - Federico Mena Quintero, @federicomenaquintero (GNOME)
+- Miguel Michelson, @michelson (vadb.org)
 - August Miller, @augustmiller (Web Developer)
 - Tony Miller, @mcfiredrill (@datafruits, @streampusher, open source contributor)
 - Matt Mills, @photomattmills (Software Engineer, ElixirBridge co-founder)
