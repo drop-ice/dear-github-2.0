@@ -323,6 +323,7 @@ Signed,
 - Leslie Owusu-Appiah, @leslieoa (Developer)
 - Sefa Ozalp, @sefabey (Data Science Researcher @ Cardiff University, HateLab)
 - Ave Ozkal, @aveao (Lead Software Developer, open source contributor; team at @elixire, @lasagnaltd, @reswitched, @switchroot)
+- Luis Padron, @luispadron (Software Engineer, ICE disliker)
 - Kirill Pahnev, @pahnev (Software Developer)
 - Alexander Payne, @myrrlyn (Rust community)
 - Rosa Pérez, @paintedlbird7 (Aspiring Sofware Developer)
