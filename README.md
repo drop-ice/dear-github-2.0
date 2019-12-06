@@ -121,6 +121,7 @@ Signed,
 - Joe Clay, @17cupsofcoffee (Software Engineer)
 - Alan Coopersmith, @alanc (X.Org maintainer)
 - Frances Coronel, @fvcproductions (Co-Director, Techqueria)
+- Denis Costa, @deniscostadsc (Programmer)
 - Jimmy Cuadra, @jimmycuadra (Lita, Ruma)
 - Nguyen Manh Cuong, @starfruitjsc (JavaScript Developer)
 - Tierney Cyren, @bnb (Node.js, OpenJS Foundation, Cutenode, Electron)
@@ -382,4 +383,3 @@ Signed,
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
-- Denis Costa, @deniscostadsc (Programmer)
