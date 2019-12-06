@@ -282,6 +282,7 @@ Signed,
 - Felipe Ventura, @fvntr (Techqueria)
 - Immanuel von Detten, @ypislon (Ready To Code @readytocode, Software Engineer)
 - James Vorderbruggen, @JamesVorder (MassMesh)
+- Bex Warner, @hiimbex (X-GitHubber, Software Engineer, Human Being)
 - Jeremy Wagner, @malchata (yall.js, independent web performance consultant)
 - Sam Whited, @SamWhited (Go, Docker, Conversations, etc. contributor)
 - Stephanie Wilkinson, @stephaniewilkinson (@naisorg)
