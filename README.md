@@ -147,6 +147,7 @@ Signed,
 - Rian Finnegan, @xtellurian (Amphora Data)
 - Tony Fischetti, @tonyfischetti (Open source developer)
 - Katherine Flavel, @katef (Software Engineer)
+- Rob Fletcher, @robfletcher (Spinnaker contributor)
 - Brenna Flood, @brennx0r (OSFeels Conference Organizer, contributor to various JS, Ruby, DevOps projects)
 - Ian Flores, @ian-flores (Data Scientist)
 - Trevor Flowers, @TrevorFSmith (Chair of W3C Immersive Web CG, Invited expert of W3C Immersive Web WG, Principal at Transmutable)
