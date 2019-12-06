@@ -317,6 +317,7 @@ Signed,
 - Josh Simmons, @joshsimmons (FOSS community organizer)
 - Kyle Simpson, @getify (Getify, YDKJS)
 - Patrick Smith, @vectorpark (Artist)
+- Caroline Soares, @carolcodes (Front End Engineer)
 - Adam H. Sparks, @adamhsparks (#rstats package author and other FOSS projects)
 - Robyn Speer, @rspeer (ConceptNet)
 - Peter Squicciarini, @stripedpajamas (VSCodium)
