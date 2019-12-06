@@ -112,6 +112,7 @@ Signed,
 - David Celis, @davidcelis (maintainer of and contributor to various Ruby gems)
 - Ibrahim Cesar, @ibrahimcesar (React Lite YouTube Embed)
 - Andrew Cassidy, @drewcassidy (Engineering Student and KSP modder)
+- Stefano Cerelli, @scerelli (Software Engineer, Game Developer)
 - Lauren Chambers, @laurenmarietta (ACLU of Massachusetts)
 - Nicholas Chandoke, @nick-chandoke (Programmer)
 - Matt Chapman, @matt2000 (Code Contributor to many open-source projects)
