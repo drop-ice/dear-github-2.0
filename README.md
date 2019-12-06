@@ -257,6 +257,7 @@ Signed,
 - Pablo Meier, @pablo-meier (a human)
 - Jeremy Meiss, @jerdog (DevRel, Community)
 - Edgar Mejía, @edgarMejia (Creativa Consultores)
+- Meredith Mello, @merryMellody (Software Engineer)
 - Federico Mena Quintero, @federicomenaquintero (GNOME)
 - Miguel Michelson, @michelson (vadb.org)
 - August Miller, @augustmiller (Web Developer)
