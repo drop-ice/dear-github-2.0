@@ -190,6 +190,7 @@ Signed,
 - Simon Kunz @MDSLKTR (Software Engineer, npm package author)
 - Jamie Kyle, @jamiebuilds (Babel, Yarn, Parcel, Lerna, Flow, Marionette, Dear GitHub 1.0)
 - Soni L., @soniex2 (GAnarchy)
+- Angus L'Herrou, @angus-lherrou (Student)
 - Olivier Lacan, @olivierlacan (Keep a Changelog, Shields, Code School)
 - Kaylum Lally, @HiKaylum (Senior UX Developer, Accessibility Advocate)
 - Anthony Lee, @antwonlee (Software Engineer)
