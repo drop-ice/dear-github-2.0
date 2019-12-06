@@ -116,6 +116,7 @@ Signed,
 - Nicholas Chandoke, @nick-chandoke (Programmer)
 - Matt Chapman, @matt2000 (Code Contributor to many open-source projects)
 - Mitch Chapman, @mchapman87501 (Software Developer)
+- Christian Chaux, @Xwilarg (Software Developer, Student)
 - David Chopin, @ChopinDavid (Software Developer, student)
 - Andrew Chou, @achou11 (Software Engineer)
 - Joe Clay, @17cupsofcoffee (Software Engineer)
