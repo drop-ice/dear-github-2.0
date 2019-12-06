@@ -89,6 +89,7 @@ Signed,
 - Dan Bentley, @dbentley (Tilt)
 - Noah Berman, @bermannoah (small but mighty Ruby OSS projects, coffeebot)
 - Aatish Bhatia, @aatishb (aatishb.com)
+- Ralf Bitter, @revig (revIgniter)
 - Elliot Blackburn, @BlueHatbRit (mdpdf, and npm package author)
 - Tamzin Blake, @tamzinblake (Software Engineer)
 - Hannah Blau, @hannahblau (research software engineer)
