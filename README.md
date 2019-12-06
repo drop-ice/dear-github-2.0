@@ -130,6 +130,7 @@ Signed,
 - Michael Daryabeygi, @ginkgoMZD (CiviCRM Contributor)
 - Logan Davis, @brainsnail
 - Tom de Bruijn, @tombruijn (Software developer)
+- Marco Dalla Stella, @mdallastella (7bridges.eu co-founder)
 - Matthew Dean, @matthew-dean (Less.js)
 - Suhas Deshpande, @suhasdeshpande (Typescript & Angular contributor)
 - Henry Desroches, @xdesro (Faculty)
@@ -376,4 +377,3 @@ Signed,
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
-- Marco Dalla Stella, @mdallastella (7bridges.eu co-founder)
