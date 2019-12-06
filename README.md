@@ -173,6 +173,7 @@ Signed,
 - Brenna Flood, @brennx0r (OSFeels Conference Organizer, contributor to various JS, Ruby, DevOps projects)
 - Ian Flores, @ian-flores (Data Scientist)
 - Trevor Flowers, @TrevorFSmith (Chair of W3C Immersive Web CG, Invited expert of W3C Immersive Web WG, Principal at Transmutable)
+- Aidan Follestad, @afollestad (Android dev, OSS library maintainer, Square employee)
 - Adam C. Foltzer, @acfoltzer (Lucet)
 - Kenny Foner, @kwf (Software Engineer/Researcher, Galois)
 - Liz Fong-Jones, @lizthegrey (Principal Developer Advocate, @honeycombio; @opentelemetry governance committee; affiliations for identification purposes only)
