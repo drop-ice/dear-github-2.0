@@ -237,6 +237,7 @@ Signed,
 - Judson Lester, @nyarly (Many small projects and contributions)
 - Myles Lewando, @codemacabre (CodeMacabre, OpenPlanetary)
 - Eric Lewis, @ericandrewlewis (Software Engineer)
+- Daniel Liljeberg, @LiljebergXYZ (Backend Developer)
 - Richard Littauer, @RichardLitt (Maintainer Mountaineer)
 - Enric Llagostera, @enricllagostera (Game designer and PhD student, Concordia University)
 - isis lovecruft, @isislovecruft (Cryptographer)
