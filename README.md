@@ -216,6 +216,7 @@ Signed,
 - Julie McMurry, @jmcmurry (Monarch Initiative, Oregon State Faculty)
 - Jeremy Meiss, @jerdog (DevRel, Community)
 - Federico Mena Quintero, @federicomenaquintero (GNOME)
+- August Miller, @augustmiller (Web Developer)
 - Matt Mills, @photomattmills (Software Engineer, ElixirBridge co-founder)
 - Ryan Mottley, @ligerzero459 (Help.com)
 - Thomas Russell Murphy, @thomasrussellmurphy (iStyle Verilog maintainer)
