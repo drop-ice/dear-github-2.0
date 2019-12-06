@@ -392,6 +392,7 @@ Signed,
 - Joshua Shao, @jhuashao (Product Designer)
 - Josh Simmons, @joshsimmons (FOSS community organizer)
 - Kyle Simpson, @getify (Getify, YDKJS)
+- Alvaro Scheid, @ascheid (IT Security Analyst, OLG) 
 - Patrick Smith, @vectorpark (Artist)
 - Caroline Soares, @carolcodes (Front End Engineer)
 - Georgios Spanos, @drvspan (Algorithmic design, Security analyst)
