@@ -156,6 +156,7 @@ Signed,
 - Coraline Ada Ehmke, @coralineada (Contributor Covenant, Beacon, Hippocratic License, and EthicalSource.dev)
 - Shawn Eisenach, @wholewheattoast (Artist and Software Developer)
 - Melissa Elliott, @0xabad1dea (infosec researcher)
+- Abraham (Silur) Endre, @silur (Cryptographer)
 - Eric, @TheLastZombie (webpages, scrapers, bots, tools)
 - Dante Falzone @DanteFalzone0 (Student, C and Rust programmer, advocate for social justice)
 - Matheus Fantinel, @matfantinel (Software Developer)
