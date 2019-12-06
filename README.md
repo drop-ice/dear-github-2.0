@@ -414,6 +414,7 @@ Signed,
 - Rebecca Turner, @9999years (Xoogler)
 - Manuel Uberti, @manuel-uberti
 - Kashif Umair Liaqat, @kashif-umair (Senior Software Engineer)
+- Pablo Barría URenda, @differentsmoke (Web Developer)
 - Johan van der Knijff, @bitsgalore (jpylyzer maintainer)
 - Anne van Kesteren, @annevk (Web Standards, Mozilla)
 - Tara Vancil, @taravancil (Software Engineer, Glitch)
