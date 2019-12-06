@@ -71,6 +71,7 @@ Signed,
 - Zac Adam-MacEwen, @ZAdamMac (KSL)
 - Ryan Addessi, @raddessi (Systems/Network Engineer)
 - Ehsan Akhgari, @ehsan (Principal Engineer, Mozilla)
+- Dov Alperin, @DAlperin (Software Developer)
 - Heladio Amaya, @Heladio-ac (Software Developer)
 - Zac Anger, @zacanger (Node packages maintainer)
 - Patrick Arnett, @patrickarnett (Software Developer)
