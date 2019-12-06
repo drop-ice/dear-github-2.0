@@ -281,6 +281,7 @@ Signed,
 - Palash Nigam, @palash25, (Student, Contributor to various projects)
 - Kira Oakley, @noffle (Digital Democracy, Cabal Club)
 - Kevin Obuya, @obuya
+- Alessio Occhipinti, @LasaleFamine (Web Developer)
 - Rhodey Orbits, @rhodey (RadioWitness)
 - Ken Arroyo Ohori, @kenohori (Delft University of Technology)
 - Leslie Owusu-Appiah, @leslieoa (Developer)
