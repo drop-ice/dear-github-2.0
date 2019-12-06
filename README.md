@@ -376,3 +376,4 @@ Signed,
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
+- Martin Splitt, @avgp (Developer Advocate, Rendertron maintainer, open source developer, Google)
