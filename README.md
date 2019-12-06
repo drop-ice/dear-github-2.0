@@ -226,6 +226,7 @@ Signed,
 - Kaylum Lally, @HiKaylum (Senior UX Developer, Accessibility Advocate)
 - Alexander Lang, @langalex (Software Engineer)
 - Jake Lazaroff, @jakelazaroff (Designer/Developer)
+- Thuy Le, @1000miles (Software Engineer)
 - Anthony Lee, @antwonlee (Software Engineer)
 - Jannis Leidel, @jezdez (Python developer and community member)
 - Judson Lester, @nyarly (Many small projects and contributions)
