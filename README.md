@@ -161,6 +161,7 @@ Signed,
 - Elana Hashman, @ehashman (Open Source Initiative, Debian, Python Packaging Authority, Kubernetes)
 - Martin Heidegger, @martinheidegger (consento-org, jsconfjp, ...)
 - Jacob Helwig, @jhelwig (Calagator)
+- Guilherme Herzog, @guiherzog (Software Engineer)
 - Patrick Hickey, @pchickey (WebAssembly software developer)
 - Chris Hiestand, @chrishiestand (GitHub App Creator www.boss.dev)
 - Hannah Howard, @hannahhoward (Carbon Five, RxReact)
@@ -294,5 +295,4 @@ Signed,
 - Younes Zakaria, @drcd (lp0.dk)
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Andreas Zecher, @pixelate (Web Developer)
-- Guilherme Herzog, @guiherzog (Software Engineer)
 
