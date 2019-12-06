@@ -282,6 +282,7 @@ Signed,
 - Penelope Phippen, @penelope_zone (Maintainer RSpec/Rubyfmt)
 - Emily Pillmore, @emilypi (cohomolo.gy)
 - George Platko, @geo1088 (Student, npm package author, web developer, Discord bot contributor)
+- Darryl Pogue, @dpogue (Software Developer, open-source contributor, Apache Cordova committer)
 - Erin Power, @XAMPPRocky (Rust-lang contributor, tokei)
 - Steve Purcell, @purcell
 - Gustav Pursche, @gustavpursche (Software Engineer)
