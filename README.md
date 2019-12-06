@@ -74,6 +74,7 @@ Signed,
 - Patrick Arnett, @patrickarnett (Software Developer)
 - Peter Aronoff, @telemachus (Lua modules split and tapered)
 - Joshua Arulsamy, @jarulsamy (Software Developer, Student)
+- Abdullah Atta, @thecodrr (Software Developer)
 - Christian Aust, @datenimperator (Software Developer)
 - Delan Azabani, @delan (software person)
 - Pierre-Yves Baccou, @pyb (Light Meta)
