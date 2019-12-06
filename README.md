@@ -211,6 +211,7 @@ Signed,
 - isis lovecruft, @isislovecruft (Cryptographer)
 - Joseph Luck, @josephluck (Software Engineer, various open source)
 - Jeremy Macaluso, @jvluso (Ethereum-oauth, Frame)
+- Evan Machnic, @emachnic (Railsinstaller Maintainer and Chef contributor)
 - Mathew Maidment, @lioncash (Emulator developer; Dolphin, Citra, yuzu)
 - Anthony Maki, @4cm4k1 (Software Engineer)
 - Erik Marks, @rekmarks (Software Developer)
