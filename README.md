@@ -134,6 +134,7 @@ Signed,
 - Nick Doty, @nldoty (Software Engineer)
 - Cédric Bonhomme, @cedricbonhomme (Software Engineer)
 - Oliver Drotbohm, @odrotbohm (Software Engineer, Spring Framework)
+- Robin Dupret, @robin850 (Redcarpet, Propel and Ruby on Rails contributor)
 - Renée Kooi, @goto-bus-stop (browserify; Clinic.js; Uppy)
 - Coraline Ada Ehmke, @coralineada (Contributor Covenant, Beacon, Hippocratic License, and EthicalSource.dev)
 - Shawn Eisenach, @wholewheattoast (Artist and Software Developer)
