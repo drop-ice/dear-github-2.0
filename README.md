@@ -333,7 +333,8 @@ Signed,
 - Patrick Smith, @vectorpark (Artist)
 - Caroline Soares, @carolcodes (Front End Engineer)
 - Adam H. Sparks, @adamhsparks (#rstats package author and other FOSS projects)
-- Robyn Speer, @rspeer (ConceptNet)
+- Robyn Speer, @rspeer (ConceptNet
+- Martin Splitt, @avgp (Developer Advocate, Rendertron maintainer, open source developer, Google)
 - Peter Squicciarini, @stripedpajamas (VSCodium)
 - Thorr Stevens, @thorrstevens (Javascript Developer, date-fns contributor)
 - Christoph Stock, @stockulus (Software Engineer)
@@ -376,4 +377,3 @@ Signed,
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
-- Martin Splitt, @avgp (Developer Advocate, Rendertron maintainer, open source developer, Google)
