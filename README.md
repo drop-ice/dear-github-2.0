@@ -301,6 +301,7 @@ Signed,
 - Marco Perone, @marcosh (Statebox)
 - Steve Peters, @scpeters (Software Engineer, Homebrew maintainer)
 - Penelope Phippen, @penelope_zone (Maintainer RSpec/Rubyfmt)
+- Louis Pilfold, @lpil (Gleam, BEAM ecosystem)
 - Emily Pillmore, @emilypi (cohomolo.gy)
 - Juan Pichardo, @xMinota (Student, Web Developer)
 - George Platko, @geo1088 (Student, npm package author, web developer, Discord bot contributor)
