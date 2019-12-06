@@ -137,6 +137,7 @@ Signed,
 - Corey Farwell, @frewsxcv (@kickstarter, Rust)
 - Gianpaolo Fili, @gianpaolof (Software Engineer)
 - Rian Finnegan, @xtellurian (Amphora Data)
+- Tony Fischetti, @tonyfischetti (Open source developer)
 - Katherine Flavel, @katef (Software Engineer)
 - Brenna Flood, @brennx0r (OSFeels Conference Organizer, contributor to various JS, Ruby, DevOps projects)
 - Ian Flores, @ian-flores (Data Scientist)
