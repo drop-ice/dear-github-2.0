@@ -137,6 +137,7 @@ Signed,
 - Ian Flores, @ian-flores (Data Scientist)
 - Trevor Flowers, @TrevorFSmith (Chair of W3C Immersive Web CG, Invited expert of W3C Immersive Web WG, Principal at Transmutable)
 - Adam C. Foltzer, @acfoltzer (Lucet)
+- Kenny Foner, @kwf (Software Engineer/Researcher, Galois)
 - Liz Fong-Jones, @lizthegrey (Principal Developer Advocate, @honeycombio; @opentelemetry governance committee; affiliations for identification purposes only)
 - Jeff Forcier, @bitprophet (Fabric, Paramiko, etc)
 - Thomas Fuchs, @madrobby (Zepto, scriptaculous)
