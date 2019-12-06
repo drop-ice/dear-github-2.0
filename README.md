@@ -298,6 +298,7 @@ Signed,
 - Josh Simmons, @joshsimmons (FOSS community organizer)
 - Kyle Simpson, @getify (Getify, YDKJS)
 - Adam H. Sparks, @adamhsparks (#rstats package author and other FOSS projects)
+- Robyn Speer, @rspeer (ConceptNet)
 - Peter Squicciarini, @stripedpajamas (VSCodium)
 - Thorr Stevens, @thorrstevens (Javascript Developer, date-fns contributor)
 - Christoph Stock, @stockulus (Software Engineer)
