@@ -139,6 +139,7 @@ Signed,
 - Jon Daniel, @binarycleric (Infrastructure Engineer, Heroku)
 - Michael Daryabeygi, @ginkgoMZD (CiviCRM Contributor)
 - Logan Davis, @brainsnail
+- Ian Delahorne, @iandelahorne
 - Aram Drevekenin, @imsnif (Bit)
 - Tom de Bruijn, @tombruijn (Software developer)
 - Marco Dalla Stella, @mdallastella (7bridges.eu co-founder)
