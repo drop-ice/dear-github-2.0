@@ -180,6 +180,7 @@ Signed,
 - Joe Granville, @metaregress (hobbyist)
 - Gavin Gray, @gngdb (Machine Learning Researcher)
 - Garrett Green, @garrett-green (Software Developer)
+- Gyuri Grell, @ggrell (RxReactor, Software Developer)
 - Jürgen Gmach, @jugmac00 (Software Engineer)
 - Thibaud Guillaume-Gentil, @thibaudgg (creator and contributor of various Ruby gems)
 - Francis Gulotta, @reconbot (Node Serialport, Request)
