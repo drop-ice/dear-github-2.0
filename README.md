@@ -128,6 +128,7 @@ Signed,
 - Christian Chaux, @Xwilarg (Software Developer, Student)
 - David Chopin, @ChopinDavid (Software Developer, student)
 - Andrew Chou, @achou11 (Software Engineer)
+- Bryan Clark, @bryanjclark (Mobile Lead, Khan Academy)
 - Joe Clay, @17cupsofcoffee (Software Engineer)
 - Garret Cleare, @g4rret
 - Alan Coopersmith, @alanc (X.Org maintainer)
