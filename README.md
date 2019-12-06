@@ -251,6 +251,7 @@ Signed,
 - Soni L., @soniex2 (GAnarchy)
 - Angus L'Herrou, @angus-lherrou (Student)
 - Olivier Lacan, @olivierlacan (Keep a Changelog, Shields, Code School)
+- Kevin Ladan, @kebbbnnn (Mobile Software Engineer)
 - Kaylum Lally, @HiKaylum (Senior UX Developer, Accessibility Advocate)
 - Justin Landay, @jlanday (Data Scientist, Riot Games. Editor, The Gradient)
 - Alexander Lang, @langalex (Software Engineer)
