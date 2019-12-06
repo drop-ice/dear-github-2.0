@@ -216,6 +216,7 @@ Signed,
 - Evan Machnic, @emachnic (Railsinstaller Maintainer and Chef contributor)
 - Mathew Maidment, @lioncash (Emulator developer; Dolphin, Citra, yuzu)
 - Anthony Maki, @4cm4k1 (Software Engineer)
+- Dave Marin, @davidmarin (mrjob, doloop)
 - Erik Marks, @rekmarks (Software Developer)
 - Rahul Mathews, @rahulmathews (Full Stack Developer)
 - Scott Matsuda, @Scotterpops19
