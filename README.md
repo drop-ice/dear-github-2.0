@@ -337,6 +337,7 @@ Signed,
 - Kyle Simpson, @getify (Getify, YDKJS)
 - Patrick Smith, @vectorpark (Artist)
 - Caroline Soares, @carolcodes (Front End Engineer)
+- Georgios Spanos, @drvspan (Algorithmic design, Security analyst)
 - Adam H. Sparks, @adamhsparks (#rstats package author and other FOSS projects)
 - Robyn Speer, @rspeer (ConceptNet)
 - Peter Squicciarini, @stripedpajamas (VSCodium)
@@ -382,4 +383,3 @@ Signed,
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
-- Georgios Spanos, @drvspan (Algorithmic design, Security analyst)
