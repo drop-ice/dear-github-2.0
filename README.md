@@ -309,6 +309,7 @@ Signed,
 - Andrew Scheuermann, @a15n (Airbnb)
 - Moritz Schlarb, @moschlar (Cloud Engineer)
 - Eric Schultz, @wwahammy (CommitChange, Houdini Project)
+- Michael Schurter, @schmichael (HashiCorp Nomad Team Lead)
 - Alanna Scott, @ascott (Software Engineer)
 - Loren Segal, @lsegal (YARD, RubyDoc.info)
 - Eden Segal-Grossman, @edensg (Open Pit, Parent Company)
