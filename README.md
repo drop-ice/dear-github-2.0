@@ -188,6 +188,7 @@ Signed,
 - Avery Katko, @averykatko (Software Developer)
 - Omer Katz, @thedrow (Celery Project)
 - Eslam Khoga, @KhogaEslam (Software Engineer)
+- Kyle Kingsbury, @aphyr (Jepsen, Riemann)
 - Markus Kitsinger, @SwooshyCueb (Software Engineer)
 - Espen Klem, @eklem (Interaction designer & opensource coder)
 - Zach Klippenstein, @zach-klippenstein (Square)
