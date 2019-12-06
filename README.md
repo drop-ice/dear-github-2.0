@@ -283,6 +283,7 @@ Signed,
 - Pablo Meier, @pablo-meier (a human)
 - Jeremy Meiss, @jerdog (DevRel, Community)
 - Edgar Mejía, @edgarMejia (Creativa Consultores)
+- Meredith Mello, @merryMellody (Software Engineer)
 - Federico Mena Quintero, @federicomenaquintero (GNOME)
 - Simon Menke, @fd (Mr. Henry)
 - Miguel Michelson, @michelson (vadb.org)
