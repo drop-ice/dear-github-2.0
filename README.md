@@ -140,6 +140,7 @@ Signed,
 - Cory Dodt, @corydodt (Bright.md)
 - Kate Donaldson, @katelovescode (Software Engineer)
 - Thomas Donoghue, @TomDonoghue (open-source software developer)
+- Jonathan Dorety, @kyullog (Software Developer)
 - Nick Doty, @nldoty (Software Engineer)
 - Oliver Drotbohm, @odrotbohm (Software Engineer, Spring Framework)
 - Robin Dupret, @robin850 (Redcarpet, Propel and Ruby on Rails contributor)
