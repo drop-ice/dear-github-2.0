@@ -181,6 +181,7 @@ Signed,
 - Andrew-David Jahchan, @AndrewDavid (Definitely Not A Co, Wild Gamut)
 - Tomas Jansson, @mastoj (VP Engineering, Unacast)
 - Marcus Jensen, @Lomztein (Software Engineering Student, Hobbyist Developer)
+- Joe Kachmar, @jkachmar (Software Developer, Open Source Contributor)
 - Avery Katko, @averykatko (Software Developer)
 - Omer Katz, @thedrow (Celery Project)
 - Eslam Khoga, @KhogaEslam (Software Engineer)
