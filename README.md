@@ -315,6 +315,7 @@ Signed,
 - Dorothy R. Santos, @dorothysantos (Processing Foundation)
 - Aleph Santos Oliveira, @haple
 - Kaja Santro, @kajatiger, (software engineer, code curious organizer)
+- Aki Sasaki, @escapewindow (Staff Software Engineer, Mozilla)
 - Josiah Savary, @jozanza (Software Engineer)
 - Tobi Schäfer, @p3k (Antville.org)
 - Andrew Scheuermann, @a15n (Airbnb)
