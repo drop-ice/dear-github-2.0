@@ -389,6 +389,7 @@ Signed,
 - Matt Travi @travi (greenkeeper-keeper, GitHub Settings)
 - Kai Tribble @1ktribble (Software Engineer, Grubhub)
 - Rebecca Turner, @9999years (Xoogler)
+- Manuel Uberti, @manuel-uberti
 - Johan van der Knijff, @bitsgalore (jpylyzer maintainer)
 - Anne van Kesteren, @annevk (Web Standards, Mozilla)
 - Tara Vancil, @taravancil (Software Engineer, Glitch)
