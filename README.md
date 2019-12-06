@@ -172,6 +172,7 @@ Signed,
 - Kristal Garcia, @kgmajor (Techqueria)
 - Jake Gealer, @JakeMakesStuff (MagicCap)
 - Florian Gilcher, @skade (Rust, Rust Berlin, Ruby Berlin e.V.)
+- Moises Gonzalez, @moigonzalez (Web Developer)
 - Gregor, @gr2m (Octokit)
 - Matheus Graciano, @graciano (tananã)
 - Vincent Grafé, @vgrafe
@@ -388,4 +389,3 @@ Signed,
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
-- Moises Gonzalez, @moigonzalez (Web Developer)
