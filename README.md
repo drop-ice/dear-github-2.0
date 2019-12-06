@@ -225,6 +225,7 @@ Signed,
 - Muhammad Athif Humam, @athif23 (Software Developer, Open Source Contributor)
 - Fedor Indutny, @indutny (Node.js)
 - Dante Issaias, @danteissaias (Full Stack Developer)
+- Carter Landis, @ccarterlandis (CHAOSS Researcher, Maintainer & Developer, Student)
 - Andrew-David Jahchan, @AndrewDavid (Definitely Not A Co, Wild Gamut)
 - Tomas Jansson, @mastoj (VP Engineering, Unacast)
 - Marcus Jensen, @Lomztein (Software Engineering Student, Hobbyist Developer)
