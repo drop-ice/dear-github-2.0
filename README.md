@@ -244,6 +244,7 @@ Signed,
 - Pablo Meier, @pablo-meier (a human)
 - Jeremy Meiss, @jerdog (DevRel, Community)
 - Federico Mena Quintero, @federicomenaquintero (GNOME)
+- Miguel Michelson, @michelson (vadb.org)
 - August Miller, @augustmiller (Web Developer)
 - Matt Mills, @photomattmills (Software Engineer, ElixirBridge co-founder)
 - Ryan Mottley, @ligerzero459 (Help.com)
@@ -351,4 +352,3 @@ Signed,
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
-- Miguel Michelson (vadb.org)
