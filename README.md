@@ -261,6 +261,7 @@ Signed,
 - Erik Marks, @rekmarks (Software Developer)
 - Mano Marks, @ManoMarks
 - Rahul Mathews, @rahulmathews (Full Stack Developer)
+- Jefferson Matheus, @jefferson227 (Software Developer)
 - Scott Matsuda, @Scotterpops19
 - Justin Mazzocchi, @jzzocc (Software Developer)
 - Brian McFee, @bmcfee (librosa)
