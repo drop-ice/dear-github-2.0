@@ -413,6 +413,7 @@ Signed,
 - Stephanie Wilkinson, @stephaniewilkinson (@naisorg)
 - Dominik Wilkowski @dominikwilkowski (Thinkmill, Australian Government, Westpac)
 - Lars Willighagen, @larsgw (open-source contributor, Citation.js maintainer)
+- Mitch Winn, @mitchwinn (Developer)
 - Tim de Wit, @tim-dewit (Web developer)
 - Eberhard Wolff, @ewolff (Software Person, Author)
 - Ellen Wondra, @ln1draw (Software Engineer)
