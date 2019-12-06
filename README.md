@@ -280,6 +280,7 @@ Signed,
 - Marco Perone, @marcosh (Statebox)
 - Steve Peters, @scpeters (Software Engineer, Homebrew maintainer)
 - Penelope Phippen, @penelope_zone (Maintainer RSpec/Rubyfmt)
+- Louis Pilfold, @lpil (Gleam, BEAM ecosystem)
 - Emily Pillmore, @emilypi (cohomolo.gy)
 - George Platko, @geo1088 (Student, npm package author, web developer, Discord bot contributor)
 - Erin Power, @XAMPPRocky (Rust-lang contributor, tokei)
@@ -376,4 +377,3 @@ Signed,
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
-- Louis Pilfold, @lpil (Gleam, BEAM ecosystem)
