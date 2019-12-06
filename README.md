@@ -307,6 +307,7 @@ Signed,
 - Jakob Runge, @runjak (Software Engineer)
 - Stephen Rushe, @srushe (Software Engineer, maintainer of various Ruby gems)
 - Anton Rusinov, @RusinovAnton (JS tl;dr)
+- Chet Russell, @DarkestQuasar (Student, Aspiring Sofware Developer)
 - Ray Ryan, @rjrjr (Square)
 - Vikash Saini, @enigma10 (Software Engineer)
 - Alex Sanders, @sndrs (Software Engineer)
