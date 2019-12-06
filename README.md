@@ -197,6 +197,7 @@ Signed,
 - Jaafari El Housseine, @jefferyhus (Software Engineer)
 - Hannah Howard, @hannahhoward (Carbon Five, RxReact)
 - Ivan Huayraña, @ivanhuay (Software Engineer, open source contributor)
+- Peter Huene, @peterhuene (Mozilla)
 - Stephen P. Huff, @hakamadare (SRE)
 - Emma C Humphries, @emceeaich (Firefox and Bugzilla)
 - Tarjei Husøy, @thusoy (Megacool, saltstack contributor)
