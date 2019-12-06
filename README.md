@@ -368,6 +368,7 @@ Signed,
 - Eberhard Wolff, @ewolff (Software Person, Author)
 - Ellen Wondra, @ln1draw (Software Engineer)
 - Frank Wong, @f-wong (Principal Engineer, DevOps & Cloud)
+- Titus Wormer, @wooorm (Software engineer)
 - Andy Wortman, @iximeow (Lucet, open-source contributor)
 - Cheng You Bai, @cybai (Software Engineer)
 - Brendan Zabarauskas, @brendanzab (Software Engineer)
