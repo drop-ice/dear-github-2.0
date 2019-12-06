@@ -199,6 +199,7 @@ Signed,
 - Jacob Helwig, @jhelwig (Calagator)
 - Patrick Hickey, @pchickey (WebAssembly software developer)
 - Chris Hiestand, @chrishiestand (GitHub App Creator www.boss.dev)
+- Auron Hines, @ghostslayer989 (Hacktoberfest, Web Developer)
 - Joshua Hoskins, @friendtocephalopods (Square)
 - Jaafari El Housseine, @jefferyhus (Software Engineer)
 - Hannah Howard, @hannahhoward (Carbon Five, RxReact)
@@ -395,4 +396,3 @@ Signed,
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
-- Auron Hines, @ghostslayer989 (Hacktoberfest, Web Developer)
