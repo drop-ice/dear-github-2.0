@@ -290,8 +290,8 @@ Signed,
 - Kira Oakley, @noffle (Digital Democracy, Cabal Club)
 - Kevin Obuya, @obuya
 - Alessio Occhipinti, @LasaleFamine (Web Developer)
-- Rhodey Orbits, @rhodey (RadioWitness)
 - Ken Arroyo Ohori, @kenohori (Delft University of Technology)
+- Rhodey Orbits, @rhodey (RadioWitness)
 - Uğur Oruc, @ketcap (Developer)
 - Leslie Owusu-Appiah, @leslieoa (Developer)
 - Sefa Ozalp, @sefabey (Data Science Researcher @ Cardiff University, HateLab)
