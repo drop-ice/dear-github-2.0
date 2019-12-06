@@ -357,6 +357,7 @@ Signed,
 - Aleph Santos Oliveira, @haple
 - Kaja Santro, @kajatiger, (software engineer, code curious organizer)
 - Sanjit Sarda @Sanjit1 (Student, RBHS)
+- Aki Sasaki, @escapewindow (Staff Software Engineer, Mozilla)
 - Josiah Savary, @jozanza (Software Engineer)
 - Tobi Schäfer, @p3k (Antville.org)
 - Andrew Scheuermann, @a15n (Airbnb)
