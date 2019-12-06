@@ -117,6 +117,7 @@ Signed,
 - Mitch Chapman, @mchapman87501 (Software Developer)
 - David Chopin, @ChopinDavid (Software Developer, student)
 - Andrew Chou, @achou11 (Software Engineer)
+- Alan Coopersmith, @alanc (X.Org maintainer)
 - Frances Coronel, @fvcproductions (Co-Director, Techqueria)
 - Jimmy Cuadra, @jimmycuadra (Lita, Ruma)
 - Nguyen Manh Cuong, @starfruitjsc (JavaScript Developer)
