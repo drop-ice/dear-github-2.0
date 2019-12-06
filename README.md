@@ -136,6 +136,7 @@ Signed,
 - Logan Davis, @brainsnail
 - Aram Drevekenin, @imsnif (Bit)
 - Tom de Bruijn, @tombruijn (Software developer)
+- Marco Dalla Stella, @mdallastella (7bridges.eu co-founder)
 - Matthew Dean, @matthew-dean (Less.js)
 - Suhas Deshpande, @suhasdeshpande (Typescript & Angular contributor)
 - Henry Desroches, @xdesro (Faculty)
