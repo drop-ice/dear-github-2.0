@@ -248,6 +248,7 @@ Signed,
 - Julie McMurry, @jmcmurry (Monarch Initiative, Oregon State Faculty)
 - Pablo Meier, @pablo-meier (a human)
 - Jeremy Meiss, @jerdog (DevRel, Community)
+- Edgar Mejía, @edgarMejia (Creativa Consultores)
 - Federico Mena Quintero, @federicomenaquintero (GNOME)
 - Miguel Michelson, @michelson (vadb.org)
 - August Miller, @augustmiller (Web Developer)
