@@ -105,6 +105,7 @@ Signed,
 - Joe Bowser, @infil00p (Software Engineer)
 - Kayla Brackson, @colorincode (Color in Code / Developer)
 - Leigh Brenecki, @excitedleigh (Director, PyCon Australia 2020/2021; Organiser, DjangoCon Australia 2018/2019; Founding Organiser, Python Adelaide)
+- James Brock, @jamesdbrock (Programmer)
 - Kylan Byrd, @AvianAnalyst (Software Developer)
 - Brian Cain, @briancain (Vagrant contributor)
 - Colin Caine, @cmcaine (Tridactyl and open scientific software)
