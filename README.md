@@ -211,6 +211,7 @@ Signed,
 - Avery Katko, @averykatko (Software Developer)
 - Omer Katz, @thedrow (Celery Project)
 - Eslam Khoga, @KhogaEslam (Software Engineer)
+- Daniel Liljeberg, @LiljebergXYZ (Backend Developer)
 - Kyle Kingsbury, @aphyr (Jepsen, Riemann)
 - Markus Kitsinger, @SwooshyCueb (Software Engineer)
 - Espen Klem, @eklem (Interaction designer & opensource coder)
@@ -376,4 +377,3 @@ Signed,
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
-- Daniel Liljeberg, @LiljebergXYZ (Backend Developer)
