@@ -125,6 +125,7 @@ Signed,
 - Cory Dodt, @corydodt (Bright.md)
 - Kate Donaldson, @katelovescode (Software Engineer)
 - Thomas Donoghue, @TomDonoghue (open-source software developer)
+- Nick Doty, @nldoty (Software Engineer)
 - Cédric Bonhomme, @cedricbonhomme (Software Engineer)
 - Oliver Drotbohm, @odrotbohm (Software Engineer, Spring Framework)
 - Renée Kooi, @goto-bus-stop (browserify; Clinic.js; Uppy)
