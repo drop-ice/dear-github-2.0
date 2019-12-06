@@ -126,6 +126,7 @@ Signed,
 - David Chopin, @ChopinDavid (Software Developer, student)
 - Andrew Chou, @achou11 (Software Engineer)
 - Joe Clay, @17cupsofcoffee (Software Engineer)
+- Garret Cleare, @g4rret
 - Alan Coopersmith, @alanc (X.Org maintainer)
 - Frances Coronel, @fvcproductions (Co-Director, Techqueria)
 - Denis Costa, @deniscostadsc (Programmer)
