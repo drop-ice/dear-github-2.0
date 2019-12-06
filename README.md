@@ -63,6 +63,7 @@ Signed,
 ----
 
 [Add your signature below](https://github.com/drop-ice/dear-github-2.0/issues/16)
+
 - Ron. A, @0xadada (Unredacted Word)
 - Felix Ableitner, @nutomic (/e/ foundation, former developer of syncthing-android)
 - Dave Ackley, @daveackley (Best effort advocate and developer of MFM, ulam, SPLAT)
@@ -229,6 +230,7 @@ Signed,
 - Dante Issaias, @danteissaias (Full Stack Developer)
 - Andrew-David Jahchan, @AndrewDavid (Definitely Not A Co, Wild Gamut)
 - Tomas Jansson, @mastoj (VP Engineering, Unacast)
+- Marc-Antoine Jean, @chevalmuscle (Software Engineer Student)
 - Marcus Jensen, @Lomztein (Software Engineering Student, Hobbyist Developer)
 - Brian Jenkins, @bonkydog (npm)
 - Andrei Jiroh, @AndreiJirohHaliliDev2006 (Project Maintainer, MadeByThePinsHub)
