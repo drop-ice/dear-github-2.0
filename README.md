@@ -132,6 +132,7 @@ Signed,
 - Katherine Flavel, @katef (Software Engineer)
 - Brenna Flood, @brennx0r (OSFeels Conference Organizer, contributor to various JS, Ruby, DevOps projects)
 - Trevor Flowers, @TrevorFSmith (Chair of W3C Immersive Web CG, Invited expert of W3C Immersive Web WG, Principal at Transmutable)
+- Aidan Follestad, @afollestad (Android dev, OSS library maintainer, Square employee)
 - Adam C. Foltzer, @acfoltzer (Lucet)
 - Liz Fong-Jones, @lizthegrey (Principal Developer Advocate, @honeycombio; @opentelemetry governance committee; affiliations for identification purposes only)
 - Jeff Forcier, @bitprophet (Fabric, Paramiko, etc)
@@ -294,5 +295,4 @@ Signed,
 - Younes Zakaria, @drcd (lp0.dk)
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Andreas Zecher, @pixelate (Web Developer)
-- Aidan Follestad, @afollestad (Android dev, OSS library maintainer, Square employee)
 
