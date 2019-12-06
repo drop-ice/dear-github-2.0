@@ -191,7 +191,7 @@ Signed,
 - Olivier Lacan, @olivierlacan (Keep a Changelog, Shields, Code School)
 - Kaylum Lally, @HiKaylum (Senior UX Developer, Accessibility Advocate)
 - Anthony Lee, @antwonlee (Software Engineer)
-- Jannis Leidel, @jezdez (Mozilla, Python Software Foundation, Django Software Foundation)
+- Jannis Leidel, @jezdez (Python developer and community member)
 - Judson Lester, @nyarly (Many small projects and contributions)
 - Myles Lewando, @codemacabre (CodeMacabre, OpenPlanetary)
 - Richard Littauer, @RichardLitt (Maintainer Mountaineer)
