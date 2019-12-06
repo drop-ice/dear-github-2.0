@@ -115,6 +115,7 @@ Signed,
 - Chance Dickson, @chancedickson (Product Engineer @ Glitch)
 - Jason Dixon, @obfuscurity (ex-GitHub employee, Monitorama founder, open source contributor)
 - Cory Dodt, @corydodt (Bright.md)
+- Kate Donaldson, @katelovescode (Software Engineer)
 - Thomas Donoghue, @TomDonoghue (open-source software developer)
 - Cédric Bonhomme, @cedricbonhomme (Software Engineer)
 - Oliver Drotbohm, @odrotbohm (Software Engineer, Spring Framework)
