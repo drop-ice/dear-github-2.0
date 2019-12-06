@@ -278,6 +278,7 @@ Signed,
 - Rebecca Turner, @9999years (Xoogler)
 - Johan van der Knijff, @bitsgalore (jpylyzer maintainer)
 - Anne van Kesteren, @annevk (Web Standards, Mozilla)
+- Sergei Visotsky @sergeivisotsky (Java Developer)
 - Felipe Ventura, @fvntr (Techqueria)
 - Immanuel von Detten, @ypislon (Ready To Code @readytocode, Software Engineer)
 - James Vorderbruggen, @JamesVorder (MassMesh)
@@ -294,4 +295,3 @@ Signed,
 - Younes Zakaria, @drcd (lp0.dk)
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Andreas Zecher, @pixelate (Web Developer)
-- Sergei Visotsky @sergeivisotsky (Java Developer)
