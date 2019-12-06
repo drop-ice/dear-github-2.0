@@ -281,6 +281,7 @@ Signed,
 - Matt Mills, @photomattmills (Software Engineer, ElixirBridge co-founder)
 - Ryan Mottley, @ligerzero459 (Help.com)
 - Thomas Russell Murphy, @thomasrussellmurphy (iStyle Verilog maintainer)
+- Laneia Murray, @laneia (Software Engineer)
 - Ferdous Nasri, @ferbsx (Web developer, code curious and ruby monstas)
 - Liam Newman, @bitwiseman (Jenkins project contributor, github-api, js-beautify)
 - Vui Nguyen, @vuinguyen (iOS and JavaScript Contributor of open-source projects)
@@ -401,4 +402,3 @@ Signed,
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
-- Laneia Murray, @laneia (Software Engineer)
