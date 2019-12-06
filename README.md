@@ -344,6 +344,7 @@ Signed,
 - Steve Purcell, @purcell
 - Gustav Pursche, @gustavpursche (Software Engineer)
 - Daniel Quinn, @danielquinn (Paperless, Aletheia, mt103)
+- Rahul, @rahuldottech (Student, Developer)
 - Railken, @railken (web developer)
 - Kurtis Rainbolt-Greene, @krainboltgreene (Difference Engineers, owner of vcr.rb, mastodon core contributor, former rubygems core contributor)
 - Shubha Rajan, @shubha-rajan (Ada Developers Academy, STEM Education advocate && Software Developer)
