@@ -111,6 +111,7 @@ Signed,
 - Ibrahim Cesar, @ibrahimcesar (React Lite YouTube Embed)
 - Andrew Cassidy, @drewcassidy (Engineering Student and KSP modder)
 - Lauren Chambers, @laurenmarietta (ACLU of Massachusetts)
+- Nicholas Chandoke, @nick-chandoke (Programmer)
 - Matt Chapman, @matt2000 (Code Contributor to many open-source projects)
 - Mitch Chapman, @mchapman87501 (Software Developer)
 - David Chopin, @ChopinDavid (Software Developer, student)
