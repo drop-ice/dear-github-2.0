@@ -194,6 +194,7 @@ Signed,
 - Patrick Hickey, @pchickey (WebAssembly software developer)
 - Chris Hiestand, @chrishiestand (GitHub App Creator www.boss.dev)
 - Joshua Hoskins, @friendtocephalopods (Square)
+- Jaafari El Housseine, @jefferyhus (Software Engineer)
 - Hannah Howard, @hannahhoward (Carbon Five, RxReact)
 - Ivan Huayraña, @ivanhuay (Software Engineer, open source contributor)
 - Stephen P. Huff, @hakamadare (SRE)
