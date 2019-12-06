@@ -218,6 +218,7 @@ Signed,
 - Jannis Leidel, @jezdez (Python developer and community member)
 - Judson Lester, @nyarly (Many small projects and contributions)
 - Myles Lewando, @codemacabre (CodeMacabre, OpenPlanetary)
+- Eric Lewis, @ericandrewlewis (Software Engineer)
 - Richard Littauer, @RichardLitt (Maintainer Mountaineer)
 - isis lovecruft, @isislovecruft (Cryptographer)
 - Joseph Luck, @josephluck (Software Engineer, various open source)
