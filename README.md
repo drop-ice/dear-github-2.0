@@ -204,6 +204,7 @@ Signed,
 - Angus L'Herrou, @angus-lherrou (Student)
 - Olivier Lacan, @olivierlacan (Keep a Changelog, Shields, Code School)
 - Kaylum Lally, @HiKaylum (Senior UX Developer, Accessibility Advocate)
+- Alexander Lang, @langalex (Software Engineer)
 - Anthony Lee, @antwonlee (Software Engineer)
 - Jannis Leidel, @jezdez (Python developer and community member)
 - Judson Lester, @nyarly (Many small projects and contributions)
