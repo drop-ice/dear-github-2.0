@@ -82,6 +82,7 @@ Signed,
 - Amr Bakry, @amrrbakry (Software Engineer)
 - Allen Ballway, @lballway (Software Engineer)
 - Artur Barseghyan, @barseghyanartur (open-source contributor)
+- Will Barton, @willbarton
 - Daniel Bayley, @danielbayley (Motion/graphic designer and software developer)
 - Phil Beauvoir, @Phillipus (Archi)
 - Fynn Becker, @mvsde (Frontend Developer, Pangolin.js maintainer)
