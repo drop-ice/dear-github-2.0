@@ -227,6 +227,7 @@ Signed,
 - Erin Power, @XAMPPRocky (Rust-lang contributor, tokei)
 - Gustav Pursche, @gustavpursche (Software Engineer)
 - Daniel Quinn, @danielquinn (Paperless, Aletheia, mt103)
+- Railken, @railken (web developer)
 - Kurtis Rainbolt-Greene, @krainboltgreene (Difference Engineers, owner of vcr.rb, mastodon core contributor, former rubygems core contributor)
 - Shubha Rajan, @shubha-rajan (Ada Developers Academy, STEM Education advocate && Software Developer)
 - David Ranzolin, @daranzolin (San Francisco State University)
