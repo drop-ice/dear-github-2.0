@@ -299,6 +299,7 @@ Signed,
 - Meredith Mello, @merryMellody (Software Engineer)
 - Federico Mena Quintero, @federicomenaquintero (GNOME)
 - Simon Menke, @fd (Mr. Henry)
+- Frederic Meyer, @fleroviux (Software Developer)
 - Miguel Michelson, @michelson (vadb.org)
 - August Miller, @augustmiller (Web Developer)
 - Tony Miller, @mcfiredrill (@datafruits, @streampusher, open source contributor)
