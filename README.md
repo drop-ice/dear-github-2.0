@@ -207,6 +207,7 @@ Signed,
 - Tomas Jansson, @mastoj (VP Engineering, Unacast)
 - Marcus Jensen, @Lomztein (Software Engineering Student, Hobbyist Developer)
 - Brian Jenkins, @bonkydog (npm)
+- Andrei Jiroh, @AndreiJirohHaliliDev2006 (Project Maintainer, MadeByThePinsHub)
 - Joe Kachmar, @jkachmar (Software Developer, Open Source Contributor)
 - Avery Katko, @averykatko (Software Developer)
 - Omer Katz, @thedrow (Celery Project)
