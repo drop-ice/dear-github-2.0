@@ -277,6 +277,7 @@ Signed,
 - Ave Ozkal, @aveao (Lead Software Developer, open source contributor; team at @elixire, @lasagnaltd, @reswitched, @switchroot)
 - Kirill Pahnev, @pahnev (Software Developer)
 - Alexander Payne, @myrrlyn (Rust community)
+- Rosa Pérez, @paintedlbird7 (Aspiring Sofware Developer)
 - Marco Perone, @marcosh (Statebox)
 - Steve Peters, @scpeters (Software Engineer, Homebrew maintainer)
 - Penelope Phippen, @penelope_zone (Maintainer RSpec/Rubyfmt)
@@ -376,4 +377,3 @@ Signed,
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
-- Rosa Pérez, @paintedlbird7 (Aspiring Sofware Developer)
