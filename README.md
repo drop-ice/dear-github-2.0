@@ -245,6 +245,7 @@ Signed,
 - Joe Kachmar, @jkachmar (Software Developer, Open Source Contributor)
 - Avery Katko, @averykatko (Software Developer)
 - Omer Katz, @thedrow (Celery Project)
+- Tom Kenny, @twome (Web developer)
 - Eslam Khoga, @KhogaEslam (Software Engineer)
 - Kyle Kingsbury, @aphyr (Jepsen, Riemann)
 - Markus Kitsinger, @SwooshyCueb (Software Engineer)
