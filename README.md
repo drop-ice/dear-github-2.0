@@ -306,6 +306,7 @@ Signed,
 - Sefa Ozalp, @sefabey (Data Science Researcher @ Cardiff University, HateLab)
 - Kirill Pahnev, @pahnev (Software Developer)
 - Alexander Payne, @myrrlyn (Rust community)
+- Rosa Pérez, @paintedlbird7 (Aspiring Sofware Developer)
 - Marco Perone, @marcosh (Statebox)
 - Steve Peters, @scpeters (Software Engineer, Homebrew maintainer)
 - Penelope Phippen, @penelope_zone (Maintainer RSpec/Rubyfmt)
