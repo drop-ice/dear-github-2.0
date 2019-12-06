@@ -286,6 +286,7 @@ Signed,
 - Felipe Rueda, @ferueda (Product Manager)
 - Carlos Rufo, @swcarlosrj (Software Engineer)
 - Jakob Runge, @runjak (Software Engineer)
+- Stephen Rushe, @srushe (Software Engineer, maintainer of various Ruby gems)
 - Anton Rusinov, @RusinovAnton (JS tl;dr)
 - Ray Ryan, @rjrjr (Square)
 - Vikash Saini, @enigma10 (Software Engineer)
