@@ -271,6 +271,7 @@ Signed,
 - Peter Squicciarini, @stripedpajamas (VSCodium)
 - Thorr Stevens, @thorrstevens (Javascript Developer, date-fns contributor)
 - Christoph Stock, @stockulus (Software Engineer)
+- Christopher Styles, @christopherstyles (Software Writer, allthefarms.com co-founder)
 - Colby Swandale, @colby-swandale (Bundler, Rubygems, RubyGems.org)
 - Gueorgui Tcherednitchenko, @gueorgui (A Possible Space)
 - Tilde Thurium, @annthurium (Atom Editor contributor, Write Speak Code organizer)
