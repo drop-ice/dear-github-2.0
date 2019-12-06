@@ -145,6 +145,7 @@ Signed,
 - Aram Drevekenin, @imsnif (Bit)
 - Tom de Bruijn, @tombruijn (Software developer)
 - Marco Dalla Stella, @mdallastella (7bridges.eu co-founder)
+- Andy Davidoff, @disruptek (computer user)
 - Matthew Dean, @matthew-dean (Less.js)
 - Suhas Deshpande, @suhasdeshpande (Typescript & Angular contributor)
 - Henry Desroches, @xdesro (Faculty)
