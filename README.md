@@ -130,6 +130,7 @@ Signed,
 - Gianpaolo Fili, @gianpaolof (Software Engineer)
 - Rian Finnegan, @xtellurian (Amphora Data)
 - Katherine Flavel, @katef (Software Engineer)
+- Rob Fletcher, @robfletcher (Spinnaker contributor)
 - Brenna Flood, @brennx0r (OSFeels Conference Organizer, contributor to various JS, Ruby, DevOps projects)
 - Trevor Flowers, @TrevorFSmith (Chair of W3C Immersive Web CG, Invited expert of W3C Immersive Web WG, Principal at Transmutable)
 - Adam C. Foltzer, @acfoltzer (Lucet)
@@ -294,4 +295,3 @@ Signed,
 - Younes Zakaria, @drcd (lp0.dk)
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Andreas Zecher, @pixelate (Web Developer)
-- Rob Fletcher, @robfletcher (Spinnaker contributor)
