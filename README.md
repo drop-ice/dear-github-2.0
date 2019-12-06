@@ -246,6 +246,7 @@ Signed,
 - Jeremy Meiss, @jerdog (DevRel, Community)
 - Federico Mena Quintero, @federicomenaquintero (GNOME)
 - August Miller, @augustmiller (Web Developer)
+- Tony Miller, @mcfiredrill (@datafruits, @streampusher, open source contributor)
 - Matt Mills, @photomattmills (Software Engineer, ElixirBridge co-founder)
 - Ryan Mottley, @ligerzero459 (Help.com)
 - Thomas Russell Murphy, @thomasrussellmurphy (iStyle Verilog maintainer)
