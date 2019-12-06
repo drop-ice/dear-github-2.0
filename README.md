@@ -208,6 +208,7 @@ Signed,
 - Marcus Jensen, @Lomztein (Software Engineering Student, Hobbyist Developer)
 - Brian Jenkins, @bonkydog (npm)
 - Andrei Jiroh, @AndreiJirohHaliliDev2006 (Project Maintainer, MadeByThePinsHub)
+- Josh Junon, @qix- (Chalk, Debug, Storybook, Better Exceptions, formerly ZEIT)
 - Joe Kachmar, @jkachmar (Software Developer, Open Source Contributor)
 - Avery Katko, @averykatko (Software Developer)
 - Omer Katz, @thedrow (Celery Project)
