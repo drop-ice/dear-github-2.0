@@ -447,6 +447,7 @@ Signed,
 - Brendan Zabarauskas, @brendanzab (Software Engineer)
 - Chris J. Zähller, @seezee (Messenger Web Design, Mercury Photo Bureau, WP FOFT Loader plugin for WordPress)
 - Younes Zakaria, @drcd (lp0.dk)
+- Julian Zaltron, @juzalt (Software Dev, CompSci student)
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
