@@ -137,6 +137,7 @@ Signed,
 - Chance Dickson, @chancedickson (Product Engineer @ Glitch)
 - Gordon Diggs, @gdiggs
 - Jason Dixon, @obfuscurity (ex-GitHub employee, Monitorama founder, open source contributor)
+- Ilya Dmitrichenko, @errordeveloper (Software Engineer)
 - Cory Dodt, @corydodt (Bright.md)
 - Kate Donaldson, @katelovescode (Software Engineer)
 - Thomas Donoghue, @TomDonoghue (open-source software developer)
@@ -382,4 +383,3 @@ Signed,
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
-- Ilya Dmitrichenko, @errordeveloper (Software Engineer)
