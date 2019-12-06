@@ -30,7 +30,6 @@ Signed,
 - Kushal Das, @kushaldas (Public Interest Technologist, Freedom of the Press Foundation)
 - Chris Dickinson, @chrisdickinson (Entropic)
 - Buck Doyle, @backspace (Nomad contributor)
-- Aram Drevekenin, @imsnif (Bit)
 - Audrey Eschright, @aeschright (Calagator)
 - Steffen Forkmann, @forki (Paket, FAKE)
 - Brian Gesiak, @modocache (Swift, LLVM)
@@ -64,7 +63,6 @@ Signed,
 ----
 
 [Add your signature below](https://github.com/drop-ice/dear-github-2.0/issues/16)
-
 - Ron. A, @0xadada (Unredacted Word)
 - Felix Ableitner, @nutomic (/e/ foundation, former developer of syncthing-android)
 - Dave Ackley, @daveackley (Best effort advocate and developer of MFM, ulam, SPLAT)
@@ -130,6 +128,7 @@ Signed,
 - Jon Daniel, @binarycleric (Infrastructure Engineer, Heroku)
 - Michael Daryabeygi, @ginkgoMZD (CiviCRM Contributor)
 - Logan Davis, @brainsnail
+- Aram Drevekenin, @imsnif (Bit)
 - Tom de Bruijn, @tombruijn (Software developer)
 - Matthew Dean, @matthew-dean (Less.js)
 - Suhas Deshpande, @suhasdeshpande (Typescript & Angular contributor)
