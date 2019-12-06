@@ -318,6 +318,7 @@ Signed,
 - Rebecca Turner, @9999years (Xoogler)
 - Johan van der Knijff, @bitsgalore (jpylyzer maintainer)
 - Anne van Kesteren, @annevk (Web Standards, Mozilla)
+- Tara Vancil, @taravancil (Software Engineer, Glitch)
 - Felipe Ventura, @fvntr (Techqueria)
 - Immanuel von Detten, @ypislon (Ready To Code @readytocode, Software Engineer)
 - James Vorderbruggen, @JamesVorder (MassMesh)
