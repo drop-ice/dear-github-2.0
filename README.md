@@ -345,6 +345,7 @@ Signed,
 - Anne van Kesteren, @annevk (Web Standards, Mozilla)
 - Tara Vancil, @taravancil (Software Engineer, Glitch)
 - Felipe Ventura, @fvntr (Techqueria)
+- Sylvia van Os, @TheLastProject (UNIX Engineer, Open Source developer)
 - Immanuel von Detten, @ypislon (Ready To Code @readytocode, Software Engineer)
 - James Vorderbruggen, @JamesVorder (MassMesh)
 - Bex Warner, @hiimbex (X-GitHubber, Software Engineer, Human Being)
