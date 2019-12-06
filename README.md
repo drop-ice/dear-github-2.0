@@ -279,6 +279,7 @@ Signed,
 - Johan van der Knijff, @bitsgalore (jpylyzer maintainer)
 - Anne van Kesteren, @annevk (Web Standards, Mozilla)
 - Felipe Ventura, @fvntr (Techqueria)
+- María Lucía Vidart-Delgado, @mlvidart (DX/UX Researcher)
 - Immanuel von Detten, @ypislon (Ready To Code @readytocode, Software Engineer)
 - James Vorderbruggen, @JamesVorder (MassMesh)
 - Jeremy Wagner, @malchata (yall.js, independent web performance consultant)
