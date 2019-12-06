@@ -228,6 +228,7 @@ Signed,
 - Angus L'Herrou, @angus-lherrou (Student)
 - Olivier Lacan, @olivierlacan (Keep a Changelog, Shields, Code School)
 - Kaylum Lally, @HiKaylum (Senior UX Developer, Accessibility Advocate)
+- Justin Landay, @jlanday (Data Scientist, Riot Games. Editor, The Gradient)
 - Alexander Lang, @langalex (Software Engineer)
 - Jake Lazaroff, @jakelazaroff (Designer/Developer)
 - Thuy Le, @1000miles (Software Engineer)
