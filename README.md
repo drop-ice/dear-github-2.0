@@ -290,6 +290,7 @@ Signed,
 - Thomas Russell Murphy, @thomasrussellmurphy (iStyle Verilog maintainer)
 - Laneia Murray, @laneia (Software Engineer)
 - Ferdous Nasri, @ferbsx (Web developer, code curious and ruby monstas)
+- Leo Nesfield, @thelmgn (Open source developer)
 - Liam Newman, @bitwiseman (Jenkins project contributor, github-api, js-beautify)
 - Vui Nguyen, @vuinguyen (iOS and JavaScript Contributor of open-source projects)
 - Luna Nielsen, @Member1221 (Glimpse, PolyplexEngine)
