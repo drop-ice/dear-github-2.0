@@ -252,6 +252,7 @@ Signed,
 - Erik Marks, @rekmarks (Software Developer)
 - Mano Marks, @ManoMarks
 - Rahul Mathews, @rahulmathews (Full Stack Developer)
+- Jefferson Matheus, @jefferson227 (Software Developer)
 - Scott Matsuda, @Scotterpops19
 - Justin Mazzocchi, @jzzocc (Software Developer)
 - Brian McFee, @bmcfee (librosa)
@@ -382,4 +383,3 @@ Signed,
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
-- Jefferson Matheus, @jefferson227 (Software Developer)
