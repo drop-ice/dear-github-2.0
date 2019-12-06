@@ -100,6 +100,7 @@ Signed,
 - Brian Cain, @briancain (Vagrant contributor)
 - Colin Caine, @cmcaine (Tridactyl and open scientific software)
 - Lachlan Campbell, @lachlanjc (Hack Club)
+- Griffin C., @KerbalKore, (Amatuer coder and aspiring game modder)
 - David Celis, @davidcelis (maintainer of and contributor to various Ruby gems)
 - Ibrahim Cesar, @ibrahimcesar (React Lite YouTube Embed)
 - Lauren Chambers, @laurenmarietta (ACLU of Massachusetts)
