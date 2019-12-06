@@ -326,6 +326,7 @@ Signed,
 - Gueorgui Tcherednitchenko, @gueorgui (A Possible Space)
 - Peter Thaleikis, @spekulatius (Software engineer)
 - Tilde Thurium, @annthurium (Atom Editor contributor, Write Speak Code organizer)
+- Erick Todd, @ddot727 (Software Engineer)
 - Xavi Torelló, @XaviTorello (software engineer, itsec consultant, GNUites, Python Girona organizer)
 - Thomas Tortorini, @mr21 (gridsound)
 - Artemis Tosini, @artemist (independent security researcher)
