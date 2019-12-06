@@ -222,6 +222,7 @@ Signed,
 - Esteban Manchado Velázquez, @emanchado (RoboHydra)
 - Dave Marin, @davidmarin (mrjob, doloop)
 - Erik Marks, @rekmarks (Software Developer)
+- Mano Marks, @ManoMarks
 - Rahul Mathews, @rahulmathews (Full Stack Developer)
 - Scott Matsuda, @Scotterpops19
 - Justin Mazzocchi, @jzzocc (Software Developer)
