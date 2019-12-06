@@ -237,6 +237,7 @@ Signed,
 - Eric Lewis, @ericandrewlewis (Software Engineer)
 - Richard Littauer, @RichardLitt (Maintainer Mountaineer)
 - Enric Llagostera, @enricllagostera (Game designer and PhD student, Concordia University)
+- Noel Francis Lobo, @coffeestains (Web Developer, Python Programmer)
 - isis lovecruft, @isislovecruft (Cryptographer)
 - Joseph Luck, @josephluck (Software Engineer, various open source)
 - Jeremy Macaluso, @jvluso (Ethereum-oauth, Frame)
@@ -376,4 +377,3 @@ Signed,
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
-- Noel Francis Lobo, @coffeestains (Web Developer, Python Programmer)
