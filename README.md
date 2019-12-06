@@ -395,3 +395,4 @@ Signed,
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
+- Auron Hines, @ghostslayer989 (Hacktoberfest, Web Developer)
