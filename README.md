@@ -325,7 +325,7 @@ Signed,
 - Ken Arroyo Ohori, @kenohori (Delft University of Technology)
 - Rhodey Orbits, @rhodey (RadioWitness)
 - Uğur Oruc, @ketcap (Developer)
-- Edoardo Ottavianelli, @gilfoyle97 (Python/Java maintainer)
+- Edoardo Ottavianelli, @edoardottt (Python/Java maintainer)
 - Leslie Owusu-Appiah, @leslieoa (Developer)
 - Sefa Ozalp, @sefabey (Data Science Researcher @ Cardiff University, HateLab)
 - Ave Ozkal, @aveao (Lead Software Developer, open source contributor; team at @elixire, @lasagnaltd, @reswitched, @switchroot)
