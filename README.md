@@ -247,6 +247,7 @@ Signed,
 - Alexander Payne, @myrrlyn (Rust community)
 - Marco Perone, @marcosh (Statebox)
 - Steve Peters, @scpeters (Software Engineer, Homebrew maintainer)
+- Penelope Phippen, @penelope_zone (Maintainer RSpec/Rubyfmt)
 - Emily Pillmore, @emilypi (cohomolo.gy)
 - George Platko, @geo1088 (Student, npm package author, web developer, Discord bot contributor)
 - Erin Power, @XAMPPRocky (Rust-lang contributor, tokei)
