@@ -306,6 +306,7 @@ Signed,
 - August Miller, @augustmiller (Web Developer)
 - Tony Miller, @mcfiredrill (@datafruits, @streampusher, open source contributor)
 - Matt Mills, @photomattmills (Software Engineer, ElixirBridge co-founder)
+- Todd Morningstar, @stratigos (Software Engineer, freedom lover)
 - Ryan Mottley, @ligerzero459 (Help.com)
 - Jose Munoz, @jdmg94 (Software Engineer)
 - Thomas Russell Murphy, @thomasrussellmurphy (iStyle Verilog maintainer)
