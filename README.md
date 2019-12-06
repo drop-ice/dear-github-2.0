@@ -74,7 +74,6 @@ Signed,
 - Patrick Arnett, @patrickarnett (Software Developer)
 - Peter Aronoff, @telemachus (Lua modules split and tapered)
 - Joshua Arulsamy, @jarulsamy (Software Developer, Student)
-- Jon Atkinson, @jonatkinson (Software Engineer)
 - Abdullah Atta, @thecodrr (Software Developer)
 - Christian Aust, @datenimperator (Software Developer)
 - Delan Azabani, @delan (software person)
@@ -125,6 +124,7 @@ Signed,
 - David Chopin, @ChopinDavid (Software Developer, student)
 - Andrew Chou, @achou11 (Software Engineer)
 - Joe Clay, @17cupsofcoffee (Software Engineer)
+- Garret Cleare, @g4rret
 - Alan Coopersmith, @alanc (X.Org maintainer)
 - Frances Coronel, @fvcproductions (Co-Director, Techqueria)
 - Denis Costa, @deniscostadsc (Programmer)
