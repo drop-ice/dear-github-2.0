@@ -209,6 +209,7 @@ Signed,
 - Ellie Huxtable, @ellmh (Software Engineer)
 - Muhammad Athif Humam, @athif23 (Software Developer, Open Source Contributor)
 - Fedor Indutny, @indutny (Node.js)
+- Dante Issaias, @danteissaias (Full Stack Developer)
 - Andrew-David Jahchan, @AndrewDavid (Definitely Not A Co, Wild Gamut)
 - Tomas Jansson, @mastoj (VP Engineering, Unacast)
 - Marcus Jensen, @Lomztein (Software Engineering Student, Hobbyist Developer)
@@ -394,4 +395,3 @@ Signed,
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
-- Dante Issaias, @danteissaias (Full Stack Developer)
