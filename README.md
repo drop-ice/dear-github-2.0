@@ -314,6 +314,7 @@ Signed,
 - Stephen Rushe, @srushe (Software Engineer, maintainer of various Ruby gems)
 - Anton Rusinov, @RusinovAnton (JS tl;dr)
 - Chet Russell, @DarkestQuasar (Student, Aspiring Sofware Developer)
+- Nick Ruest, @ruebot (York University)
 - Ray Ryan, @rjrjr (Square)
 - Vikash Saini, @enigma10 (Software Engineer)
 - Alex Sanders, @sndrs (Software Engineer)
