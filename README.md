@@ -70,6 +70,7 @@ Signed,
 - Artur Diniz Adam, @artdiniz (Instructor and developer @Caelum)
 - Zac Adam-MacEwen, @ZAdamMac (KSL)
 - Ryan Addessi, @raddessi (Systems/Network Engineer)
+- Heladio Amaya, @Heladio-ac (Software Developer)
 - Zac Anger, @zacanger (Node packages maintainer)
 - Patrick Arnett, @patrickarnett (Software Developer)
 - Peter Aronoff, @telemachus (Lua modules split and tapered)
