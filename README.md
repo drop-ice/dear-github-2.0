@@ -147,6 +147,7 @@ Signed,
 - Coraline Ada Ehmke, @coralineada (Contributor Covenant, Beacon, Hippocratic License, and EthicalSource.dev)
 - Shawn Eisenach, @wholewheattoast (Artist and Software Developer)
 - Melissa Elliott, @0xabad1dea (infosec researcher)
+- Abraham (Silur) Endre, @silur (Cryptographer)
 - Eric, @TheLastZombie (webpages, scrapers, bots, tools)
 - Matheus Fantinel, @matfantinel (Software Developer)
 - Jake Brussel Faria, @jacobbf (Developer, technical writer, working on open source type projects)
@@ -376,4 +377,3 @@ Signed,
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
-- Abraham (Silur) Endre, (Cryptographer)
