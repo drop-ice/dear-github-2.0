@@ -311,6 +311,7 @@ Signed,
 - Thomas Tortorini, @mr21 (gridsound)
 - Artemis Tosini, @artemist (independent security researcher)
 - Matt Travi @travi (greenkeeper-keeper, GitHub Settings)
+- Kai Tribble @1ktribble (Software Engineer, Grubhub)
 - Rebecca Turner, @9999years (Xoogler)
 - Johan van der Knijff, @bitsgalore (jpylyzer maintainer)
 - Anne van Kesteren, @annevk (Web Standards, Mozilla)
