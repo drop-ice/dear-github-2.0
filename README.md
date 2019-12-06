@@ -204,6 +204,7 @@ Signed,
 - Tarjei Husøy, @thusoy (Megacool, saltstack contributor)
 - Jörn Huxhorn, @huxi (Software Engineer)
 - Ellie Huxtable, @ellmh (Software Engineer)
+- Muhammad Athif Humam, @athif23 (Software Developer, Open Source Contributor)
 - Fedor Indutny, @indutny (Node.js)
 - Andrew-David Jahchan, @AndrewDavid (Definitely Not A Co, Wild Gamut)
 - Tomas Jansson, @mastoj (VP Engineering, Unacast)
