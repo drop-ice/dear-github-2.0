@@ -271,6 +271,7 @@ Signed,
 - Sebastian Vilhelm Nielsen, @VilhelmNielsen (Software Engineer)
 - Palash Nigam, @palash25, (Student, Contributor to various projects)
 - Kira Oakley, @noffle (Digital Democracy, Cabal Club)
+- Jonathan Oberländer, @L3viathan (Software Developer)
 - Kevin Obuya, @obuya
 - Rhodey Orbits, @rhodey (RadioWitness)
 - Ken Arroyo Ohori, @kenohori (Delft University of Technology)
