@@ -294,6 +294,7 @@ Signed,
 - Justin Mazzocchi, @jzzocc (Software Developer)
 - Brian McFee, @bmcfee (librosa)
 - Rob McLarty, @robmclarty (js, bikes, infosec)
+- Damien McKenna, @damienmckenna (Drupal contributor)
 - Julie McMurry, @jmcmurry (Monarch Initiative, Oregon State Faculty)
 - Pablo Meier, @pablo-meier (a human)
 - Jeremy Meiss, @jerdog (DevRel, Community)
