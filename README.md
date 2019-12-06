@@ -103,6 +103,7 @@ Signed,
 - Griffin C., @KerbalKore, (Amatuer coder and aspiring game modder)
 - David Celis, @davidcelis (maintainer of and contributor to various Ruby gems)
 - Ibrahim Cesar, @ibrahimcesar (React Lite YouTube Embed)
+- Andrew Cassidy, @drewcassidy (Engineering Student and KSP modder)
 - Lauren Chambers, @laurenmarietta (ACLU of Massachusetts)
 - Matt Chapman, @matt2000 (Code Contributor to many open-source projects)
 - Mitch Chapman, @mchapman87501 (Software Developer)
