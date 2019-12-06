@@ -118,6 +118,7 @@ Signed,
 - Andrew Chou, @achou11 (Software Engineer)
 - Frances Coronel, @fvcproductions (Co-Director, Techqueria)
 - Jimmy Cuadra, @jimmycuadra (Lita, Ruma)
+- Nguyen Manh Cuong, @starfruitjsc (JavaScript Developer)
 - Tierney Cyren, @bnb (Node.js, OpenJS Foundation, Cutenode, Electron)
 - Paul D'Ambra, @pauldambra (Software Engineer)
 - Timothy Dang, @timdang (Software Engineer)
