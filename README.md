@@ -185,6 +185,7 @@ Signed,
 - Kenny Foner, @kwf (Software Engineer/Researcher, Galois)
 - Liz Fong-Jones, @lizthegrey (Principal Developer Advocate, @honeycombio; @opentelemetry governance committee; affiliations for identification purposes only)
 - Jeff Forcier, @bitprophet (Fabric, Paramiko, etc)
+- Logan Franken, @loganfranken (Developer)
 - Thomas Fuchs, @madrobby (Zepto, scriptaculous)
 - Chris Galardi, @ixtli (Engineer, iphone dev team)
 - Jason Garber, @jgarber623 (web developer and standards advocate)
