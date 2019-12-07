@@ -244,6 +244,7 @@ Signed,
 - Josh Junon, @qix- (Chalk, Debug, Storybook, Better Exceptions, formerly ZEIT)
 - Joe Kachmar, @jkachmar (Software Developer, Open Source Contributor)
 - Avery Katko, @averykatko (Software Developer)
+- Gary Katsevman, @gkatsev (Video.js)
 - Omer Katz, @thedrow (Celery Project)
 - Eslam Khoga, @KhogaEslam (Software Engineer)
 - Kyle Kingsbury, @aphyr (Jepsen, Riemann)
