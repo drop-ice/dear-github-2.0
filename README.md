@@ -429,6 +429,7 @@ Signed,
 - Bex Warner, @hiimbex (X-GitHubber, Software Engineer, Human Being)
 - Jeremy Wagner, @malchata (yall.js, independent web performance consultant)
 - Joel Wasserman, @joelwass (Software Engineer, The Teacher Fund)
+- Casey Webb, @caseyWebb (Software Developer)
 - Max Dominik Weber, @fenhl (Computer Science student, hobbyist programmer)
 - Sam Whited, @SamWhited (Go, Docker, Conversations, etc. contributor)
 - Jamie Wilkinson, @jaqx0r (Google SRE)
