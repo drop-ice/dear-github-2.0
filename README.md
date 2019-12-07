@@ -374,6 +374,7 @@ Signed,
 - Alex Sanders, @sndrs (Software Engineer)
 - Dorothy R. Santos, @dorothysantos (Processing Foundation)
 - Aleph Santos Oliveira, @haple
+- Daniel Santos, @imdanielsp, (Software Engineer)
 - Kaja Santro, @kajatiger, (software engineer, code curious organizer)
 - Sanjit Sarda @Sanjit1 (Student, RBHS)
 - Aki Sasaki, @escapewindow (Staff Software Engineer, Mozilla)
