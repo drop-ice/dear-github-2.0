@@ -291,6 +291,7 @@ Signed,
 - Rahul Mathews, @rahulmathews (Full Stack Developer)
 - Jefferson Matheus, @jefferson227 (Software Developer)
 - Scott Matsuda, @Scotterpops19
+- Felix Mattick, @kognise (js and open-source)
 - Justin Mazzocchi, @jzzocc (Software Developer)
 - Brian McFee, @bmcfee (librosa)
 - Rob McLarty, @robmclarty (js, bikes, infosec)
