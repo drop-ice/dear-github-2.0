@@ -268,6 +268,7 @@ Signed,
 - Jake Lazaroff, @jakelazaroff (Designer/Developer)
 - Thuy Le, @1000miles (Software Engineer)
 - Cassiano Leal, @cassianoleal (DevOps / Infrastructure Engineer)
+- Laurent le Beau-Martin, @laurentlbm (Tech Lead)
 - Anthony Lee, @antwonlee (Software Engineer)
 - Jannis Leidel, @jezdez (Python developer and community member)
 - Judson Lester, @nyarly (Many small projects and contributions)
