@@ -326,6 +326,7 @@ Signed,
 - Rhodey Orbits, @rhodey (RadioWitness)
 - Uğur Oruc, @ketcap (Developer)
 - Leslie Owusu-Appiah, @leslieoa (Developer)
+- Eniola Oyewole, @BetiDev (Developer)
 - Sefa Ozalp, @sefabey (Data Science Researcher @ Cardiff University, HateLab)
 - Ave Ozkal, @aveao (Lead Software Developer, open source contributor; team at @elixire, @lasagnaltd, @reswitched, @switchroot)
 - Kirill Pahnev, @pahnev (Software Developer)
