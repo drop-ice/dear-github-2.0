@@ -143,6 +143,7 @@ Signed,
 - Michael Daryabeygi, @ginkgoMZD (CiviCRM Contributor)
 - Logan Davis, @brainsnail
 - Ian Delahorne, @iandelahorne
+- Matt Dewey, @mattfromseattle (Engagement Manager)
 - Aram Drevekenin, @imsnif (Bit)
 - Tom de Bruijn, @tombruijn (Software developer)
 - Marco Dalla Stella, @mdallastella (7bridges.eu co-founder)
