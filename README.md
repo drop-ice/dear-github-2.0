@@ -404,6 +404,7 @@ Signed,
 - Christopher Styles, @christopherstyles (Software Writer, allthefarms.com co-founder)
 - Tomasz Surowiec, @DerivedMate (Software Developer, Student)
 - Colby Swandale, @colby-swandale (Bundler, Rubygems, RubyGems.org)
+- Vladimir Támara, @vtamara (@pasosdeJesus)
 - Gueorgui Tcherednitchenko, @gueorgui (A Possible Space)
 - Peter Thaleikis, @spekulatius (Software engineer)
 - Tilde Thurium, @annthurium (Atom Editor contributor, Write Speak Code organizer)
@@ -451,4 +452,3 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
-- Vladimir Támara, @vtamara (@pasosdeJesus)
