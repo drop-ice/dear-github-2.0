@@ -443,6 +443,7 @@ Signed,
 - Titus Wormer, @wooorm (Software engineer)
 - Andy Wortman, @iximeow (Lucet, open-source contributor)
 - Amy Wright, @AmyWrightDev (Game Programmer and Reverse Engineer)
+- Adam Yi, @adamyi (Software Engineer)
 - Cheng You Bai, @cybai (Software Engineer)
 - Brendan Zabarauskas, @brendanzab (Software Engineer)
 - Chris J. Zähller, @seezee (Messenger Web Design, Mercury Photo Bureau, WP FOFT Loader plugin for WordPress)
