@@ -200,6 +200,7 @@ Signed,
 - Gavin Gray, @gngdb (Machine Learning Researcher)
 - Garrett Green, @garrett-green (Software Developer)
 - Gyuri Grell, @ggrell (RxReactor, Software Developer)
+- Enrico Grillo, @redbassett (Engineer, Mobile & Web)
 - Jürgen Gmach, @jugmac00 (Software Engineer)
 - Thibaud Guillaume-Gentil, @thibaudgg (creator and contributor of various Ruby gems)
 - Francis Gulotta, @reconbot (Node Serialport, Request)
