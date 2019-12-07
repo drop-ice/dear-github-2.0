@@ -452,7 +452,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Keziah Moselle, @KeziahMoselle (Front-end developer)
-
-
-[Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
-=======
