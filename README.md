@@ -372,6 +372,7 @@ Signed,
 - Ray Ryan, @rjrjr (Square)
 - Vikash Saini, @enigma10 (Software Engineer)
 - Alex Sanders, @sndrs (Software Engineer)
+- Afonso Serra, @nadacomum (Computer Engineering Undergraduate)
 - Dorothy R. Santos, @dorothysantos (Processing Foundation)
 - Aleph Santos Oliveira, @haple
 - Kaja Santro, @kajatiger, (software engineer, code curious organizer)
