@@ -229,6 +229,7 @@ Signed,
 - Elana Hashman, @ehashman (Open Source Initiative, Debian, Python Packaging Authority, Kubernetes)
 - Martin Heidegger, @martinheidegger (consento-org, jsconfjp, ...)
 - Jacob Helwig, @jhelwig (Calagator)
+- Jacob Herrington, @jacobherrington (Solidus)
 - Guilherme Herzog, @guiherzog (Software Engineer)
 - Patrick Hickey, @pchickey (WebAssembly software developer)
 - Chris Hiestand, @chrishiestand (GitHub App Creator www.boss.dev)
