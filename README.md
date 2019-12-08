@@ -243,6 +243,7 @@ Signed,
 - Andrei Jiroh, @AndreiJirohHaliliDev2006 (Project Maintainer, MadeByThePinsHub)
 - Josh Junon, @qix- (Chalk, Debug, Storybook, Better Exceptions, formerly ZEIT)
 - Joe Kachmar, @jkachmar (Software Developer, Open Source Contributor)
+- Akshat Katiyar, @YellowFoxH4XOR (Software Engineer)
 - Avery Katko, @averykatko (Software Developer)
 - Omer Katz, @thedrow (Celery Project)
 - Eslam Khoga, @KhogaEslam (Software Engineer)
@@ -451,4 +452,3 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
-- Akshat Katiyar, @YellowFoxH4XOR (Software Engineer)
