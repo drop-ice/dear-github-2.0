@@ -221,6 +221,7 @@ Signed,
 - Chris Hiestand, @chrishiestand (GitHub App Creator www.boss.dev)
 - Auron Hines, @ghostslayer989 (Hacktoberfest, Web Developer)
 - Robert Hofmann, @bert2 (Software Developer)
+- Zach Holman, @holman (Employee #9, GitHub)
 - Joshua Hoskins, @friendtocephalopods (Square)
 - Jaafari El Housseine, @jefferyhus (Software Engineer)
 - Hannah Howard, @hannahhoward (Carbon Five, RxReact)
