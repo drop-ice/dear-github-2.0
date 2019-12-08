@@ -235,6 +235,7 @@ Signed,
 - Ellie Huxtable, @ellmh (Software Engineer)
 - Muhammad Athif Humam, @athif23 (Software Developer, Open Source Contributor)
 - Fedor Indutny, @indutny (Node.js)
+- Jahangir Iqbal, @jiqbal48 (Web Developer)
 - Dante Issaias, @danteissaias (Full Stack Developer)
 - Carter Landis, @ccarterlandis (CHAOSS Researcher, Maintainer & Developer, Student)
 - Andrew-David Jahchan, @AndrewDavid (Definitely Not A Co, Wild Gamut)
