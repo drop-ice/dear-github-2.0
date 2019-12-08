@@ -417,6 +417,7 @@ Signed,
 - Rebecca Turner, @9999years (Xoogler)
 - Manuel Uberti, @manuel-uberti
 - Kashif Umair Liaqat, @kashif-umair (Senior Software Engineer)
+- Michael Upton, @uptonm (Software Engineer)
 - Pablo Barría URenda, @differentsmoke (Web Developer)
 - Johan van der Knijff, @bitsgalore (jpylyzer maintainer)
 - Anne van Kesteren, @annevk (Web Standards, Mozilla)
@@ -451,4 +452,3 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
-- Michael Upton, @uptonm (Software Engineer)
