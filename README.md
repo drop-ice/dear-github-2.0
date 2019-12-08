@@ -512,6 +512,7 @@ Signed,
 - Amy Unruh, @amygdala
 - Michael Upton, @uptonm (Software Engineer)
 - Pablo Barría URenda, @differentsmoke (Web Developer)
+- Dawid van der Hoven, @dawidvdh (Software Engineer)
 - Johan van der Knijff, @bitsgalore (jpylyzer maintainer)
 - Anne van Kesteren, @annevk (Web Standards, Mozilla)
 - Sylvia van Os, @TheLastProject (UNIX Engineer, Open Source developer)
