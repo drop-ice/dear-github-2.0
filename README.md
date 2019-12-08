@@ -420,6 +420,7 @@ Signed,
 - Aki Sasaki, @escapewindow (Staff Software Engineer, Mozilla)
 - Josiah Savary, @jozanza (Software Engineer)
 - Tobi Schäfer, @p3k (Antville.org)
+- Alvaro Scheid, @ascheid (IT Security Analyst, OLG) 
 - Andrew Scheuermann, @a15n (Airbnb)
 - Moritz Schlarb, @moschlar (Cloud Engineer)
 - Eric Schultz, @wwahammy (CommitChange, Houdini Project)
