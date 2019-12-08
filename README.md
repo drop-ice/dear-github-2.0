@@ -279,6 +279,7 @@ Signed,
 - Avery Katko, @averykatko (Software Developer)
 - Gary Katsevman, @gkatsev (Video.js, W3C Timed Text Working Group Co-Chair, Open Source dev)
 - Omer Katz, @thedrow (Celery Project)
+- Kayvan Kazeminejad, @rchain (Cryptocurrency developer)
 - Tom Kenny, @twome (Web developer)
 - Eslam Khoga, @KhogaEslam (Software Engineer)
 - Kyle Kingsbury, @aphyr (Jepsen, Riemann)
