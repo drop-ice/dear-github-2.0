@@ -396,6 +396,7 @@ Signed,
 - Louis Pilfold, @lpil (Gleam, BEAM ecosystem)
 - Emily Pillmore, @emilypi (cohomolo.gy)
 - Juan Pichardo, @xMinota (Student, Web Developer)
+- Henrique Pinto, @henvic (Software Engineer)
 - George Platko, @geo1088 (Student, npm package author, web developer, Discord bot contributor)
 - Darryl Pogue, @dpogue (Software Developer, open-source contributor, Apache Cordova committer)
 - Giorgio Pomettini, @pomettini (Game Developer)
