@@ -454,6 +454,7 @@ Signed,
 - Saul Shanabrook, @saulshanabrook (Quansight, Jupyter)
 - Shanley, @shanley (Model View Culture, Fund Club, #NoTechforICE)
 - Joshua Shao, @jhuashao (Product Designer)
+- Justin Sherman, @jsherman256 (Software Engineer)
 - Josh Simmons, @joshsimmons (FOSS community organizer)
 - Kyle Simpson, @getify (Getify, YDKJS)
 - Patrick Smith, @vectorpark (Artist)
