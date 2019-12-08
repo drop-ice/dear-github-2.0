@@ -353,6 +353,7 @@ Signed,
 - Alessio Occhipinti, @LasaleFamine (Web Developer)
 - Ken Arroyo Ohori, @kenohori (Delft University of Technology)
 - Charlie O'Keefe, @charlieok (Software Engineer, Electric Coin Company)
+- Gray Olson, @termhn (Rust community, Amethyst contributor, ASU)
 - Ryan Olson, @ryanolsonx (UI Architect, Contributor to various projects)
 - Rhodey Orbits, @rhodey (RadioWitness)
 - Uğur Oruc, @ketcap (Developer)
