@@ -293,6 +293,7 @@ Signed,
 - Kayvan Kazeminejad, @rchain (Cryptocurrency developer)
 - Tom Kenny, @twome (Web developer)
 - Eslam Khoga, @KhogaEslam (Software Engineer)
+- Mustafa Kibar, @mustafakibar (Software Developer)
 - Kyle Kingsbury, @aphyr (Jepsen, Riemann)
 - Markus Kitsinger, @SwooshyCueb (Software Engineer)
 - Espen Klem, @eklem (Interaction designer & opensource coder)
