@@ -329,6 +329,7 @@ Signed,
 - Kevin Obuya, @obuya
 - Alessio Occhipinti, @LasaleFamine (Web Developer)
 - Ken Arroyo Ohori, @kenohori (Delft University of Technology)
+- Ryan Olson, @ryanolsonx (UI Architect, Contributor to various projects)
 - Rhodey Orbits, @rhodey (RadioWitness)
 - Uğur Oruc, @ketcap (Developer)
 - Leslie Owusu-Appiah, @leslieoa (Developer)
