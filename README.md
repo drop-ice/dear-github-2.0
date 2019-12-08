@@ -245,6 +245,7 @@ Signed,
 - Joe Kachmar, @jkachmar (Software Developer, Open Source Contributor)
 - Avery Katko, @averykatko (Software Developer)
 - Omer Katz, @thedrow (Celery Project)
+- Kayvan Kazeminejad, @rchain (Cryptocurrency developer)
 - Eslam Khoga, @KhogaEslam (Software Engineer)
 - Kyle Kingsbury, @aphyr (Jepsen, Riemann)
 - Markus Kitsinger, @SwooshyCueb (Software Engineer)
@@ -451,4 +452,3 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
-- Kayvan Kazeminejad, @rchain (Cryptocurrency developer)
