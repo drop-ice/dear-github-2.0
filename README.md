@@ -470,6 +470,7 @@ Signed,
 - Loren Segal, @lsegal (YARD, RubyDoc.info)
 - Eden Segal-Grossman, @edensg (Open Pit, Parent Company)
 - Subhrajyoti Sen, @SubhrajyotiSen (Mozilla contributor)
+- Potekhin Sergey, @pavlovdog (Software engineer)
 - Saul Shanabrook, @saulshanabrook (Quansight, Jupyter)
 - Shanley, @shanley (Model View Culture, Fund Club, #NoTechforICE)
 - Joshua Shao, @jhuashao (Product Designer)
