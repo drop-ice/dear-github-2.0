@@ -386,6 +386,7 @@ Signed,
 - Luis Padron, @luispadron (Software Engineer, ICE disliker)
 - Julien Pagès, @parkouss
 - Kirill Pahnev, @pahnev (Software Developer)
+- Benjamin Pang, @molarmanful (NYU Abu Dhabi, Developer)
 - Atish Patel, @atishpatel (Software Engineer)
 - Alexander Payne, @myrrlyn (Rust community)
 - Rosa Pérez, @paintedlbird7 (Aspiring Sofware Developer)
