@@ -308,6 +308,7 @@ Signed,
 - Matt Mills, @photomattmills (Software Engineer, ElixirBridge co-founder)
 - Ryan Mottley, @ligerzero459 (Help.com)
 - Jose Munoz, @jdmg94 (Software Engineer)
+- Peter Murphy, @ptrfrncsmrph (Software Engineer)
 - Thomas Russell Murphy, @thomasrussellmurphy (iStyle Verilog maintainer)
 - Laneia Murray, @laneia (Software Engineer)
 - Ferdous Nasri, @ferbsx (Web developer, code curious and ruby monstas)
