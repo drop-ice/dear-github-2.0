@@ -170,6 +170,7 @@ Signed,
 - Nick Doty, @nldoty (Software Engineer)
 - Oliver Drotbohm, @odrotbohm (Software Engineer, Spring Framework)
 - Victor Du, @DrDab (Full-Stack Developer, Infosec Researcher)
+- Greg Dunlap, @heyrocker (Drupal)
 - Robin Dupret, @robin850 (Redcarpet, Propel and Ruby on Rails contributor)
 - Coraline Ada Ehmke, @coralineada (Contributor Covenant, Beacon, Hippocratic License, and EthicalSource.dev)
 - Shawn Eisenach, @wholewheattoast (Artist and Software Developer)
