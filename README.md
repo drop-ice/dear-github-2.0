@@ -133,6 +133,7 @@ Signed,
 - Andrew Cassidy, @drewcassidy (Engineering Student and KSP modder)
 - Stefano Cerelli, @scerelli (Software Engineer, Game Developer)
 - Luke Chadwick, @vertis (Founder, Software Engineer)
+- Noah Portes Chaikin, @nporteschaikin (Software engineer @codeclimate)
 - Lauren Chambers, @laurenmarietta (ACLU of Massachusetts)
 - Nicholas Chandoke, @nick-chandoke (Programmer)
 - Matt Chapman, @matt2000 (Code Contributor to many open-source projects)
