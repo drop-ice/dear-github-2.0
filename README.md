@@ -326,6 +326,7 @@ Signed,
 - Federico Mena Quintero, @federicomenaquintero (GNOME)
 - Simon Menke, @fd (Mr. Henry)
 - Frederic Meyer, @fleroviux (Software Developer)
+- Ben Michel, @obensource (Developer Advocate, OpenJS Foundation, Node.js)
 - Miguel Michelson, @michelson (vadb.org)
 - August Miller, @augustmiller (Web Developer)
 - Tony Miller, @mcfiredrill (@datafruits, @streampusher, open source contributor)
