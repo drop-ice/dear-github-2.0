@@ -95,6 +95,7 @@ Signed,
 - Allen Ballway, @lballway (Software Engineer)
 - Jerome Bark, @ecentaur (QA Engineer)
 - Artur Barseghyan, @barseghyanartur (open-source contributor)
+- Francis Barton, @francisbarton (tinkerer)
 - Will Barton, @willbarton
 - Daniel Bayley, @danielbayley (Motion/graphic designer and software developer)
 - Phil Beauvoir, @Phillipus (Archi)
