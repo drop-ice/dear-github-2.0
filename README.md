@@ -472,6 +472,7 @@ Signed,
 - Chau Tran, @nartc (Software Developer, @nartc/automapper author)
 - Matt Travi @travi (greenkeeper-keeper, GitHub Settings)
 - Kai Tribble @1ktribble (Software Engineer, Grubhub)
+- Bobby Tromm, @btromm (Neuroscience student, Research Assistant)
 - Rebecca Turner, @9999years (Xoogler)
 - Manuel Uberti, @manuel-uberti
 - Kashif Umair Liaqat, @kashif-umair (Senior Software Engineer)
