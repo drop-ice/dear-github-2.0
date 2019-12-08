@@ -386,6 +386,7 @@ Signed,
 - Uğur Oruc, @ketcap (Developer)
 - Edoardo Ottavianelli, @edoardottt (Python/Java maintainer)
 - Leslie Owusu-Appiah, @leslieoa (Developer)
+- Eniola Oyewole, @BetiDev (Developer)
 - Sefa Ozalp, @sefabey (Data Science Researcher @ Cardiff University, HateLab)
 - Ave Ozkal, @aveao (Lead Software Developer, open source contributor; team at @elixire, @lasagnaltd, @reswitched, @switchroot)
 - Luis Padron, @luispadron (Software Engineer, ICE disliker)
