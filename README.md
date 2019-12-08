@@ -97,6 +97,7 @@ Signed,
 - Artur Barseghyan, @barseghyanartur (open-source contributor)
 - Francis Barton, @francisbarton (tinkerer)
 - Will Barton, @willbarton
+- Benny Baumann, @BenBE (Software Developer, GeSHi, WPIA)
 - Daniel Bayley, @danielbayley (Motion/graphic designer and software developer)
 - Phil Beauvoir, @Phillipus (Archi)
 - Fynn Becker, @mvsde (Frontend Developer, Pangolin.js maintainer)
