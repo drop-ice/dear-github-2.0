@@ -300,6 +300,7 @@ Signed,
 - Edgar Mejía, @edgarMejia (Creativa Consultores)
 - Meredith Mello, @merryMellody (Software Engineer)
 - Federico Mena Quintero, @federicomenaquintero (GNOME)
+- David Mendoza @Dmendoza99 (Web/Application Developer, Student, Latino)
 - Simon Menke, @fd (Mr. Henry)
 - Frederic Meyer, @fleroviux (Software Developer)
 - Miguel Michelson, @michelson (vadb.org)
@@ -451,4 +452,3 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
-- David Mendoza @Dmendoza99 (Web/Application Developer, Student, Latino)
