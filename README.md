@@ -449,6 +449,7 @@ Signed,
 - Johan van der Knijff, @bitsgalore (jpylyzer maintainer)
 - Anne van Kesteren, @annevk (Web Standards, Mozilla)
 - Tara Vancil, @taravancil (Software Engineer, Glitch)
+- André Varandas, @iamvarandas (Software Developer)
 - Sergei Visotsky @sergeivisotsky (Java Developer)
 - Felipe Ventura, @fvntr (Techqueria)
 - Sylvia van Os, @TheLastProject (UNIX Engineer, Open Source developer)
