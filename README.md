@@ -459,6 +459,7 @@ Signed,
 - Tomasz Surowiec, @DerivedMate (Software Developer, Student)
 - Colby Swandale, @colby-swandale (Bundler, Rubygems, RubyGems.org)
 - Gueorgui Tcherednitchenko, @gueorgui (A Possible Space)
+- Bhavika Tekwani, @bhavika (Software Engineer) 
 - Peter Thaleikis, @spekulatius (Software engineer)
 - Tilde Thurium, @annthurium (Atom Editor contributor, Write Speak Code organizer)
 - Erick Todd, @ddot727 (Software Engineer)
