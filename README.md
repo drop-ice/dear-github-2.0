@@ -274,6 +274,7 @@ Signed,
 - Joe Kachmar, @jkachmar (Software Developer, Open Source Contributor)
 - Akshat Katiyar, @YellowFoxH4XOR (Software Engineer)
 - Avery Katko, @averykatko (Software Developer)
+- Gary Katsevman, @gkatsev (Video.js, W3C Timed Text Working Group Co-Chair, Open Source dev)
 - Omer Katz, @thedrow (Celery Project)
 - Tom Kenny, @twome (Web developer)
 - Eslam Khoga, @KhogaEslam (Software Engineer)
