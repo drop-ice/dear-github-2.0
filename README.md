@@ -248,6 +248,7 @@ Signed,
 - Elana Hashman, @ehashman (Open Source Initiative, Debian, Python Packaging Authority, Kubernetes)
 - Martin Heidegger, @martinheidegger (consento-org, jsconfjp, ...)
 - Jacob Helwig, @jhelwig (Calagator)
+- Julian Hem, @notnite (Software Engineer)
 - Raquel Hernandez, @maggit (Senior Software Engineer / Engineering Manager @raqueldotnyc) 
 - Jacob Herrington, @jacobherrington (Solidus)
 - Guilherme Herzog, @guiherzog (Software Engineer)
@@ -554,4 +555,3 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
-- Julian Hem, @notnite (Software Engineer)
