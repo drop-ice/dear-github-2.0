@@ -451,3 +451,4 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
+- Kévin Dunglas, @dunglas (Creator of @api-platform, co-maintainer of @symfony, co-founder of @coopTilleuls)
