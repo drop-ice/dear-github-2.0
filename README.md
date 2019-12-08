@@ -466,10 +466,11 @@ Signed,
 - Shubham Soni, @shubxam (Flutter Developer)
 - Georgios Spanos, @drvspan (Algorithmic design, Security analyst)
 - Adam H. Sparks, @adamhsparks (#rstats package author and other FOSS projects)
-- Robyn Speer, @rspeer (ConceptNet
+- Robyn Speer, @rspeer (ConceptNet)
 - Martin Splitt, @avgp (Developer Advocate, Rendertron maintainer, open source developer, Google)
 - Peter Squicciarini, @stripedpajamas (VSCodium)
 - Thorr Stevens, @thorrstevens (Javascript Developer, date-fns contributor)
+- William Stewart, @zoidbergwill (Software Engineer)
 - Christoph Stock, @stockulus (Software Engineer)
 - Christopher Styles, @christopherstyles (Software Writer, allthefarms.com co-founder)
 - Tim Sullivan, @timsully (UI/Human Factors Engineer, Splunk>, Effective.AF)
