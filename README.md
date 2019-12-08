@@ -24,6 +24,7 @@ Signed,
 - Paddy Carver, @paddycarver (Terraform contributor)
 - Taeyoon Choi, @tchoi8 (School for Poetic Computation)
 - Krzysztof Cieslak, @Krzysztof-Cieslak (CEO, OSS developer, Ionide, Saturn, FsAutocomplete)
+- Aaron Cleveland, @amclv (Software Engineer)
 - Josh Comeau, @joshwcomeau (staff software engineer, Gatsby)
 - Marc Cornellà, @mcornella (Oh My Zsh)
 - Matt Cowley, @MattIPv4 (cdnjs)
@@ -292,6 +293,5 @@ Signed,
 - Eslam Khoga, @KhogaEslam (Software Engineer)
 - Ivan Huayraña, @ivanhuay (Software Engineer, open source contributor)
 - Joe Bowser, @infil00p (Software Engineer)
-- Aaron Cleveland, @amclv (Software Engineer)
 
 [Add your signature](https://github.com/drop-ice/dear-github-2.0/issues/16)
