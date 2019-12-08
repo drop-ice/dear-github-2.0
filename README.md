@@ -110,6 +110,7 @@ Signed,
 - Roshni Biswas, @roshni-b (Software Engineer)
 - Ralf Bitter, @revig (revIgniter)
 - Elliot Blackburn, @BlueHatbRit (mdpdf, and npm package author)
+- Ben Blackmore, @bripkens (Software Engineer and NPM package author)
 - Tamzin Blake, @tamzinblake (Software Engineer)
 - Hannah Blau, @hannahblau (research software engineer)
 - Bobbbay Bobbbayan, @bobbbay (Full Stack Web Developer)
