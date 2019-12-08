@@ -392,6 +392,7 @@ Signed,
 - Joshua Shao, @jhuashao (Product Designer)
 - Josh Simmons, @joshsimmons (FOSS community organizer)
 - Kyle Simpson, @getify (Getify, YDKJS)
+- Praveen Sinha, @h0mee (Senior Software Engineer)
 - Patrick Smith, @vectorpark (Artist)
 - Caroline Soares, @carolcodes (Front End Engineer)
 - Georgios Spanos, @drvspan (Algorithmic design, Security analyst)
@@ -451,4 +452,3 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
-- Praveen Sinha, @h0mee (Senior Software Engineer)
