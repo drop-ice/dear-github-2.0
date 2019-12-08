@@ -184,6 +184,7 @@ Signed,
 - Liz Fong-Jones, @lizthegrey (Principal Developer Advocate, @honeycombio; @opentelemetry governance committee; affiliations for identification purposes only)
 - Jeff Forcier, @bitprophet (Fabric, Paramiko, etc)
 - Thomas Fuchs, @madrobby (Zepto, scriptaculous)
+- Noam Gal, @atgardner (Software Engineer)
 - Chris Galardi, @ixtli (Engineer, iphone dev team)
 - Jason Garber, @jgarber623 (web developer and standards advocate)
 - Kristal Garcia, @kgmajor (Techqueria)
@@ -445,4 +446,3 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
-- Noam Gal, @atgardner (Software Engineer)
