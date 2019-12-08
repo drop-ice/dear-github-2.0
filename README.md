@@ -479,6 +479,7 @@ Signed,
 - James Vorderbruggen, @JamesVorder (MassMesh)
 - Bex Warner, @hiimbex (X-GitHubber, Software Engineer, Human Being)
 - Jeremy Wagner, @malchata (yall.js, independent web performance consultant)
+- Shuo Wan, @wansho (Software Developer, Student)
 - Joel Wasserman, @joelwass (Software Engineer, The Teacher Fund)
 - Max Dominik Weber, @fenhl (Computer Science student, hobbyist programmer)
 - Sam Whited, @SamWhited (Go, Docker, Conversations, etc. contributor)
