@@ -120,6 +120,7 @@ Signed,
 - Kayla Brackson, @colorincode (Color in Code / Developer)
 - Leigh Brenecki, @excitedleigh (Director, PyCon Australia 2020/2021; Organiser, DjangoCon Australia 2018/2019; Founding Organiser, Python Adelaide)
 - James Brock, @jamesdbrock (Programmer)
+- Darcy Brown, @darcy (Senior Software Developer)
 - Ivan Bunčić, @ivanbuncic (Web Developer)
 - Kylan Byrd, @AvianAnalyst (Software Developer)
 - Brian Cain, @briancain (Vagrant contributor)
