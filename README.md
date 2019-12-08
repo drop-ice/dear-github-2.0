@@ -323,6 +323,7 @@ Signed,
 - Kevin Obuya, @obuya
 - Alessio Occhipinti, @LasaleFamine (Web Developer)
 - Ken Arroyo Ohori, @kenohori (Delft University of Technology)
+- Samuel Okoroafor, @s-chand (Software Engineer)
 - Rhodey Orbits, @rhodey (RadioWitness)
 - Uğur Oruc, @ketcap (Developer)
 - Leslie Owusu-Appiah, @leslieoa (Developer)
@@ -451,4 +452,3 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
-- Samuel Okoroafor, @s-chand (Software Engineer)
