@@ -455,6 +455,7 @@ Signed,
 - Ray Ryan, @rjrjr (Square)
 - Sam Saccone @samccone (Developer)
 - Vikash Saini, @enigma10 (Software Engineer)
+- Ryan Samarakoon, @SimplyBallistic (Freelance Developer)
 - Alex Sanders, @sndrs (Software Engineer)
 - Dorothy R. Santos, @dorothysantos (Processing Foundation)
 - Aleph Santos Oliveira, @haple
