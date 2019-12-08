@@ -454,6 +454,7 @@ Signed,
 - Sebastian Riedel, @kraih (Mojolicious)
 - Matt Riel, @mriel (Front-End Developer)
 - Tiago Rodrigues, @trodrigues (Software Engineer, open source contributor, previously LXJS organizer)
+- Dennis Rohner, @midzer (Software & Web Developer)
 - Filipe Roman Veloso, @rovel (Umanni)
 - Koz Ross, @kozross (awesome-c)
 - Larry Ruane, @LarryRuane (Software Engineer, Electric Coin Company)
