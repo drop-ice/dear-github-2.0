@@ -120,6 +120,7 @@ Signed,
 - Kayla Brackson, @colorincode (Color in Code / Developer)
 - Leigh Brenecki, @excitedleigh (Director, PyCon Australia 2020/2021; Organiser, DjangoCon Australia 2018/2019; Founding Organiser, Python Adelaide)
 - James Brock, @jamesdbrock (Programmer)
+- Darcy Brown, @darcy (Senior Software Developer)
 - Ivan Bunčić, @ivanbuncic (Web Developer)
 - Kylan Byrd, @AvianAnalyst (Software Developer)
 - Brian Cain, @briancain (Vagrant contributor)
@@ -145,6 +146,8 @@ Signed,
 - Alan Coopersmith, @alanc (X.Org maintainer)
 - Frances Coronel, @fvcproductions (Co-Director, Techqueria)
 - Denis Costa, @deniscostadsc (Programmer)
+- Claudius Coenen, @ccoenen (Professor, Web Application Developer)	
+- Scott Cranfill, @Scotchester (web developer)
 - Anna Cruz, @annacruz (Software developer, ofx gem maintainer)
 - Jimmy Cuadra, @jimmycuadra (Lita, Ruma)
 - Nguyen Manh Cuong, @starfruitjsc (JavaScript Developer)
@@ -155,6 +158,7 @@ Signed,
 - Michael Daryabeygi, @ginkgoMZD (CiviCRM Contributor)
 - Logan Davis, @brainsnail
 - Ian Delahorne, @iandelahorne
+- Matt Dewey, @mattfromseattle (Engagement Manager)
 - Aram Drevekenin, @imsnif (Bit)
 - Tom de Bruijn, @tombruijn (Software developer)
 - Marco Dalla Stella, @mdallastella (7bridges.eu co-founder)
@@ -209,6 +213,7 @@ Signed,
 - Jake Gealer, @JakeMakesStuff (MagicCap)
 - Florian Gilcher, @skade (Rust, Rust Berlin, Ruby Berlin e.V.)
 - Moises Gonzalez, @moigonzalez (Web Developer)
+- Kévin Goral, @PoorPocketsMcNewHold (Student, Open-source enthusiast)
 - Gregor, @gr2m (Octokit)
 - Anthony Graca, @anthonygraca (Software Developer)
 - Matheus Graciano, @graciano (tananã)
@@ -233,6 +238,7 @@ Signed,
 - April H, @NthPortal (Scala contributor)
 - Martin Haesler, @mswift42 (Software Developer)
 - Robert Hafner, @tedivm (GitConsensus, various PHP and Python libraries)
+- Beshoy Hanna, @behoyh (Software Developer)
 - Philipp Hansch, @phansch (Rust & rust-clippy contributor)
 - Frédéric Harper, @fharper
 - Phillip Harrington, @phillipsharring (Software Developer)
@@ -267,6 +273,7 @@ Signed,
 - Dante Issaias, @danteissaias (Full Stack Developer)
 - Carter Landis, @ccarterlandis (CHAOSS Researcher, Maintainer & Developer, Student)
 - Andrew-David Jahchan, @AndrewDavid (Definitely Not A Co, Wild Gamut)
+- David James, @mego22 (SRE)
 - Tomas Jansson, @mastoj (VP Engineering, Unacast)
 - Jake Jarvis, @jakejarvis (Front-End Web Developer)
 - Marc-Antoine Jean, @chevalmuscle (Software Engineer Student)
@@ -381,11 +388,13 @@ Signed,
 - Uğur Oruc, @ketcap (Developer)
 - Edoardo Ottavianelli, @edoardottt (Python/Java maintainer)
 - Leslie Owusu-Appiah, @leslieoa (Developer)
+- Eniola Oyewole, @BetiDev (Developer)
 - Sefa Ozalp, @sefabey (Data Science Researcher @ Cardiff University, HateLab)
 - Ave Ozkal, @aveao (Lead Software Developer, open source contributor; team at @elixire, @lasagnaltd, @reswitched, @switchroot)
 - Luis Padron, @luispadron (Software Engineer, ICE disliker)
 - Julien Pagès, @parkouss
 - Kirill Pahnev, @pahnev (Software Developer)
+- Benjamin Pang, @molarmanful (NYU Abu Dhabi, Developer)
 - Atish Patel, @atishpatel (Software Engineer)
 - Alexander Payne, @myrrlyn (Rust community)
 - Rosa Pérez, @paintedlbird7 (Aspiring Sofware Developer)
@@ -440,6 +449,7 @@ Signed,
 - Alex Sanders, @sndrs (Software Engineer)
 - Dorothy R. Santos, @dorothysantos (Processing Foundation)
 - Aleph Santos Oliveira, @haple
+- Daniel Santos, @imdanielsp, (Software Engineer)
 - Kaja Santro, @kajatiger, (software engineer, code curious organizer)
 - Sanjit Sarda @Sanjit1 (Student, RBHS)
 - Aki Sasaki, @escapewindow (Staff Software Engineer, Mozilla)
@@ -477,6 +487,7 @@ Signed,
 - Tim Sullivan, @timsully (UI/Human Factors Engineer, Splunk>, Effective.AF)
 - Tomasz Surowiec, @DerivedMate (Software Developer, Student)
 - Colby Swandale, @colby-swandale (Bundler, Rubygems, RubyGems.org)
+- Vladimir Támara, @vtamara (@pasosdeJesus)
 - Gueorgui Tcherednitchenko, @gueorgui (A Possible Space)
 - Bhavika Tekwani, @bhavika (Software Engineer) 
 - Peter Thaleikis, @spekulatius (Software engineer)
@@ -493,6 +504,7 @@ Signed,
 - Manuel Uberti, @manuel-uberti
 - Kashif Umair Liaqat, @kashif-umair (Senior Software Engineer)
 - Amy Unruh, @amygdala
+- Michael Upton, @uptonm (Software Engineer)
 - Pablo Barría URenda, @differentsmoke (Web Developer)
 - Johan van der Knijff, @bitsgalore (jpylyzer maintainer)
 - Anne van Kesteren, @annevk (Web Standards, Mozilla)
