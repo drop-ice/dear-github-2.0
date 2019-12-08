@@ -270,6 +270,7 @@ Signed,
 - Dante Issaias, @danteissaias (Full Stack Developer)
 - Carter Landis, @ccarterlandis (CHAOSS Researcher, Maintainer & Developer, Student)
 - Andrew-David Jahchan, @AndrewDavid (Definitely Not A Co, Wild Gamut)
+- David James, @mego22 (SRE)
 - Tomas Jansson, @mastoj (VP Engineering, Unacast)
 - Jake Jarvis, @jakejarvis (Front-End Web Developer)
 - Marc-Antoine Jean, @chevalmuscle (Software Engineer Student)
