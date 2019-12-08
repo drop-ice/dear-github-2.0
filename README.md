@@ -268,6 +268,7 @@ Signed,
 - Akshat Katiyar, @YellowFoxH4XOR (Software Engineer)
 - Avery Katko, @averykatko (Software Developer)
 - Omer Katz, @thedrow (Celery Project)
+- Tom Kenny, @twome (Web developer)
 - Eslam Khoga, @KhogaEslam (Software Engineer)
 - Kyle Kingsbury, @aphyr (Jepsen, Riemann)
 - Markus Kitsinger, @SwooshyCueb (Software Engineer)
