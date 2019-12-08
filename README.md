@@ -387,6 +387,7 @@ Signed,
 - Loren Segal, @lsegal (YARD, RubyDoc.info)
 - Eden Segal-Grossman, @edensg (Open Pit, Parent Company)
 - Subhrajyoti Sen, @SubhrajyotiSen (Mozilla contributor)
+- Potekhin Sergey, @pavlovdog (Software engineer)
 - Saul Shanabrook, @saulshanabrook (Quansight, Jupyter)
 - Shanley, @shanley (Model View Culture, Fund Club, #NoTechforICE)
 - Joshua Shao, @jhuashao (Product Designer)
@@ -451,4 +452,3 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
-- Potekhin Sergey, @pavlovdog (Software engineer)
