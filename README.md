@@ -102,6 +102,7 @@ Signed,
 - Tamzin Blake, @tamzinblake (Software Engineer)
 - Hannah Blau, @hannahblau (research software engineer)
 - Bobbbay Bobbbayan, @bobbbay (Full Stack Web Developer)
+- Tarun Boddupalli, @tarunbod (Software Developer)
 - Daniel Bolivar, @ddanielbee (Software Engineer)
 - Remie Bolte, @remie (YouTransfer.io, gfc.io)
 - Cédric Bonhomme, @cedricbonhomme (Software Engineer)
