@@ -478,6 +478,7 @@ Signed,
 - Eden Segal-Grossman, @edensg (Open Pit, Parent Company)
 - Subhrajyoti Sen, @SubhrajyotiSen (Mozilla contributor)
 - Potekhin Sergey, @pavlovdog (Software engineer)
+- Afonso Serra, @nadacomum (Computer Engineering Undergraduate)
 - Saul Shanabrook, @saulshanabrook (Quansight, Jupyter)
 - Shanley, @shanley (Model View Culture, Fund Club, #NoTechforICE)
 - Joshua Shao, @jhuashao (Product Designer)
