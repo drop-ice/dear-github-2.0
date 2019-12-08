@@ -216,6 +216,7 @@ Signed,
 - Garrett Green, @garrett-green (Software Developer)
 - Gyuri Grell, @ggrell (RxReactor, Software Developer)
 - Jack Grigg, @str4d (Cryptographic Engineer, Electric Coin Company)
+- Enrico Grillo, @redbassett (Engineer, Mobile & Web)
 - Jürgen Gmach, @jugmac00 (Software Engineer)
 - Artem Golovin, @awave1 (Web/Mobile Developer, beatmaker)
 - Thibaud Guillaume-Gentil, @thibaudgg (creator and contributor of various Ruby gems)
