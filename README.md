@@ -150,6 +150,7 @@ Signed,
 - Bryan Clark, @bryanjclark (Mobile Lead, Khan Academy)
 - Joe Clay, @17cupsofcoffee (Software Engineer)
 - Garret Cleare, @g4rret
+- William K. Cole, @grumpybozo (SysAdmin, Apache SpamAssassin PMC member)
 - Alan Coopersmith, @alanc (X.Org maintainer)
 - Frances Coronel, @fvcproductions (Co-Director, Techqueria)
 - Denis Costa, @deniscostadsc (Programmer)
