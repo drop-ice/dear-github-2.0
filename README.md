@@ -161,6 +161,7 @@ Signed,
 - Jonathan Dorety, @kyullog (Software Developer)
 - Nick Doty, @nldoty (Software Engineer)
 - Oliver Drotbohm, @odrotbohm (Software Engineer, Spring Framework)
+- Kévin Dunglas, @dunglas (Creator of @api-platform, co-maintainer of @symfony, co-founder of @coopTilleuls)
 - Robin Dupret, @robin850 (Redcarpet, Propel and Ruby on Rails contributor)
 - Coraline Ada Ehmke, @coralineada (Contributor Covenant, Beacon, Hippocratic License, and EthicalSource.dev)
 - Shawn Eisenach, @wholewheattoast (Artist and Software Developer)
@@ -451,4 +452,3 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
-- Kévin Dunglas, @dunglas (Creator of @api-platform, co-maintainer of @symfony, co-founder of @coopTilleuls)
