@@ -302,6 +302,7 @@ Signed,
 - Justin Landay, @jlanday (Data Scientist, Riot Games. Editor, The Gradient)
 - Simon Landry, @hyftar (Student)
 - Alexander Lang, @langalex (Software Engineer)
+- Oleg Lavrovsky, @loleg (Dribdat, School of Data, Frictionless Data)
 - Jake Lazaroff, @jakelazaroff (Designer/Developer)
 - Thuy Le, @1000miles (Software Engineer)
 - Cassiano Leal, @cassianoleal (DevOps / Infrastructure Engineer)
