@@ -502,6 +502,7 @@ Signed,
 - Manuel Uberti, @manuel-uberti
 - Kashif Umair Liaqat, @kashif-umair (Senior Software Engineer)
 - Amy Unruh, @amygdala
+- Michael Upton, @uptonm (Software Engineer)
 - Pablo Barría URenda, @differentsmoke (Web Developer)
 - Johan van der Knijff, @bitsgalore (jpylyzer maintainer)
 - Anne van Kesteren, @annevk (Web Standards, Mozilla)
