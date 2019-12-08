@@ -258,6 +258,7 @@ Signed,
 - Muhammad Athif Humam, @athif23 (Software Developer, Open Source Contributor)
 - Yilmaz Ibrahim, @drlinux (DevOps & Software Engineer) 
 - Fedor Indutny, @indutny (Node.js)
+- David Inoa, @davidinoa (Software Engineer)
 - Jahangir Iqbal, @jiqbal48 (Web Developer)
 - Dante Issaias, @danteissaias (Full Stack Developer)
 - Carter Landis, @ccarterlandis (CHAOSS Researcher, Maintainer & Developer, Student)
