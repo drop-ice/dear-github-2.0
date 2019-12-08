@@ -413,6 +413,7 @@ Signed,
 - Eric Schultz, @wwahammy (CommitChange, Houdini Project)
 - Michael Schurter, @schmichael (HashiCorp Nomad Team Lead)
 - Alanna Scott, @ascott (Software Engineer)
+- Camille Seaberry, @camille-s (Data analyst)
 - Loren Segal, @lsegal (YARD, RubyDoc.info)
 - Eden Segal-Grossman, @edensg (Open Pit, Parent Company)
 - Subhrajyoti Sen, @SubhrajyotiSen (Mozilla contributor)
