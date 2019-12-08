@@ -451,3 +451,4 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
+- Jashua Heredia, @Jouo (Software Developer, Student)
