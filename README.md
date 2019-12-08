@@ -340,6 +340,7 @@ Signed,
 - Brian Lonsdorf, @drboolean (Author, Software Developer)
 - isis lovecruft, @isislovecruft (Cryptographer)
 - Joseph Luck, @josephluck (Software Engineer, various open source)
+- Conner Luzier, @cluzier (Software Developer, CyberMedics LLC)
 - Jeremy Macaluso, @jvluso (Ethereum-oauth, Frame)
 - Evan Machnic, @emachnic (Railsinstaller Maintainer and Chef contributor)
 - Mathew Maidment, @lioncash (Emulator developer; Dolphin, Citra, yuzu)
