@@ -184,6 +184,7 @@ Signed,
 - Adam C. Foltzer, @acfoltzer (Lucet)
 - Kenny Foner, @kwf (Software Engineer/Researcher, Galois)
 - Liz Fong-Jones, @lizthegrey (Principal Developer Advocate, @honeycombio; @opentelemetry governance committee; affiliations for identification purposes only)
+- Daniel De Lucca Fonseca, @odelucca (Software Engineer)
 - Jeff Forcier, @bitprophet (Fabric, Paramiko, etc)
 - Thomas Fuchs, @madrobby (Zepto, scriptaculous)
 - Chris Galardi, @ixtli (Engineer, iphone dev team)
@@ -451,4 +452,3 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
-- Daniel De Lucca Fonseca, @odelucca (Software Engineer)
