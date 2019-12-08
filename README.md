@@ -372,7 +372,6 @@ Signed,
 - Ray Ryan, @rjrjr (Square)
 - Vikash Saini, @enigma10 (Software Engineer)
 - Alex Sanders, @sndrs (Software Engineer)
-- Afonso Serra, @nadacomum (Computer Engineering Undergraduate)
 - Dorothy R. Santos, @dorothysantos (Processing Foundation)
 - Aleph Santos Oliveira, @haple
 - Kaja Santro, @kajatiger, (software engineer, code curious organizer)
@@ -388,6 +387,7 @@ Signed,
 - Loren Segal, @lsegal (YARD, RubyDoc.info)
 - Eden Segal-Grossman, @edensg (Open Pit, Parent Company)
 - Subhrajyoti Sen, @SubhrajyotiSen (Mozilla contributor)
+- Afonso Serra, @nadacomum (Computer Engineering Undergraduate)
 - Saul Shanabrook, @saulshanabrook (Quansight, Jupyter)
 - Shanley, @shanley (Model View Culture, Fund Club, #NoTechforICE)
 - Joshua Shao, @jhuashao (Product Designer)
