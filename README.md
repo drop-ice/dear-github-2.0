@@ -576,3 +576,4 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
+- Esteban Delgado Trejos, @estebanDT30 (Web/Software Developer)
