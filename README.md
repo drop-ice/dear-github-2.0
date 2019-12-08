@@ -201,6 +201,7 @@ Signed,
 - Garrett Green, @garrett-green (Software Developer)
 - Gyuri Grell, @ggrell (RxReactor, Software Developer)
 - Jürgen Gmach, @jugmac00 (Software Engineer)
+- Artem Golovin, @awave1 (Web/Mobile Developer, beatmaker)
 - Thibaud Guillaume-Gentil, @thibaudgg (creator and contributor of various Ruby gems)
 - Francis Gulotta, @reconbot (Node Serialport, Request)
 - E.L. Guerrero, @thinkbulecount2 (Software Developer, PKP)
@@ -451,4 +452,3 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
-- Artem Golovin, @awave1 (Web/Mobile Developer, beatmaker)
