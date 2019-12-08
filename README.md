@@ -212,6 +212,7 @@ Signed,
 - Gyuri Grell, @ggrell (RxReactor, Software Developer)
 - Jack Grigg, @str4d (Cryptographic Engineer, Electric Coin Company)
 - Jürgen Gmach, @jugmac00 (Software Engineer)
+- Artem Golovin, @awave1 (Web/Mobile Developer, beatmaker)
 - Thibaud Guillaume-Gentil, @thibaudgg (creator and contributor of various Ruby gems)
 - Francis Gulotta, @reconbot (Node Serialport, Request)
 - E.L. Guerrero, @thinkbulecount2 (Software Developer, PKP)
