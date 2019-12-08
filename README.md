@@ -214,6 +214,7 @@ Signed,
 - Daniel Gulic, @jellz (Software Engineer)
 - Dinesh Gurnani, @dgurnani12 (EECS and Enthusiast)
 - John-Mark Gurney, @jmgurney (personal, boycott GitHub)
+- Gusted, @Gusted (Student)
 - April H, @NthPortal (Scala contributor)
 - Martin Haesler, @mswift42 (Software Developer)
 - Robert Hafner, @tedivm (GitConsensus, various PHP and Python libraries)
