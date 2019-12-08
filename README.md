@@ -294,6 +294,7 @@ Signed,
 - Kevin Ladan, @kebbbnnn (Mobile Software Engineer)
 - Kaylum Lally, @HiKaylum (Senior UX Developer, Accessibility Advocate)
 - Justin Landay, @jlanday (Data Scientist, Riot Games. Editor, The Gradient)
+- Simon Landry, @hyftar (Student)
 - Alexander Lang, @langalex (Software Engineer)
 - Jake Lazaroff, @jakelazaroff (Designer/Developer)
 - Thuy Le, @1000miles (Software Engineer)
