@@ -358,6 +358,7 @@ Signed,
 - Ryan Olson, @ryanolsonx (UI Architect, Contributor to various projects)
 - Rhodey Orbits, @rhodey (RadioWitness)
 - Uğur Oruc, @ketcap (Developer)
+- Edoardo Ottavianelli, @edoardottt (Python/Java maintainer)
 - Leslie Owusu-Appiah, @leslieoa (Developer)
 - Sefa Ozalp, @sefabey (Data Science Researcher @ Cardiff University, HateLab)
 - Ave Ozkal, @aveao (Lead Software Developer, open source contributor; team at @elixire, @lasagnaltd, @reswitched, @switchroot)
