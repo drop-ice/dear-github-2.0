@@ -202,6 +202,7 @@ Signed,
 - Tarjei Husøy, @thusoy (Megacool, saltstack contributor)
 - Jörn Huxhorn, @huxi (Software Engineer)
 - Ellie Huxtable, @ellmh (Software Engineer)
+- Yilmaz Ibrahim, @drlinux (DevOps & Software Engineer) 
 - Fedor Indutny, @indutny (Node.js)
 - Andrew-David Jahchan, @AndrewDavid (Definitely Not A Co, Wild Gamut)
 - Tomas Jansson, @mastoj (VP Engineering, Unacast)
@@ -383,4 +384,3 @@ Signed,
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
-- Yilmaz Ibrahim, @drlinux (DevOps & Software Engineer) 
