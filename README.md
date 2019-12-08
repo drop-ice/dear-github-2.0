@@ -328,6 +328,7 @@ Signed,
 - Leslie Owusu-Appiah, @leslieoa (Developer)
 - Sefa Ozalp, @sefabey (Data Science Researcher @ Cardiff University, HateLab)
 - Ave Ozkal, @aveao (Lead Software Developer, open source contributor; team at @elixire, @lasagnaltd, @reswitched, @switchroot)
+- Julien Pagès, @parkouss
 - Kirill Pahnev, @pahnev (Software Developer)
 - Alexander Payne, @myrrlyn (Rust community)
 - Rosa Pérez, @paintedlbird7 (Aspiring Sofware Developer)
@@ -451,4 +452,3 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
-- Julien Pagès, @parkouss
