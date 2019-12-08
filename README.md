@@ -359,6 +359,7 @@ Signed,
 - Kay Rhodes, @masukomi (maintainer of and contributer to multiple projects)
 - Becca Ricks, @baricks (Mozilla Foundation, tendernet)
 - Sebastian Riedel, @kraih (Mojolicious)
+- Matt Riel, @mriel (Front-End Developer)
 - Tiago Rodrigues, @trodrigues (Software Engineer, open source contributor, previously LXJS organizer)
 - Filipe Roman Veloso, @rovel (Umanni)
 - Koz Ross, @kozross (awesome-c)
@@ -451,4 +452,3 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
-- Matt Riel, @mriel (Front-End Developer)
