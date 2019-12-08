@@ -288,6 +288,7 @@ Signed,
 - Joe Kachmar, @jkachmar (Software Developer, Open Source Contributor)
 - Akshat Katiyar, @YellowFoxH4XOR (Software Engineer)
 - Avery Katko, @averykatko (Software Developer)
+- Josh Katofsky, @jkatofsky (C.S. Student at McGill University)
 - Gary Katsevman, @gkatsev (Video.js, W3C Timed Text Working Group Co-Chair, Open Source dev)
 - Omer Katz, @thedrow (Celery Project)
 - Kayvan Kazeminejad, @rchain (Cryptocurrency developer)
