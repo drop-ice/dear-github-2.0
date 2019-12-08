@@ -224,6 +224,7 @@ Signed,
 - Joshua Hoskins, @friendtocephalopods (Square)
 - Jaafari El Housseine, @jefferyhus (Software Engineer)
 - Hannah Howard, @hannahhoward (Carbon Five, RxReact)
+- Alec Hoyland, @alec-hoyland (Scientific Programmer, Xolotl)
 - Ivan Huayraña, @ivanhuay (Software Engineer, open source contributor)
 - Peter Huene, @peterhuene (Mozilla)
 - Stephen P. Huff, @hakamadare (SRE)
@@ -451,4 +452,3 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
-- Alec Hoyland, @alec-hoyland (Scientific Programmer, Xolotl)
