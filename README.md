@@ -153,6 +153,7 @@ Signed,
 - iliana destroyer of worlds, @iliana (Amazon Web Services)
 - Chance Dickson, @chancedickson (Product Engineer @ Glitch)
 - Gordon Diggs, @gdiggs
+- Selim Dincer, @wowselim (Software Developer)
 - Jason Dixon, @obfuscurity (ex-GitHub employee, Monitorama founder, open source contributor)
 - Ilya Dmitrichenko, @errordeveloper (Software Engineer)
 - Cory Dodt, @corydodt (Bright.md)
@@ -451,4 +452,3 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
-- Selim Dincer, @wowselim (Software Developer)
