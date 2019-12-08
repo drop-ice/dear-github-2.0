@@ -315,6 +315,7 @@ Signed,
 - Jamie Kyle, @jamiebuilds (Babel, Yarn, Parcel, Lerna, Flow, Marionette, Dear GitHub 1.0)
 - Soni L., @soniex2 (GAnarchy)
 - Angus L'Herrou, @angus-lherrou (Student)
+- Alexander Laarmann, @alaarmann (Web Developer)
 - Olivier Lacan, @olivierlacan (Keep a Changelog, Shields, Code School)
 - Kevin Ladan, @kebbbnnn (Mobile Software Engineer)
 - Kaylum Lally, @HiKaylum (Senior UX Developer, Accessibility Advocate)
