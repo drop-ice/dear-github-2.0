@@ -242,6 +242,7 @@ Signed,
 - Brian Jenkins, @bonkydog (npm)
 - Andrei Jiroh, @AndreiJirohHaliliDev2006 (Project Maintainer, MadeByThePinsHub)
 - Josh Junon, @qix- (Chalk, Debug, Storybook, Better Exceptions, formerly ZEIT)
+- Dave Justice, @meandavejustice (Senior Software Engineer, Mozilla)
 - Joe Kachmar, @jkachmar (Software Developer, Open Source Contributor)
 - Avery Katko, @averykatko (Software Developer)
 - Omer Katz, @thedrow (Celery Project)
@@ -450,4 +451,3 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
-- Dave Justice, @meandavejustice (Senior Software Engineer, Mozilla)
