@@ -67,7 +67,6 @@ Signed,
 - Ron. A, @0xadada (Unredacted Word)
 - Felix Ableitner, @nutomic (/e/ foundation, former developer of syncthing-android)
 - Dave Ackley, @daveackley (Best effort advocate and developer of MFM, ulam, SPLAT)
-- Dawid van der Hoven, @dawidvdh (Software Engineer)
 - Artur Diniz Adam, @artdiniz (Instructor and developer @Caelum)
 - Zac Adam-MacEwen, @ZAdamMac (KSL)
 - Ryan Addessi, @raddessi (Systems/Network Engineer)
@@ -419,6 +418,7 @@ Signed,
 - Manuel Uberti, @manuel-uberti
 - Kashif Umair Liaqat, @kashif-umair (Senior Software Engineer)
 - Pablo Barría URenda, @differentsmoke (Web Developer)
+- Dawid van der Hoven, @dawidvdh (Software Engineer)
 - Johan van der Knijff, @bitsgalore (jpylyzer maintainer)
 - Anne van Kesteren, @annevk (Web Standards, Mozilla)
 - Tara Vancil, @taravancil (Software Engineer, Glitch)
