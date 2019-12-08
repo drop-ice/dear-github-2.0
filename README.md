@@ -251,6 +251,7 @@ Signed,
 - Robert Hafner, @tedivm (GitConsensus, various PHP and Python libraries)
 - Beshoy Hanna, @behoyh (Software Developer)
 - Philipp Hansch, @phansch (Rust & rust-clippy contributor)
+- Sumana Harihareswara, @brainwane (Changeset Consulting)
 - Frédéric Harper, @fharper
 - Phillip Harrington, @phillipsharring (Software Developer)
 - James Harton, @jimsynz (Software Engineer)
