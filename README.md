@@ -209,6 +209,7 @@ Signed,
 - Jake Gealer, @JakeMakesStuff (MagicCap)
 - Florian Gilcher, @skade (Rust, Rust Berlin, Ruby Berlin e.V.)
 - Moises Gonzalez, @moigonzalez (Web Developer)
+- Kévin Goral, @PoorPocketsMcNewHold (Student, Open-source enthusiast)
 - Gregor, @gr2m (Octokit)
 - Anthony Graca, @anthonygraca (Software Developer)
 - Matheus Graciano, @graciano (tananã)
