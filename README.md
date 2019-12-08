@@ -183,6 +183,7 @@ Signed,
 - E.L. Guerrero, @thinkbulecount2 (Software Developer, PKP)
 - Dinesh Gurnani, @dgurnani12 (EECS and Enthusiast)
 - John-Mark Gurney, @jmgurney (personal, boycott GitHub)
+- Gusted, @Gusted (Student)
 - April H, @NthPortal (Scala contributor)
 - Robert Hafner, @tedivm (GitConsensus, various PHP and Python libraries)
 - Philipp Hansch, @phansch (Rust & rust-clippy contributor)
@@ -382,4 +383,3 @@ Signed,
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
-- Gusted, @Gusted (Student)
