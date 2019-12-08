@@ -205,6 +205,7 @@ Signed,
 - Florian Gilcher, @skade (Rust, Rust Berlin, Ruby Berlin e.V.)
 - Moises Gonzalez, @moigonzalez (Web Developer)
 - Gregor, @gr2m (Octokit)
+- Anthony Graca, @anthonygraca (Software Developer)
 - Matheus Graciano, @graciano (tananã)
 - Vincent Grafé, @vgrafe
 - Reilly Grant, @reillyeon (W3C Devices and Sensors WG Co-chair, Google)
