@@ -447,6 +447,7 @@ Signed,
 - Thorr Stevens, @thorrstevens (Javascript Developer, date-fns contributor)
 - Christoph Stock, @stockulus (Software Engineer)
 - Christopher Styles, @christopherstyles (Software Writer, allthefarms.com co-founder)
+- Tim Sullivan, @timsully (UI/Human Factors Engineer, Splunk>, Effective.AF)
 - Tomasz Surowiec, @DerivedMate (Software Developer, Student)
 - Colby Swandale, @colby-swandale (Bundler, Rubygems, RubyGems.org)
 - Gueorgui Tcherednitchenko, @gueorgui (A Possible Space)
