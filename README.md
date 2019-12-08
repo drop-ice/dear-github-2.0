@@ -276,6 +276,7 @@ Signed,
 - Daniel Liljeberg, @LiljebergXYZ (Backend Developer)
 - Richard Littauer, @RichardLitt (Maintainer Mountaineer)
 - Enric Llagostera, @enricllagostera (Game designer and PhD student, Concordia University)
+- Conner Luzier, @cluzier (Software Developer, CyberMedics LLC)
 - Noel Francis Lobo, @coffeestains (Web Developer, Python Programmer)
 - isis lovecruft, @isislovecruft (Cryptographer)
 - Joseph Luck, @josephluck (Software Engineer, various open source)
