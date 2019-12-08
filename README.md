@@ -371,6 +371,7 @@ Signed,
 - Nick Ruest, @ruebot (York University)
 - Ray Ryan, @rjrjr (Square)
 - Vikash Saini, @enigma10 (Software Engineer)
+- Ryan Samarakoon, @SimplyBallistic (Freelance Developer)
 - Alex Sanders, @sndrs (Software Engineer)
 - Dorothy R. Santos, @dorothysantos (Processing Foundation)
 - Aleph Santos Oliveira, @haple
