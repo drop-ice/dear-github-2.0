@@ -390,6 +390,7 @@ Signed,
 - Adam Recvlohe, @arecvlohe (Natives in Tech)
 - Jan-Erik Rediger, @badboy (Rust, Rust Berlin, RustFest, Mozilla)
 - Justin Reese, @justaddcoffee
+- Enno Rehling, @ennorehling (Software Engineer)
 - Benard Rémi, @remopong (Student in electronics)
 - Pedro Reys, @pedroreys (Programmer)
 - Kay Rhodes, @masukomi (maintainer of and contributer to multiple projects)
