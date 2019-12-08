@@ -221,6 +221,7 @@ Signed,
 - Jason Garber, @jgarber623 (web developer and standards advocate)
 - Kristal Garcia, @kgmajor (Techqueria)
 - Jake Gealer, @JakeMakesStuff (MagicCap)
+- Pejman Ghorbanzade, @ghorbanzade (Software Engineer)
 - Florian Gilcher, @skade (Rust, Rust Berlin, Ruby Berlin e.V.)
 - Moises Gonzalez, @moigonzalez (Web Developer)
 - Kévin Goral, @PoorPocketsMcNewHold (Student, Open-source enthusiast)
