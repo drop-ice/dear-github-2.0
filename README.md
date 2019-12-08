@@ -211,6 +211,7 @@ Signed,
 - Martin Haesler, @mswift42 (Software Developer)
 - Robert Hafner, @tedivm (GitConsensus, various PHP and Python libraries)
 - Philipp Hansch, @phansch (Rust & rust-clippy contributor)
+- Sumana Harihareswara, @brainwane (Changeset Consulting)
 - Frédéric Harper, @fharper
 - Phillip Harrington, @phillipsharring (Software Developer)
 - Elana Hashman, @ehashman (Open Source Initiative, Debian, Python Packaging Authority, Kubernetes)
