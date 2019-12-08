@@ -133,6 +133,7 @@ Signed,
 - Alan Coopersmith, @alanc (X.Org maintainer)
 - Frances Coronel, @fvcproductions (Co-Director, Techqueria)
 - Denis Costa, @deniscostadsc (Programmer)
+- Claudius Coenen, @ccoenen (Professor, Web Application Developer)
 - Anna Cruz, @annacruz (Software developer, ofx gem maintainer)
 - Jimmy Cuadra, @jimmycuadra (Lita, Ruma)
 - Nguyen Manh Cuong, @starfruitjsc (JavaScript Developer)
@@ -451,4 +452,3 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
-- Claudius Coenen, @ccoenen (Professor, Web Application Developer)
