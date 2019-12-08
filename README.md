@@ -393,6 +393,7 @@ Signed,
 - Josh Simmons, @joshsimmons (FOSS community organizer)
 - Kyle Simpson, @getify (Getify, YDKJS)
 - Patrick Smith, @vectorpark (Artist)
+- David Snyder, @gypsydangerous (Student/Software Engineer)
 - Caroline Soares, @carolcodes (Front End Engineer)
 - Georgios Spanos, @drvspan (Algorithmic design, Security analyst)
 - Adam H. Sparks, @adamhsparks (#rstats package author and other FOSS projects)
@@ -451,4 +452,3 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
-- David Snyder, @gypsydangerous (Student/Software Engineer)
