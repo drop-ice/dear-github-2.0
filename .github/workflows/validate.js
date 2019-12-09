@@ -87,14 +87,9 @@ if (!line) {
 	process.exit(1);
 }
 
-const beforeLastName = beforeLine[1].split(/\s+/g).pop();
-const afterLastName = afterLine[1].split(/\s+/g).pop();
-const lastName = line[1].split(/\s+/g).pop();
-
-if (beforeLastName > lastName || afterLastName < lastName) {
-	console.error('Signature does not appear to be alphabetical order');
-	process.exit(1);
-}
+const beforeLastName = beforeLine[1].trim().split(/\s+/g)[2];
+const afterLastName = afterLine[1].trim().split(/\s+/g)[2];
+const lastName = line[1].trim().split(/\s+/g)[2];
 
 if (line[2].toLowerCase() !== process.env.GITHUB_ACTOR.toLowerCase()) {
 	console.error('Added username does not match pull requester!');
@@ -102,5 +97,14 @@ if (line[2].toLowerCase() !== process.env.GITHUB_ACTOR.toLowerCase()) {
 	console.error('- GITHUB_ACTOR:', process.env.GITHUB_ACTOR);
 	process.exit(1);
 }
+
+if (beforeLastName > lastName || afterLastName < lastName) {
+	console.error('Signature does not appear to be alphabetical order');
+	console.error('- Last name detected:' lastName);
+	console.error('- The code used to check alphabetical order is very naive -- please ignore if it gets it wrong!');
+	process.exit(1);
+}
+
+
 
 console.error('\n\nSIGNATURE PASSED STRICT VALIDATION');
