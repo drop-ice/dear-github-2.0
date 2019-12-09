@@ -371,6 +371,7 @@ Signed,
 - Scott Matsuda, @Scotterpops19
 - Felix Mattick, @kognise (js and open-source)
 - Justin Mazzocchi, @jzzocc (Software Developer)
+- Raymond G McCord, @slowizzm (Interactive Developer | Designer | Educator @ Missouri State University | Grad student - M.F.A. Interactive Design & Game Development S.C.A.D.)
 - Brian McFee, @bmcfee (librosa)
 - Rob McLarty, @robmclarty (js, bikes, infosec)
 - Damien McKenna, @damienmckenna (Drupal contributor)
