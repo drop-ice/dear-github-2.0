@@ -272,6 +272,7 @@ Signed,
 - Colby Swandale, @colby-swandale (Bundler, Rubygems, RubyGems.org)
 - Gueorgui Tcherednitchenko, @gueorgui (A Possible Space)
 - Tilde Thurium, @annthurium (Atom Editor contributor, Write Speak Code organizer)
+- Nigel Tiany, @nigeltiany (Concerned Immigrant)
 - Thomas Tortorini, @mr21 (gridsound)
 - Artemis Tosini, @artemist (independent security researcher)
 - Matt Travi @travi (greenkeeper-keeper, GitHub Settings)
@@ -301,5 +302,4 @@ Signed,
 - Younes Zakaria, @drcd (lp0.dk)
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Andreas Zecher, @pixelate (Web Developer)
-- Nigel Tiany, @nigeltiany (Concerned Immigrant)
 
