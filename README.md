@@ -172,6 +172,7 @@ Signed,
 - Timothy Dang, @timdang (Software Engineer)
 - Jon Daniel, @binarycleric (Infrastructure Engineer, Heroku)
 - Michael Daryabeygi, @ginkgoMZD (CiviCRM Contributor)
+- Mate David, @rothens (Software Dev)
 - Logan Davis, @brainsnail
 - Jan De Wilde, @jandw (Web developer)
 - Ian Delahorne, @iandelahorne
@@ -308,7 +309,6 @@ Signed,
 - Jake Jarvis, @jakejarvis (Front-End Web Developer)
 - Marc-Antoine Jean, @chevalmuscle (Software Engineer Student)
 - Marcus Jensen, @Lomztein (Software Engineering Student, Hobbyist Developer)
-- Mate David, @rothens (Software Dev)
 - Brian Jenkins, @bonkydog (npm)
 - Andrei Jiroh, @AndreiJirohHaliliDev2006 (Project Maintainer, MadeByThePinsHub)
 - Josh Junon, @qix- (Chalk, Debug, Storybook, Better Exceptions, formerly ZEIT)
