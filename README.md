@@ -181,6 +181,7 @@ Signed,
 - Marco Dalla Stella, @mdallastella (7bridges.eu co-founder)
 - Andy Davidoff, @disruptek (computer user)
 - Matthew Dean, @matthew-dean (Less.js)
+- Esteban Delgado Trejos, @estebanDT30 (Software/Web Developer)
 - Suhas Deshpande, @suhasdeshpande (Typescript & Angular contributor)
 - Henry Desroches, @xdesro (Faculty)
 - iliana destroyer of worlds, @iliana (Amazon Web Services)
