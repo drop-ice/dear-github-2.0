@@ -149,6 +149,7 @@ Signed,
 - Matt Chapman, @matt2000 (Code Contributor to many open-source projects)
 - Mitch Chapman, @mchapman87501 (Software Developer)
 - Christian Chaux, @Xwilarg (Software Developer, Student)
+- James Cherven, @jcherven (Web Hobbyist)
 - David Chopin, @ChopinDavid (Software Developer, student)
 - Andrew Chou, @achou11 (Software Engineer)
 - Bryan Clark, @bryanjclark (Mobile Lead, Khan Academy)
