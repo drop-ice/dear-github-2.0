@@ -306,6 +306,7 @@ Signed,
 - August Miller, @augustmiller (Web Developer)
 - Tony Miller, @mcfiredrill (@datafruits, @streampusher, open source contributor)
 - Matt Mills, @photomattmills (Software Engineer, ElixirBridge co-founder)
+- Keziah Moselle, @KeziahMoselle (Front-end developer)
 - Ryan Mottley, @ligerzero459 (Help.com)
 - Jose Munoz, @jdmg94 (Software Engineer)
 - Thomas Russell Murphy, @thomasrussellmurphy (iStyle Verilog maintainer)
@@ -451,4 +452,3 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
-- Keziah Moselle, @KeziahMoselle (Front-end developer)
