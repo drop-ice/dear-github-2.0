@@ -168,6 +168,7 @@ Signed,
 - Jon Daniel, @binarycleric (Infrastructure Engineer, Heroku)
 - Michael Daryabeygi, @ginkgoMZD (CiviCRM Contributor)
 - Logan Davis, @brainsnail
+- Jan De Wilde, @jandw (Web developer)
 - Ian Delahorne, @iandelahorne
 - Matt Dewey, @mattfromseattle (Engagement Manager)
 - Aram Drevekenin, @imsnif (Bit)
