@@ -154,6 +154,7 @@ Signed,
 - Claudius Coenen, @ccoenen (Professor, Web Application Developer)
 - William K. Cole, @grumpybozo (SysAdmin, Apache SpamAssassin PMC member)
 - Alan Coopersmith, @alanc (X.Org maintainer)
+- Joe Corcoran, @joecorcoran (software engineer, Travis CI, Ruby)
 - Frances Coronel, @fvcproductions (Co-Director, Techqueria)
 - Denis Costa, @deniscostadsc (Programmer)
 - Scott Cranfill, @Scotchester (web developer)
