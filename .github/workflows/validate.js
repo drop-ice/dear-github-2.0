@@ -28,17 +28,23 @@ console.error('############## END DIFF ##############\n\n');
 
 const readme = diff.filter(({from, to}) => (from === to) && (from == 'README.md'));
 
+
+// Check if change is in README
 if (readme.length !== 1) {
 	console.error('PR changes files other than README');
 	process.exit(1);
 }
 
+console.log('PR only changes README');
+
+
+// Check if only one line is changed
 const chunks = readme[0].chunks;
 
 if (chunks.length !== 1) {
 	console.error('Too many things changed in the README.');
 	process.exit(1);
-}
+} 
 
 let addedIndex = -1;
 const added = chunks[0].changes.filter((c, i) => {
@@ -55,6 +61,10 @@ if (added.length !== 1) {
 	process.exit(1);
 }
 
+console.log('PR only changes one line');	
+
+
+//Check if change is somewhere in the middle of signers
 if (addedIndex === 0) {
 	console.error('Added line to beginning of README.');
 	process.exit(1);
@@ -65,6 +75,10 @@ if (addedIndex === chunks[0].changes.length - 1) {
 	process.exit(1);
 }
 
+console.log('Line is not at beginning or end of signers');
+
+
+//Check format of signature
 const linePattern = /^\- ([^,]+), @([^ ,]+)(?: \([^)]+\))?$/;
 
 // The substring is to cut off the initial "+"/"-", if any
@@ -87,16 +101,14 @@ if (!line) {
 	process.exit(1);
 }
 
+console.log('Signature is formatted correctly');
+
+
+//(naively) check alphabetization
 const beforeLastName = beforeLine[1].trim().split(/\s+/g)[2];
 const afterLastName = afterLine[1].trim().split(/\s+/g)[2];
 const lastName = line[1].trim().split(/\s+/g)[2];
 
-if (line[2].toLowerCase() !== process.env.GITHUB_ACTOR.toLowerCase()) {
-	console.error('Added username does not match pull requester!');
-	console.error('- Detected from README:', line[2]);
-	console.error('- GITHUB_ACTOR:', process.env.GITHUB_ACTOR);
-	process.exit(1);
-}
 
 if (beforeLastName > lastName || afterLastName < lastName) {
 	console.error('Signature does not appear to be alphabetical order');
@@ -105,6 +117,19 @@ if (beforeLastName > lastName || afterLastName < lastName) {
 	process.exit(1);
 }
 
+console.log('Alphabetization looks okay');
 
 
-console.error('\n\nSIGNATURE PASSED STRICT VALIDATION');
+//Check if PR is from signee
+
+if (line[2].toLowerCase() !== process.env.GITHUB_ACTOR.toLowerCase()) {
+	console.error('Added username does not match pull requester!');
+	console.error('- Detected from README:', line[2]);
+	console.error('- GITHUB_ACTOR:', process.env.GITHUB_ACTOR);
+	process.exit(1);
+}
+
+
+
+
+console.log('\n\nSIGNATURE PASSED STRICT VALIDATION');
