@@ -594,6 +594,7 @@ Signed,
 - Casey Webb, @caseyWebb (Software Developer)
 - Max Dominik Weber, @fenhl (Computer Science student, hobbyist programmer)
 - Michael Weems, @weems (Information Security Researcher, Programmer)
+- Marcial White, @mars64 (Infrastructure Engineer)
 - Sam Whited, @SamWhited (Go, Docker, Conversations, etc. contributor)
 - whitequark, @whitequark (SolveSpace, nMigen, LLVM)
 - Jamie Wilkinson, @jaqx0r (Google SRE)
@@ -621,4 +622,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Marcial White, @mars64 (Infrastructure Engineer)
