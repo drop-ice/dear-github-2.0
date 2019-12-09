@@ -334,6 +334,7 @@ Signed,
 - Masafumi Koba, @ybiquitous (Software Developer)
 - Renée Kooi, @goto-bus-stop (browserify; Clinic.js; Uppy)
 - Jakub Koralewski, @JakubKoralewski (j³)
+- Jakub Kozłowski, @kubukoz (Scala developer, Cats contributor)
 - Anna Krasner, @annakrasner (Software Engineer, Game Developer)
 - Kevin Krieger, @kkrieger85 (#Openmage, different Magento1 Modules/Shops)
 - Dennis Kromhout van der Meer, @flxfxp (Salesforce, Director of Product Management)
