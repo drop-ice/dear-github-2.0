@@ -449,6 +449,7 @@ Signed,
 - Julien Pagès, @parkouss
 - Kirill Pahnev, @pahnev (Software Developer)
 - Benjamin Pang, @molarmanful (NYU Abu Dhabi, Developer)
+- Saad Pasta, @saadpasta (Jr Software Developer)
 - Atish Patel, @atishpatel (Software Engineer)
 - Alexander Payne, @myrrlyn (Rust community)
 - Rosa Pérez, @paintedlbird7 (Aspiring Sofware Developer)
@@ -619,4 +620,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Saad Pasta, @saadpasta (Jr Software Developer)
