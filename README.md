@@ -483,6 +483,7 @@ Signed,
 - Sanjit Sarda @Sanjit1 (Student, RBHS)
 - Aki Sasaki, @escapewindow (Staff Software Engineer, Mozilla)
 - Josiah Savary, @jozanza (Software Engineer)
+- Leah Scampoli, @leahscampoli (Technical Writer, Ruma)
 - Tobi Schäfer, @p3k (Antville.org)
 - Alvaro Scheid, @ascheid (IT Security Analyst, OLG) 
 - Andrew Scheuermann, @a15n (Airbnb)
