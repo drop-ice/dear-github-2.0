@@ -308,6 +308,7 @@ Signed,
 - Jake Jarvis, @jakejarvis (Front-End Web Developer)
 - Marc-Antoine Jean, @chevalmuscle (Software Engineer Student)
 - Marcus Jensen, @Lomztein (Software Engineering Student, Hobbyist Developer)
+- Mate David, @rothens (Software Dev)
 - Brian Jenkins, @bonkydog (npm)
 - Andrei Jiroh, @AndreiJirohHaliliDev2006 (Project Maintainer, MadeByThePinsHub)
 - Josh Junon, @qix- (Chalk, Debug, Storybook, Better Exceptions, formerly ZEIT)
@@ -621,4 +622,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Mate David, @rothens (Software Dev)
