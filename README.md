@@ -578,6 +578,7 @@ Signed,
 - Max Dominik Weber, @fenhl (Computer Science student, hobbyist programmer)
 - Michael Weems, @weems (Information Security Researcher, Programmer)
 - Sam Whited, @SamWhited (Go, Docker, Conversations, etc. contributor)
+- whitequark, @whitequark (SolveSpace, nMigen, LLVM)
 - Jamie Wilkinson, @jaqx0r (Google SRE)
 - Stephanie Wilkinson, @stephaniewilkinson (@naisorg)
 - Dominik Wilkowski @dominikwilkowski (Thinkmill, Australian Government, Westpac)
