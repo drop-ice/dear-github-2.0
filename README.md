@@ -63,7 +63,7 @@ Signed,
 - Natalie Weizenbaum, @nex3 (Sass)
 - Greg Wilson, @gvwilson (RStudio)
 
-----
+---
 
 [Add your signature below](https://github.com/drop-ice/dear-github-2.0/issues/16)
 
@@ -274,7 +274,7 @@ Signed,
 - Jacob Helwig, @jhelwig (Calagator)
 - Julian Hem, @notnite (Software Engineer)
 - Jashua Heredia, @Jouo (Software Developer, Student)
-- Raquel Hernandez, @maggit (Senior Software Engineer / Engineering Manager @raqueldotnyc) 
+- Raquel Hernandez, @maggit (Senior Software Engineer / Engineering Manager @raqueldotnyc)
 - Uriel Hernández, @urielhdz (Software Engineer)
 - Jacob Herrington, @jacobherrington (Solidus)
 - Guilherme Herzog, @guiherzog (Software Engineer)
@@ -296,7 +296,7 @@ Signed,
 - Jörn Huxhorn, @huxi (Software Engineer)
 - Ellie Huxtable, @ellmh (Software Engineer)
 - Muhammad Athif Humam, @athif23 (Software Developer, Open Source Contributor)
-- Yilmaz Ibrahim, @drlinux (DevOps & Software Engineer) 
+- Yilmaz Ibrahim, @drlinux (DevOps & Software Engineer)
 - Fedor Indutny, @indutny (Node.js)
 - David Inoa, @davidinoa (Software Engineer)
 - Jahangir Iqbal, @jiqbal48 (Web Developer)
@@ -515,7 +515,7 @@ Signed,
 - Josiah Savary, @jozanza (Software Engineer)
 - Leah Scampoli, @leahscampoli (Technical Writer, Ruma)
 - Tobi Schäfer, @p3k (Antville.org)
-- Alvaro Scheid, @ascheid (IT Security Analyst, OLG) 
+- Alvaro Scheid, @ascheid (IT Security Analyst, OLG)
 - Andrew Scheuermann, @a15n (Airbnb)
 - Moritz Schlarb, @moschlar (Cloud Engineer)
 - Eric Schultz, @wwahammy (CommitChange, Houdini Project)
@@ -535,6 +535,7 @@ Signed,
 - Josh Simmons, @joshsimmons (FOSS community organizer)
 - Kyle Simpson, @getify (Getify, YDKJS)
 - Praveen Sinha, @h0mee (Senior Software Engineer)
+- Gene Smith, @gene-smith (Tech Director, Developer)
 - Patrick Smith, @vectorpark (Artist)
 - David Snyder, @gypsydangerous (Student/Software Engineer)
 - Caroline Soares, @carolcodes (Front End Engineer)
@@ -554,7 +555,7 @@ Signed,
 - Vladimir Támara, @vtamara (@pasosdeJesus)
 - Eriec Tanijaya, @EriecTanijaya (College Student)
 - Gueorgui Tcherednitchenko, @gueorgui (A Possible Space)
-- Bhavika Tekwani, @bhavika (Software Engineer) 
+- Bhavika Tekwani, @bhavika (Software Engineer)
 - Peter Thaleikis, @spekulatius (Software engineer)
 - Tilde Thurium, @annthurium (Atom Editor contributor, Write Speak Code organizer)
 - Nigel Tiany, @nigeltiany (Concerned Immigrant)
