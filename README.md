@@ -270,6 +270,7 @@ Signed,
 - Phillip Harrington, @phillipsharring (Software Developer)
 - James Harton, @jimsynz (Software Engineer)
 - Elana Hashman, @ehashman (Open Source Initiative, Debian, Python Packaging Authority, Kubernetes)
+- Richo Healey, @richo (Computer Jerk)
 - Martin Heidegger, @martinheidegger (consento-org, jsconfjp, ...)
 - Jacob Helwig, @jhelwig (Calagator)
 - Julian Hem, @notnite (Software Engineer)
