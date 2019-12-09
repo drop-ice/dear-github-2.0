@@ -311,6 +311,7 @@ Signed,
 - Joe Kachmar, @jkachmar (Software Developer, Open Source Contributor)
 - Matt Kaemmerer, @mkaemmerer (Design Technologist)
 - Ivan Kaloyanov, @IvanKaloyanov (Software Developer)
+- Piotr Kaminski, @piotrekkaminski (Product Manager in the open source space)
 - Akshat Katiyar, @YellowFoxH4XOR (Software Engineer)
 - Avery Katko, @averykatko (Software Developer)
 - Josh Katofsky, @jkatofsky (C.S. Student at McGill University)
