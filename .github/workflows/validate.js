@@ -121,8 +121,9 @@ console.log('✅ Alphabetization looks okay');
 
 
 //Check if PR is from signee
+const pullRequester = process.env.GITHUB_ACTOR.toLowerCase();
 
-if (line[2].toLowerCase() !== process.env.GITHUB_ACTOR.toLowerCase()) {
+if ((line[2].toLowerCase() !== pullRequester) || line[2].toLowerCase() !== 'drop-ice') {
 	console.error('❗Added username does not match pull requester!');
 	console.error('- Detected from README:', line[2]);
 	console.error('- GITHUB_ACTOR:', process.env.GITHUB_ACTOR);
