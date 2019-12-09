@@ -186,6 +186,7 @@ Signed,
 - Thomas Donoghue, @TomDonoghue (open-source software developer)
 - Jonathan Dorety, @kyullog (Software Developer)
 - Nick Doty, @nldoty (Software Engineer)
+- Jarad Downing, @jaraddowning (DevOps Engineer)
 - Oliver Drotbohm, @odrotbohm (Software Engineer, Spring Framework)
 - Victor Du, @DrDab (Full-Stack Developer, Infosec Researcher)
 - Kévin Dunglas, @dunglas (Creator of @api-platform, co-maintainer of @symfony, co-founder of @coopTilleuls)
