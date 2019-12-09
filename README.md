@@ -385,6 +385,7 @@ Signed,
 - Felix Mattick, @kognise (js and open-source)
 - Justin Mazzocchi, @jzzocc (Software Developer)
 - Raymond G McCord, @slowizzm (Interactive Developer | Designer | Educator @ Missouri State University | Grad student - M.F.A. Interactive Design & Game Development S.C.A.D.)
+- Maureen McElaney, @mmcelaney (Developer Advocate, Women in Machine Learning and Data Science, Vermont Technology Alliance)
 - Brian McFee, @bmcfee (librosa)
 - Rob McLarty, @robmclarty (js, bikes, infosec)
 - Damien McKenna, @damienmckenna (Drupal contributor)
