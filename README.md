@@ -227,6 +227,7 @@ Signed,
 - Cate Golding, @decafhotchocolate (Student, Software & Web Developer)
 - Moises Gonzalez, @moigonzalez (Web Developer)
 - Kévin Goral, @PoorPocketsMcNewHold (Student, Open-source enthusiast)
+- Andrew Gorcester, @andrewsg (Software Engineer)
 - Gregor, @gr2m (Octokit)
 - Anthony Graca, @anthonygraca (Software Developer)
 - Matheus Graciano, @graciano (tananã)
