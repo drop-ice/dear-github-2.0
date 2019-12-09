@@ -100,7 +100,7 @@ if (line[2].toLowerCase() !== process.env.GITHUB_ACTOR.toLowerCase()) {
 
 if (beforeLastName > lastName || afterLastName < lastName) {
 	console.error('Signature does not appear to be alphabetical order');
-	console.error('- Last name detected:' lastName);
+	console.error('- Last name detected:', lastName);
 	console.error('- The code used to check alphabetical order is very naive -- please ignore if it gets it wrong!');
 	process.exit(1);
 }
