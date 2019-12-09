@@ -297,9 +297,9 @@ Signed,
 - Eslam Khoga, @KhogaEslam (Software Engineer)
 - Ivan Huayraña, @ivanhuay (Software Engineer, open source contributor)
 - Joe Bowser, @infil00p (Software Engineer)
-- Nigel Tiany, @nigeltiany (Concerned Immigrant)
 - Chris J. Zähller, @seezee (Messenger Web Design, Mercury Photo Bureau, WP FOFT Loader plugin for WordPress)
 - Younes Zakaria, @drcd (lp0.dk)
 - Enrique Zamudio, @chochos (Ceylon, j8583, javaMexico)
 - Andreas Zecher, @pixelate (Web Developer)
+- Nigel Tiany, @nigeltiany (Concerned Immigrant)
 
