@@ -497,6 +497,7 @@ Signed,
 - Nick Ruest, @ruebot (York University)
 - Ray Ryan, @rjrjr (Square)
 - Sam Saccone, @samccone (Developer)
+- Vaibhav Sagar, @vaibhavsagar (IHaskell maintainer)
 - Vikash Saini, @enigma10 (Software Engineer)
 - Ryan Samarakoon, @SimplyBallistic (Freelance Developer)
 - Alex Sanders, @sndrs (Software Engineer)
