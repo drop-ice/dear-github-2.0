@@ -52,6 +52,7 @@ Signed,
 - David Nicholson, @NickleDave (contributor to scientific Python libraries)
 - Tim Pope, @tpope (Vim plugins)
 - Jordan Rose, @belkadan (Swift contributor)
+- Gaurav Sachdeva, @gauravano (Maintainer, Public Lab)
 - Jordan Santell, @jsantell (immersive web tools)
 - Richard Schneeman, @schneems (CodeTriage creator, Puma, Sprockets, Ruby on Rails contributor)
 - Pam Selle, @pselle (former IOpipe maintainer, Terraform contributor)
