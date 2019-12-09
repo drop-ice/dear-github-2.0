@@ -510,6 +510,7 @@ Signed,
 - Shanley, @shanley (Model View Culture, Fund Club, #NoTechforICE)
 - Joshua Shao, @jhuashao (Product Designer)
 - Justin Sherman, @jsherman256 (Software Engineer)
+- Ryan Shipp, @rshipp (Software Engineer)
 - Josh Simmons, @joshsimmons (FOSS community organizer)
 - Kyle Simpson, @getify (Getify, YDKJS)
 - Praveen Sinha, @h0mee (Senior Software Engineer)
