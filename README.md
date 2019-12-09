@@ -443,6 +443,7 @@ Signed,
 - Marco Perone, @marcosh (Statebox)
 - Steve Peters, @scpeters (Software Engineer, Homebrew maintainer)
 - Penelope Phippen, @penelope_zone (Maintainer RSpec/Rubyfmt)
+- Trey Piepmeier, @trey (Trey Labs)
 - Simon Pieters, @zcorpan (Web Standards, Bocoup)
 - Louis Pilfold, @lpil (Gleam, BEAM ecosystem)
 - Emily Pillmore, @emilypi (cohomolo.gy)
