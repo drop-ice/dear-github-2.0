@@ -594,6 +594,7 @@ Signed,
 - Frank Wong, @f-wong (Principal Engineer, DevOps & Cloud)
 - Titus Wormer, @wooorm (Software engineer)
 - Andy Wortman, @iximeow (Lucet, open-source contributor)
+- Thomas Wouters, @Yhg1s (Python)
 - Amy Wright, @AmyWrightDev (Game Programmer and Reverse Engineer)
 - Adam Yi, @adamyi (Software Engineer)
 - Cheng You Bai, @cybai (Software Engineer)
