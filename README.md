@@ -562,6 +562,7 @@ Signed,
 - Dawid van der Hoven, @dawidvdh (Software Engineer)
 - Johan van der Knijff, @bitsgalore (jpylyzer maintainer)
 - Anne van Kesteren, @annevk (Web Standards, Mozilla)
+- Scott van Looy, @scottbert (Softeare Engineer/Founder, ojoho)
 - Sylvia van Os, @TheLastProject (UNIX Engineer, Open Source developer)
 - Tara Vancil, @taravancil (Software Engineer, Glitch)
 - André Varandas, @iamvarandas (Software Developer)
