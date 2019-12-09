@@ -450,6 +450,7 @@ Signed,
 - Julien Pagès, @parkouss
 - Kirill Pahnev, @pahnev (Software Developer)
 - Benjamin Pang, @molarmanful (NYU Abu Dhabi, Developer)
+- Byungjin Park, @posquit0 (Software Engineer)
 - Atish Patel, @atishpatel (Software Engineer)
 - Alexander Payne, @myrrlyn (Rust community)
 - Rosa Pérez, @paintedlbird7 (Aspiring Sofware Developer)
