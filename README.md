@@ -159,6 +159,7 @@ Signed,
 - Scott Cranfill, @Scotchester (web developer)
 - Anna Cruz, @annacruz (Software developer, ofx gem maintainer)
 - Jimmy Cuadra, @jimmycuadra (Lita, Ruma)
+- Tomás Agustin Cunningham, @Cunntomas (Web developer)
 - Nguyen Manh Cuong, @starfruitjsc (JavaScript Developer)
 - Tierney Cyren, @bnb (Node.js, OpenJS Foundation, Cutenode, Electron)
 - Paul D'Ambra, @pauldambra (Software Engineer)
