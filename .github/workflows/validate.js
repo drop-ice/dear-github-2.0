@@ -109,6 +109,9 @@ const beforeLastName = beforeLine[1].trim().split(/\s+/g)[2];
 const afterLastName = afterLine[1].trim().split(/\s+/g)[2];
 const lastName = line[1].trim().split(/\s+/g)[2];
 
+console.log('- beforeLastName:', beforeLastName);
+console.log('- afterLastName:', afterLastName);
+console.log('- lastName:', lastName);
 
 if (beforeLastName > lastName || afterLastName < lastName) {
 	console.error('❗Signature does not appear to be alphabetical order');
