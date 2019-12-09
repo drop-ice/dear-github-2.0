@@ -308,7 +308,7 @@ Signed,
 - Dave Justice, @meandavejustice (Senior Software Engineer, Mozilla)
 - Joe Kachmar, @jkachmar (Software Developer, Open Source Contributor)
 - Matt Kaemmerer, @mkaemmerer (Design Technologist)
-- Ivan Kaloyanov @IvanKaloyanov (Software Developer)
+- Ivan Kaloyanov, @IvanKaloyanov (Software Developer)
 - Akshat Katiyar, @YellowFoxH4XOR (Software Engineer)
 - Avery Katko, @averykatko (Software Developer)
 - Josh Katofsky, @jkatofsky (C.S. Student at McGill University)
