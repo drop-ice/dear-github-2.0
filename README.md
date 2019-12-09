@@ -269,6 +269,7 @@ Signed,
 - Julian Hem, @notnite (Software Engineer)
 - Jashua Heredia, @Jouo (Software Developer, Student)
 - Raquel Hernandez, @maggit (Senior Software Engineer / Engineering Manager @raqueldotnyc) 
+- Uriel Hernández, @urielhdz (Software Engineer)
 - Jacob Herrington, @jacobherrington (Solidus)
 - Guilherme Herzog, @guiherzog (Software Engineer)
 - Patrick Hickey, @pchickey (WebAssembly software developer)
