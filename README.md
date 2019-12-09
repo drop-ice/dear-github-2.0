@@ -379,6 +379,7 @@ Signed,
 - Erik Marks, @rekmarks (Software Developer)
 - Mano Marks, @ManoMarks
 - Jason Martens, @jasonmartens (Software Engineer)
+- Danilo Martins, @mawkee (Software Engineer)
 - Matthew Masurka, @gigamesh (Web Developer)
 - Rahul Mathews, @rahulmathews (Full Stack Developer)
 - Jefferson Matheus, @jefferson227 (Software Developer)
