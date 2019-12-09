@@ -396,6 +396,7 @@ Signed,
 - Matt Mills, @photomattmills (Software Engineer, ElixirBridge co-founder)
 - Benaiah Mischenko, @benaiah (software developer and open source contributor)
 - Todd Morningstar, @stratigos (Software Engineer, freedom lover)
+- Keziah Moselle, @KeziahMoselle (Front-end developer)
 - Miguel Mota, @miguelmota (Software Developer)
 - Ryan Mottley, @ligerzero459 (Help.com)
 - Jose Munoz, @jdmg94 (Software Engineer)
