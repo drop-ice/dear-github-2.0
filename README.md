@@ -298,6 +298,7 @@ Signed,
 - Josh Junon, @qix- (Chalk, Debug, Storybook, Better Exceptions, formerly ZEIT)
 - Dave Justice, @meandavejustice (Senior Software Engineer, Mozilla)
 - Joe Kachmar, @jkachmar (Software Developer, Open Source Contributor)
+- Matt Kaemmerer, @mkaemmerer (Design Technologist)
 - Ivan Kaloyanov @IvanKaloyanov (Software Developer)
 - Akshat Katiyar, @YellowFoxH4XOR (Software Engineer)
 - Avery Katko, @averykatko (Software Developer)
