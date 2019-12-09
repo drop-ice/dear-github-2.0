@@ -151,12 +151,12 @@ Signed,
 - Bryan Clark, @bryanjclark (Mobile Lead, Khan Academy)
 - Joe Clay, @17cupsofcoffee (Software Engineer)
 - Garret Cleare, @g4rret
+- Claudius Coenen, @ccoenen (Professor, Web Application Developer)
 - William K. Cole, @grumpybozo (SysAdmin, Apache SpamAssassin PMC member)
 - Alan Coopersmith, @alanc (X.Org maintainer)
+- Joe Corcoran, @joecorcoran (software engineer, Travis CI, Ruby)
 - Frances Coronel, @fvcproductions (Co-Director, Techqueria)
 - Denis Costa, @deniscostadsc (Programmer)
-- Joe Corcoran, @joecorcoran (software engineer, Travis CI, Ruby)
-- Claudius Coenen, @ccoenen (Professor, Web Application Developer)
 - Scott Cranfill, @Scotchester (web developer)
 - Anna Cruz, @annacruz (Software developer, ofx gem maintainer)
 - Jimmy Cuadra, @jimmycuadra (Lita, Ruma)
@@ -372,6 +372,7 @@ Signed,
 - Scott Matsuda, @Scotterpops19
 - Felix Mattick, @kognise (js and open-source)
 - Justin Mazzocchi, @jzzocc (Software Developer)
+- Raymond G McCord, @slowizzm (Interactive Developer | Designer | Educator @ Missouri State University | Grad student - M.F.A. Interactive Design & Game Development S.C.A.D.)
 - Brian McFee, @bmcfee (librosa)
 - Rob McLarty, @robmclarty (js, bikes, infosec)
 - Damien McKenna, @damienmckenna (Drupal contributor)
