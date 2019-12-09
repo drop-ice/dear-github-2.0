@@ -561,6 +561,7 @@ Signed,
 - Artemis Tosini, @artemist (independent security researcher)
 - Chau Tran, @nartc (Software Developer, @nartc/automapper author)
 - Matt Travi, @travi (greenkeeper-keeper, GitHub Settings)
+- Esteban Delgado Trejos, @estebanDT30 (Web/Software Developer)
 - Kai Tribble, @1ktribble (Software Engineer, Grubhub)
 - Bobby Tromm, @btromm (Neuroscience student, Research Assistant)
 - Jonathan Turner, @jonathandturner (Nushell, Rust, TypeScript)
