@@ -223,6 +223,7 @@ Signed,
 - Jake Gealer, @JakeMakesStuff (MagicCap)
 - Pejman Ghorbanzade, @ghorbanzade (Software Engineer)
 - Florian Gilcher, @skade (Rust, Rust Berlin, Ruby Berlin e.V.)
+- Cate Golding, @decafhotchocolate (Student, Software & Web Developer)
 - Moises Gonzalez, @moigonzalez (Web Developer)
 - Kévin Goral, @PoorPocketsMcNewHold (Student, Open-source enthusiast)
 - Gregor, @gr2m (Octokit)
