@@ -343,6 +343,7 @@ Signed,
 - Cassiano Leal, @cassianoleal (DevOps / Infrastructure Engineer)
 - Laurent le Beau-Martin, @laurentlbm (Tech Lead)
 - Anthony Lee, @antwonlee (Software Engineer)
+- Joey Lee, @joeyklee (Open source contributor, ml5js)
 - Jannis Leidel, @jezdez (Python developer and community member)
 - Judson Lester, @nyarly (Many small projects and contributions)
 - Myles Lewando, @codemacabre (CodeMacabre, OpenPlanetary)
