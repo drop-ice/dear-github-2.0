@@ -405,6 +405,7 @@ Signed,
 - Ken Arroyo Ohori, @kenohori (Delft University of Technology)
 - Charlie O'Keefe, @charlieok (Software Engineer, Electric Coin Company)
 - Samuel Okoroafor, @s-chand (Software Engineer)
+- Gilberto Olimpio, @golimpio (Software Developer)
 - Gray Olson, @termhn (Rust community, Amethyst contributor, ASU)
 - Ryan Olson, @ryanolsonx (UI Architect, Contributor to various projects)
 - Rhodey Orbits, @rhodey (RadioWitness)
