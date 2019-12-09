@@ -125,7 +125,7 @@ const pullRequester = process.env.GITHUB_ACTOR.toLowerCase();
 const isOriginalPR = ( pullRequester == line[2].toLowerCase() );
 const isMergeResolution = ( pullRequester == 'drop-ice' );
 
-if !( isOriginalPR || isMergeResolution ) {
+if (!( isOriginalPR || isMergeResolution )) {
 	console.error('❗Added username does not match pull requester!');
 	console.error('- Detected from README:', line[2]);
 	console.error('- GITHUB_ACTOR:', process.env.GITHUB_ACTOR);
