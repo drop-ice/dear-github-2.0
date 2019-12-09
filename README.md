@@ -305,6 +305,7 @@ Signed,
 - Josh Katofsky, @jkatofsky (C.S. Student at McGill University)
 - Gary Katsevman, @gkatsev (Video.js, W3C Timed Text Working Group Co-Chair, Open Source dev)
 - Omer Katz, @thedrow (Celery Project)
+- Vaibhav Kaushik, @vaibhavk (Student, Contributor)
 - Kayvan Kazeminejad, @rchain (Cryptocurrency developer)
 - Tom Kenny, @twome (Web developer)
 - Eslam Khoga, @KhogaEslam (Software Engineer)
@@ -578,4 +579,3 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
-- Vaibhav Kaushik, @vaibhavk (Student, Contributor)
