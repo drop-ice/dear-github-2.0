@@ -547,6 +547,7 @@ Signed,
 - Thorr Stevens, @thorrstevens (Javascript Developer, date-fns contributor)
 - William Stewart, @zoidbergwill (Software Engineer)
 - Christoph Stock, @stockulus (Software Engineer)
+- Peter Storch, @pstorch (Developer)
 - Christopher Styles, @christopherstyles (Software Writer, allthefarms.com co-founder)
 - Tim Sullivan, @timsully (UI/Human Factors Engineer, Splunk>, Effective.AF)
 - Tomasz Surowiec, @DerivedMate (Software Developer, Student)
