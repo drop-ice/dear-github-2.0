@@ -151,11 +151,11 @@ Signed,
 - Bryan Clark, @bryanjclark (Mobile Lead, Khan Academy)
 - Joe Clay, @17cupsofcoffee (Software Engineer)
 - Garret Cleare, @g4rret
+- Claudius Coenen, @ccoenen (Professor, Web Application Developer)
 - William K. Cole, @grumpybozo (SysAdmin, Apache SpamAssassin PMC member)
 - Alan Coopersmith, @alanc (X.Org maintainer)
 - Frances Coronel, @fvcproductions (Co-Director, Techqueria)
 - Denis Costa, @deniscostadsc (Programmer)
-- Claudius Coenen, @ccoenen (Professor, Web Application Developer)
 - Scott Cranfill, @Scotchester (web developer)
 - Anna Cruz, @annacruz (Software developer, ofx gem maintainer)
 - Jimmy Cuadra, @jimmycuadra (Lita, Ruma)
