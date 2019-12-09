@@ -452,6 +452,7 @@ Signed,
 - Benjamin Pang, @molarmanful (NYU Abu Dhabi, Developer)
 - Atish Patel, @atishpatel (Software Engineer)
 - Alexander Payne, @myrrlyn (Rust community)
+- Viktor Penkov, @vpenkoff (Software Developer)
 - Rosa Pérez, @paintedlbird7 (Aspiring Sofware Developer)
 - Marco Perone, @marcosh (Statebox)
 - Steve Peters, @scpeters (Software Engineer, Homebrew maintainer)
