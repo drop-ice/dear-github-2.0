@@ -94,6 +94,7 @@ Signed,
 - Laryn Kragt Bakker, @laryn (Backdrop CMS and CiviCRM contributor)
 - Amr Bakry, @amrrbakry (Software Engineer)
 - Allen Ballway, @lballway (Software Engineer)
+- Phil Barbato, @philbarbato (Web Developer)
 - Jerome Bark, @ecentaur (QA Engineer)
 - Artur Barseghyan, @barseghyanartur (open-source contributor)
 - Francis Barton, @francisbarton (tinkerer)
