@@ -35,7 +35,7 @@ if (readme.length !== 1) {
 	process.exit(1);
 }
 
-console.log('PR only changes README');
+console.log('✅ PR only changes README');
 
 
 // Check if only one line is changed
@@ -61,7 +61,7 @@ if (added.length !== 1) {
 	process.exit(1);
 }
 
-console.log('PR only changes one line');	
+console.log('✅ PR only changes one line');	
 
 
 //Check if change is somewhere in the middle of signers
@@ -75,7 +75,7 @@ if (addedIndex === chunks[0].changes.length - 1) {
 	process.exit(1);
 }
 
-console.log('Line is not at beginning or end of signers');
+console.log('✅ Line is not at beginning or end of signers');
 
 
 //Check format of signature
@@ -101,7 +101,7 @@ if (!line) {
 	process.exit(1);
 }
 
-console.log('Signature is formatted correctly');
+console.log('✅ Signature is formatted correctly');
 
 
 //(naively) check alphabetization
@@ -117,7 +117,7 @@ if (beforeLastName > lastName || afterLastName < lastName) {
 	process.exit(1);
 }
 
-console.log('Alphabetization looks okay');
+console.log('✅ Alphabetization looks okay');
 
 
 //Check if PR is from signee
@@ -129,7 +129,7 @@ if (line[2].toLowerCase() !== process.env.GITHUB_ACTOR.toLowerCase()) {
 	process.exit(1);
 }
 
-
+console.log('✅ Pull request is made by signer');
 
 
 console.log('\n\nSIGNATURE PASSED STRICT VALIDATION');
