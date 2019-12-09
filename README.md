@@ -619,3 +619,4 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
+- Danilo Lekovic, @almightypush (Computing Science Student)
