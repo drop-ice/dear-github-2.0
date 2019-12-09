@@ -350,6 +350,7 @@ Signed,
 - Noel Francis Lobo, @coffeestains (Web Developer, Python Programmer)
 - Brian Lonsdorf, @drboolean (Author, Software Developer)
 - isis lovecruft, @isislovecruft (Cryptographer)
+- Benard Luca, @lubenard (42 School Student)
 - Joseph Luck, @josephluck (Software Engineer, various open source)
 - Conner Luzier, @cluzier (Software Developer, CyberMedics LLC)
 - Jeremy Macaluso, @jvluso (Ethereum-oauth, Frame)
