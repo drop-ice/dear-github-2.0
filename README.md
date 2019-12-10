@@ -140,6 +140,7 @@ Signed,
 - Brian Cain, @briancain (Vagrant contributor)
 - Colin Caine, @cmcaine (Tridactyl and open scientific software)
 - Lachlan Campbell, @lachlanjc (Hack Club)
+- Christine Carpenter, @CodingCCarpenter (ReactJS developer)
 - Andrew Cassidy, @drewcassidy (Engineering Student and KSP modder)
 - David Celis, @davidcelis (maintainer of and contributor to various Ruby gems)
 - Stefano Cerelli, @scerelli (Software Engineer, Game Developer)
