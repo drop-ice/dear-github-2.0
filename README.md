@@ -354,6 +354,7 @@ Signed,
 - Jake Lazaroff, @jakelazaroff (Designer/Developer)
 - Thuy Le, @1000miles (Software Engineer)
 - Cassiano Leal, @cassianoleal (DevOps / Infrastructure Engineer)
+- Johan Le Baut, @yohanness (Software Engineer)
 - Laurent le Beau-Martin, @laurentlbm (Tech Lead)
 - Anthony Lee, @antwonlee (Software Engineer)
 - Joey Lee, @joeyklee (Open source contributor, ml5js)
@@ -621,4 +622,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Johan Le Baut, @yohanness (Software Engineer)
