@@ -71,7 +71,7 @@ if (addedIndex === 0) {
 }
 
 if (addedIndex === chunks[0].changes.length - 1) {
-	console.error('❗Added line to end of README (not able to automatically check)');
+	console.error('❗Added line to end of README -- please sign in alphabetical order by last name');
 	process.exit(1);
 }
 
@@ -105,9 +105,9 @@ console.log('✅ Signature is formatted correctly');
 
 
 //(naively) check alphabetization
-const beforeLastName = beforeLine[1].trim().split(/\s+/g)[1];
-const afterLastName = afterLine[1].trim().split(/\s+/g)[1];
-const lastName = line[1].trim().split(/\s+/g)[1];
+const beforeLastName = beforeLine[1].trim().split(',', 1)[0].split(/\s+/g).pop();
+const afterLastName = afterLine[1].trim().split(',', 1)[0].split(/\s+/g).pop();
+const lastName = line[1].trim().split(',', 1)[0].split(/\s+/g).pop();
 
 if (beforeLastName > lastName || afterLastName < lastName) {
 	console.error('❗Signature does not appear to be alphabetical order');
