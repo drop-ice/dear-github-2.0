@@ -291,6 +291,7 @@ Signed,
 - Robert Hofmann, @bert2 (Software Developer)
 - Zach Holman, @holman (Employee #9, GitHub)
 - Daira Hopwood, @daira (Protocol Designer, Electric Coin Company)
+- Karl Horky, @karlhorky (Founder, Teacher @ upleveled.io)
 - Joshua Hoskins, @friendtocephalopods (Square)
 - Jaafari El Housseine, @jefferyhus (Software Engineer)
 - Hannah Howard, @hannahhoward (Carbon Five, RxReact)
@@ -654,4 +655,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Karl Horky, @karlhorky (Founder, Teacher @ upleveled.io)
