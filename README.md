@@ -27,6 +27,7 @@ Signed,
 - Krzysztof Cieslak, @Krzysztof-Cieslak (CEO, OSS developer, Ionide, Saturn, FsAutocomplete)
 - Aaron Cleveland, @amclv (Software Engineer)
 - Josh Comeau, @joshwcomeau (staff software engineer, Gatsby)
+- Ashe Connor, @kivikakk (ex-GitHub)
 - Marc Cornellà, @mcornella (Oh My Zsh)
 - Matt Cowley, @MattIPv4 (cdnjs)
 - Kushal Das, @kushaldas (Public Interest Technologist, Freedom of the Press Foundation)
