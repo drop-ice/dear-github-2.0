@@ -71,7 +71,7 @@ if (addedIndex === 0) {
 }
 
 if (addedIndex === chunks[0].changes.length - 1) {
-	console.error('❗Added line to end of README (not able to automatically check)');
+	console.error('❗Added line to end of README -- please sign in alphabetical order by last name');
 	process.exit(1);
 }
 
