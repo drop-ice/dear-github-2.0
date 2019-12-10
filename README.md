@@ -70,6 +70,7 @@ Signed,
 [Add your signature below](https://github.com/drop-ice/dear-github-2.0/issues/16)
 
 - Ron. A, @0xadada (Unredacted Word)
+- Iddan Aaronsohn, @iddan (Open source maintainer)
 - Felix Ableitner, @nutomic (/e/ foundation, former developer of syncthing-android)
 - Syed AbuTalib, @SyedAbuTalib (Software Engineer)
 - Dave Ackley, @daveackley (Best effort advocate and developer of MFM, ulam, SPLAT)
