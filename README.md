@@ -643,6 +643,7 @@ Signed,
 - Andy Wortman, @iximeow (Lucet, open-source contributor)
 - Thomas Wouters, @Yhg1s (Python)
 - Amy Wright, @AmyWrightDev (Game Programmer and Reverse Engineer)
+- Nate Wright, @NateWr (Software Developer, Public Knowledge Project)
 - Adam Yi, @adamyi (Software Engineer)
 - Cheng You Bai, @cybai (Software Engineer)
 - Brendan Zabarauskas, @brendanzab (Software Engineer)
