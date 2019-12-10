@@ -585,6 +585,7 @@ Signed,
 - Gueorgui Tcherednitchenko, @gueorgui (A Possible Space)
 - Bhavika Tekwani, @bhavika (Software Engineer) 
 - Peter Thaleikis, @spekulatius (Software engineer)
+- Cathy Theys, @YesCT (Web Developer)
 - Tilde Thurium, @annthurium (Atom Editor contributor, Write Speak Code organizer)
 - Nigel Tiany, @nigeltiany (Concerned Immigrant)
 - Erick Todd, @ddot727 (Software Engineer)
