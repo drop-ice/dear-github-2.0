@@ -368,6 +368,7 @@ Signed,
 - Anthony Lee, @antwonlee (Software Engineer)
 - Joey Lee, @joeyklee (Open source contributor, ml5js)
 - Jannis Leidel, @jezdez (Python developer and community member)
+- Danilo Lekovic, @almightypush (Computing Science Student)
 - Judson Lester, @nyarly (Many small projects and contributions)
 - Myles Lewando, @codemacabre (CodeMacabre, OpenPlanetary)
 - Eric Lewis, @ericandrewlewis (Software Engineer)
