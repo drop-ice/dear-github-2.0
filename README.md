@@ -541,6 +541,7 @@ Signed,
 - Josh Simmons, @joshsimmons (FOSS community organizer)
 - Kyle Simpson, @getify (Getify, YDKJS)
 - Praveen Sinha, @h0mee (Senior Software Engineer)
+- Ruby Sinreich, @rubyji (Drupal developer & community organizer)
 - Patrick Smith, @vectorpark (Artist)
 - David Snyder, @gypsydangerous (Student/Software Engineer)
 - Caroline Soares, @carolcodes (Front End Engineer)
