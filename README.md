@@ -316,6 +316,7 @@ Signed,
 - Jake Jarvis, @jakejarvis (Front-End Web Developer)
 - Marc-Antoine Jean, @chevalmuscle (Software Engineer Student)
 - Marcus Jensen, @Lomztein (Software Engineering Student, Hobbyist Developer)
+- Kristian Jensen, @kris927b (Data Science Student, Hobbyist Developer)
 - Brian Jenkins, @bonkydog (npm)
 - Andrei Jiroh, @AndreiJirohHaliliDev2006 (Project Maintainer, MadeByThePinsHub)
 - Pete Johns, @johnsyweb (Developer)
