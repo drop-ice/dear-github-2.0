@@ -172,6 +172,7 @@ Signed,
 - Timothy Dang, @timdang (Software Engineer)
 - Jon Daniel, @binarycleric (Infrastructure Engineer, Heroku)
 - Michael Daryabeygi, @ginkgoMZD (CiviCRM Contributor)
+- Mate David, @rothens (Software Dev)
 - Logan Davis, @brainsnail
 - Jan De Wilde, @jandw (Web developer)
 - Ian Delahorne, @iandelahorne
