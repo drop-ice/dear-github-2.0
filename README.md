@@ -553,6 +553,7 @@ Signed,
 - Kyle Simpson, @getify (Getify, YDKJS)
 - Praveen Sinha, @h0mee (Senior Software Engineer)
 - Ruby Sinreich, @rubyji (Drupal developer & community organizer)
+- Gene Smith, @gene-smith (Tech Director, Developer)
 - Patrick Smith, @vectorpark (Artist)
 - David Snyder, @gypsydangerous (Student/Software Engineer)
 - Caroline Soares, @carolcodes (Front End Engineer)
