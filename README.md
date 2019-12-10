@@ -582,6 +582,7 @@ Signed,
 - Prat Tana, @pt2121 (Software Engineer)
 - Eriec Tanijaya, @EriecTanijaya (College Student)
 - Cassie Tarakajian, @catarak (software engineer, Processing  Foundation, Cycling '74)
+- Ryan Taylor, @ryanewtaylor (Software Engineer)
 - Gueorgui Tcherednitchenko, @gueorgui (A Possible Space)
 - Bhavika Tekwani, @bhavika (Software Engineer) 
 - Peter Thaleikis, @spekulatius (Software engineer)
