@@ -137,6 +137,7 @@ Signed,
 - Kylan Byrd, @AvianAnalyst (Software Developer)
 - Akin C., @incrementis (Software Engineer)
 - Griffin C., @KerbalKore (Amatuer coder and aspiring game modder)
+- Heather C., @EpicTroll1365 (University student and hack coder)
 - Brian Cain, @briancain (Vagrant contributor)
 - Colin Caine, @cmcaine (Tridactyl and open scientific software)
 - Lachlan Campbell, @lachlanjc (Hack Club)
