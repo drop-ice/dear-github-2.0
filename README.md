@@ -468,6 +468,7 @@ Signed,
 - George Platko, @geo1088 (Student, npm package author, web developer, Discord bot contributor)
 - Darryl Pogue, @dpogue (Software Developer, open-source contributor, Apache Cordova committer)
 - Giorgio Pomettini, @pomettini (Game Developer)
+- Brian Pond, @PMojito (Software Developer)
 - Erin Power, @XAMPPRocky (Rust-lang contributor, tokei)
 - Steve Purcell, @purcell
 - Gustav Pursche, @gustavpursche (Software Engineer)
