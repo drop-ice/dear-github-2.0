@@ -584,6 +584,7 @@ Signed,
 - Xavi Torelló, @XaviTorello (software engineer, itsec consultant, GNUites, Python Girona organizer)
 - Thomas Tortorini, @mr21 (gridsound)
 - Artemis Tosini, @artemist (independent security researcher)
+- Edmond de Tournadre, @Djohn12
 - Shawn Toubeau, @shawntoubeau (Software Engineer)
 - Chau Tran, @nartc (Software Developer, @nartc/automapper author)
 - Matt Travi, @travi (greenkeeper-keeper, GitHub Settings)
