@@ -131,6 +131,7 @@ Signed,
 - Leigh Brenecki, @excitedleigh (Director, PyCon Australia 2020/2021; Organiser, DjangoCon Australia 2018/2019; Founding Organiser, Python Adelaide)
 - Marc Bria, @marcbria (Web Developer, UAB)
 - James Brock, @jamesdbrock (Programmer)
+- Maarten Brouwers, @murb (Web Deveoper)
 - Darcy Brown, @darcy (Senior Software Developer)
 - Benjamin Bultman, @bbultman (Bruny Digital)
 - Ivan Bunčić, @ivanbuncic (Web Developer)
