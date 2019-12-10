@@ -376,6 +376,7 @@ Signed,
 - Eric Lewis, @ericandrewlewis (Software Engineer)
 - Todd Libby, @colabottles (Agency Revenue Tools, Web Developer)
 - Daniel Liljeberg, @LiljebergXYZ (Backend Developer)
+- Thorbjørn Lindeijer, @bjorn (Tiled)
 - Richard Littauer, @RichardLitt (Maintainer Mountaineer)
 - Enric Llagostera, @enricllagostera (Game designer and PhD student, Concordia University)
 - Noel Francis Lobo, @coffeestains (Web Developer, Python Programmer)
