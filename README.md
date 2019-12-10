@@ -371,6 +371,7 @@ Signed,
 - Benard Luca, @lubenard (42 School Student)
 - Joseph Luck, @josephluck (Software Engineer, various open source)
 - Conner Luzier, @cluzier (Software Developer, CyberMedics LLC)
+- Safyre Lyons, @SafyreLyons (Software Engineer, Sysadmin, Open-Source Contributer)
 - Jeremy Macaluso, @jvluso (Ethereum-oauth, Frame)
 - Evan Machnic, @emachnic (Railsinstaller Maintainer and Chef contributor)
 - Mathew Maidment, @lioncash (Emulator developer; Dolphin, Citra, yuzu)
@@ -621,4 +622,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Safyre Lyons, @SafyreLyons (Software Engineer, Sysadmin, Open-Source Contributer)
