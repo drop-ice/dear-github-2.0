@@ -568,6 +568,7 @@ Signed,
 - Tomasz Surowiec, @DerivedMate (Software Developer, Student)
 - Colby Swandale, @colby-swandale (Bundler, Rubygems, RubyGems.org)
 - Vladimir Támara, @vtamara (@pasosdeJesus)
+- Prat Tana, @pt2121 (Software Engineer)
 - Eriec Tanijaya, @EriecTanijaya (College Student)
 - Cassie Tarakajian, @catarak (software engineer, Processing  Foundation, Cycling '74)
 - Gueorgui Tcherednitchenko, @gueorgui (A Possible Space)
