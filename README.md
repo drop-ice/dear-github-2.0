@@ -173,6 +173,7 @@ Signed,
 - Jon Daniel, @binarycleric (Infrastructure Engineer, Heroku)
 - Michael Daryabeygi, @ginkgoMZD (CiviCRM Contributor)
 - Logan Davis, @brainsnail
+- Guilherme de Assis, @guias12 (Web Developer)
 - Jan De Wilde, @jandw (Web developer)
 - Ian Delahorne, @iandelahorne
 - Matt Dewey, @mattfromseattle (Engagement Manager)
@@ -621,4 +622,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Guilherme de Assis, @guias12 (Web Developer)
