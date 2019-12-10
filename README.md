@@ -497,6 +497,7 @@ Signed,
 - Justin Reese, @justaddcoffee
 - Enno Rehling, @ennorehling (Software Engineer)
 - Benard Rémi, @remopong (Student in electronics)
+- James Renken, @jprenken (Site Reliability Engineer)
 - Pedro Reys, @pedroreys (Programmer)
 - Kay Rhodes, @masukomi (maintainer of and contributer to multiple projects)
 - Becca Ricks, @baricks (Mozilla Foundation, tendernet)
