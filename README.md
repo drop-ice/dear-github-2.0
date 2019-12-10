@@ -158,6 +158,7 @@ Signed,
 - Claudius Coenen, @ccoenen (Professor, Web Application Developer)
 - William K. Cole, @grumpybozo (SysAdmin, Apache SpamAssassin PMC member)
 - Matthieu Collé, @raiseandfall (Software Engineer)
+- Ian Cook, @nai888 (Software Dev)
 - Alan Coopersmith, @alanc (X.Org maintainer)
 - Joe Corcoran, @joecorcoran (software engineer, Travis CI, Ruby)
 - Frances Coronel, @fvcproductions (Co-Director, Techqueria)
@@ -621,4 +622,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Ian Cook, @nai888 (Software Dev)
