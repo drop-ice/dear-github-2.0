@@ -381,6 +381,7 @@ Signed,
 - Joseph Luck, @josephluck (Software Engineer, various open source)
 - Luna Lunapiena, @lunacodes (Web Developer)
 - Conner Luzier, @cluzier (Software Developer, CyberMedics LLC)
+- Safyre Lyons, @SafyreLyons (Software Engineer, Sysadmin, Open-Source Contributer)
 - Jeremy Macaluso, @jvluso (Ethereum-oauth, Frame)
 - Evan Machnic, @emachnic (Railsinstaller Maintainer and Chef contributor)
 - Mathew Maidment, @lioncash (Emulator developer; Dolphin, Citra, yuzu)
