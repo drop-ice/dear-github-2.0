@@ -328,6 +328,7 @@ Signed,
 - Omer Katz, @thedrow (Celery Project)
 - Vaibhav Kaushik, @vaibhavk (Student, Contributor)
 - Kayvan Kazeminejad, @rchain (Cryptocurrency developer)
+- Thor Kell, @tkell (Software Engineer, Amen, Spotify)
 - Tom Kenny, @twome (Web developer)
 - Eslam Khoga, @KhogaEslam (Software Engineer)
 - Mustafa Kibar, @mustafakibar (Software Developer)
