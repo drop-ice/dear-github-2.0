@@ -301,6 +301,7 @@ Signed,
 - David Inoa, @davidinoa (Software Engineer)
 - Jahangir Iqbal, @jiqbal48 (Web Developer)
 - Dante Issaias, @danteissaias (Full Stack Developer)
+- Dmytro Izotov, @dizotoff (Web Developer)
 - Carter Landis, @ccarterlandis (CHAOSS Researcher, Maintainer & Developer, Student)
 - Andrew-David Jahchan, @AndrewDavid (Definitely Not A Co, Wild Gamut)
 - David James, @mego22 (SRE)
@@ -619,5 +620,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Dmytro Izotov, @dizotoff (Web Developer)
-
