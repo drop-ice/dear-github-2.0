@@ -596,6 +596,7 @@ Signed,
 - Michael Weems, @weems (Information Security Researcher, Programmer)
 - Sam Whited, @SamWhited (Go, Docker, Conversations, etc. contributor)
 - whitequark, @whitequark (SolveSpace, nMigen, LLVM)
+- Nathan Wilcox, @nathan-at-least (CTO, Electric Coin Company)
 - Jamie Wilkinson, @jaqx0r (Google SRE)
 - Stephanie Wilkinson, @stephaniewilkinson (@naisorg)
 - Dominik Wilkowski, @dominikwilkowski (Thinkmill, Australian Government, Westpac)
