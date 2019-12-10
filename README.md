@@ -190,6 +190,7 @@ Signed,
 - Suhas Deshpande, @suhasdeshpande (Typescript & Angular contributor)
 - Henry Desroches, @xdesro (Faculty)
 - iliana destroyer of worlds, @iliana (Amazon Web Services)
+- Pranoy Dev, @devpranoy (Product & Engineering Manager @IIA)
 - Chance Dickson, @chancedickson (Product Engineer @ Glitch)
 - Gordon Diggs, @gdiggs
 - Selim Dincer, @wowselim (Software Developer)
