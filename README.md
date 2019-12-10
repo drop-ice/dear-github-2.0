@@ -166,6 +166,7 @@ Signed,
 - Joe Corcoran, @joecorcoran (software engineer, Travis CI, Ruby)
 - Frances Coronel, @fvcproductions (Co-Director, Techqueria)
 - Denis Costa, @deniscostadsc (Programmer)
+- Dalia Coss, @daliacoss (Software Engineer)
 - Scott Cranfill, @Scotchester (web developer)
 - Anna Cruz, @annacruz (Software developer, ofx gem maintainer)
 - Jimmy Cuadra, @jimmycuadra (Lita, Ruma)
