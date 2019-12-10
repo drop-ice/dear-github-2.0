@@ -375,6 +375,7 @@ Signed,
 - isis lovecruft, @isislovecruft (Cryptographer)
 - Benard Luca, @lubenard (42 School Student)
 - Joseph Luck, @josephluck (Software Engineer, various open source)
+- Luna Lunapiena, @lunacodes (Web Developer)
 - Conner Luzier, @cluzier (Software Developer, CyberMedics LLC)
 - Jeremy Macaluso, @jvluso (Ethereum-oauth, Frame)
 - Evan Machnic, @emachnic (Railsinstaller Maintainer and Chef contributor)
