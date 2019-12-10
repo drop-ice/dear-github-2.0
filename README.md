@@ -107,6 +107,7 @@ Signed,
 - Phil Beauvoir, @Phillipus (Archi)
 - Fynn Becker, @mvsde (Frontend Developer, Pangolin.js maintainer)
 - Shane Becker, @veganstraightedge (CrimethInc. Ex-Workers Collective @crimethinc)
+- Benjamin Becquet, @bbecquet (Web Developer)
 - Reid Beels, @reidab (Calagator, etc.)
 - Peter Benjamin, @pbnj (Software Engineer)
 - Dan Bentley, @dbentley (Tilt)
