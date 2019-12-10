@@ -545,6 +545,7 @@ Signed,
 - Georgios Spanos, @drvspan (Algorithmic design, Security analyst)
 - Adam H. Sparks, @adamhsparks (#rstats package author and other FOSS projects)
 - Robyn Speer, @rspeer (ConceptNet)
+- Hugh Spiller, @y6nH (Software Engineer)
 - Martin Splitt, @avgp (Developer Advocate, Rendertron maintainer, open source developer, Google)
 - Peter Squicciarini, @stripedpajamas (VSCodium)
 - Thorr Stevens, @thorrstevens (Javascript Developer, date-fns contributor)
