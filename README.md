@@ -506,6 +506,7 @@ Signed,
 - Becca Ricks, @baricks (Mozilla Foundation, tendernet)
 - Sebastian Riedel, @kraih (Mojolicious)
 - Matt Riel, @mriel (Front-End Developer)
+- Travis Ripley, @travezripley (All Humans of Planet Earth)
 - Tiago Rodrigues, @trodrigues (Software Engineer, open source contributor, previously LXJS organizer)
 - Dennis Rohner, @midzer (Software & Web Developer)
 - Filipe Roman Veloso, @rovel (Umanni)
