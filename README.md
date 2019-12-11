@@ -330,6 +330,7 @@ Signed,
 - Kristian Jensen, @kris927b (Data Science Student, Hobbyist Developer)
 - Marcus Jensen, @Lomztein (Software Engineering Student, Hobbyist Developer)
 - Brian Jenkins, @bonkydog (npm)
+- Adam Jetmalani, @akjetma (Programmer)
 - Andrei Jiroh, @AndreiJirohHaliliDev2006 (Project Maintainer, MadeByThePinsHub)
 - Pete Johns, @johnsyweb (Developer)
 - Josh Junon, @qix- (Chalk, Debug, Storybook, Better Exceptions, formerly ZEIT)
