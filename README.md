@@ -497,6 +497,7 @@ Signed,
 - Trey Piepmeier, @trey (Trey Labs)
 - Simon Pieters, @zcorpan (Web Standards, Bocoup)
 - Louis Pilfold, @lpil (Gleam, BEAM ecosystem)
+- Natalie Pilgeram, @Nzfinch (Doctoral Student)
 - Emily Pillmore, @emilypi (cohomolo.gy)
 - Juan Pichardo, @xMinota (Student, Web Developer)
 - Henrique Pinto, @henvic (Software Engineer)
