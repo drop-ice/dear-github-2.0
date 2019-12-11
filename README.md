@@ -543,6 +543,7 @@ Signed,
 - Daniel Santos, @imdanielsp (Software Engineer)
 - Kaja Santro, @kajatiger (software engineer, code curious organizer)
 - Sanjit Sarda, @Sanjit1 (Student, RBHS)
+- Gabriele Sarti, @gsarti (MSc Student, University of Trieste)
 - Aki Sasaki, @escapewindow (Staff Software Engineer, Mozilla)
 - Josiah Savary, @jozanza (Software Engineer)
 - Leah Scampoli, @leahscampoli (Technical Writer, Ruma)
