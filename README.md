@@ -416,6 +416,7 @@ Signed,
 - Meredith Mello, @merryMellody (Software Engineer)
 - Federico Mena Quintero, @federicomenaquintero (GNOME)
 - David Mendoza, @Dmendoza99 (Web/Application Developer, Student, Latino)
+- Alok Menghrajani, @alokmenghrajani (Software Engineer)
 - Simon Menke, @fd (Mr. Henry)
 - Frederic Meyer, @fleroviux (Software Developer)
 - Ben Michel, @obensource (Developer Advocate, OpenJS Foundation, Node.js)
@@ -654,4 +655,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Alok Menghrajani, @alokmenghrajani (Software Engineer)
