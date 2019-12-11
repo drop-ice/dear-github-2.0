@@ -174,6 +174,7 @@ Signed,
 - Denis Costa, @deniscostadsc (Programmer)
 - Scott Cranfill, @Scotchester (web developer)
 - Anna Cruz, @annacruz (Software developer, ofx gem maintainer)
+- Matthew Cruz, @mattcruzz (Software Engineer)
 - Jimmy Cuadra, @jimmycuadra (Lita, Ruma)
 - Tomás Agustin Cunningham, @Cunntomas (Web developer)
 - Nguyen Manh Cuong, @starfruitjsc (JavaScript Developer)
