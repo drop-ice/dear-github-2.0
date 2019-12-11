@@ -316,6 +316,7 @@ Signed,
 - Tomas Jansson, @mastoj (VP Engineering, Unacast)
 - Jake Jarvis, @jakejarvis (Front-End Web Developer)
 - Marc-Antoine Jean, @chevalmuscle (Software Engineer Student)
+- Kristian Jensen, @kris927b (Data Science Student, Hobbyist Developer)
 - Marcus Jensen, @Lomztein (Software Engineering Student, Hobbyist Developer)
 - Brian Jenkins, @bonkydog (npm)
 - Andrei Jiroh, @AndreiJirohHaliliDev2006 (Project Maintainer, MadeByThePinsHub)
