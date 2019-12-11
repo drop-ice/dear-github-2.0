@@ -369,6 +369,7 @@ Signed,
 - Laurent le Beau-Martin, @laurentlbm (Tech Lead)
 - Anthony Lee, @antwonlee (Software Engineer)
 - Joey Lee, @joeyklee (Open source contributor, ml5js)
+- Leonard S. S. Lee, @sheeeng (Pipeline Plumber)
 - Jannis Leidel, @jezdez (Python developer and community member)
 - Danilo Lekovic, @almightypush (Computing Science Student)
 - Judson Lester, @nyarly (Many small projects and contributions)
@@ -654,4 +655,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Leonard S. S. Lee, @sheeeng (Pipeline Plumber)
