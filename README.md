@@ -78,6 +78,7 @@ Signed,
 - Ryan Addessi, @raddessi (Systems/Network Engineer)
 - Ehsan Akhgari, @ehsan (Principal Engineer, Mozilla)
 - Omar Al-Ejel, @oalejel (Software Engineer, Umich EECS Student Instructor)
+- Nick Aliferopoulos, @naliferopoulos (Information Security Researcher)
 - Giacomo Alonzi, @giacomoalonzi (Frontend Developer @ Moze)
 - Dov Alperin, @DAlperin (Software Developer)
 - Heladio Amaya, @Heladio-ac (Software Developer)
