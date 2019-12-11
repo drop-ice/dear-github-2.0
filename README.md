@@ -560,6 +560,7 @@ Signed,
 - Afonso Serra, @nadacomum (Computer Engineering Undergraduate)
 - Saul Shanabrook, @saulshanabrook (Quansight, Jupyter)
 - Shanley, @shanley (Model View Culture, Fund Club, #NoTechforICE)
+- Rahul Shah, @rahulpshah (Software Engineer)
 - Joshua Shao, @jhuashao (Product Designer)
 - Justin Sherman, @jsherman256 (Software Engineer)
 - Ryan Shipp, @rshipp (Software Engineer)
