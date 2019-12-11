@@ -170,6 +170,7 @@ Signed,
 - Alan Coopersmith, @alanc (X.Org maintainer)
 - Joe Corcoran, @joecorcoran (software engineer, Travis CI, Ruby)
 - Frances Coronel, @fvcproductions (Co-Director, Techqueria)
+- Dalia Coss, @daliacoss (Software Engineer)
 - Denis Costa, @deniscostadsc (Programmer)
 - Scott Cranfill, @Scotchester (web developer)
 - Anna Cruz, @annacruz (Software developer, ofx gem maintainer)
