@@ -637,6 +637,7 @@ Signed,
 - Mitch Winn, @mitchwinn (Developer)
 - Tim de Wit, @tim-dewit (Web developer)
 - Eberhard Wolff, @ewolff (Software Person, Author)
+- Marcin Wolniewicz, @wytrych (Software Engineer)
 - Ellen Wondra, @ln1draw (Software Engineer)
 - Frank Wong, @f-wong (Principal Engineer, DevOps & Cloud)
 - Titus Wormer, @wooorm (Software engineer)
@@ -654,4 +655,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Marcin Wolniewicz, @wytrych (Software Engineer)
