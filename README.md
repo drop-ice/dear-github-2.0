@@ -555,6 +555,7 @@ Signed,
 - Sanjit Sarda, @Sanjit1 (Student, RBHS)
 - Gabriele Sarti, @gsarti (MSc Student, University of Trieste)
 - Aki Sasaki, @escapewindow (Staff Software Engineer, Mozilla)
+- Vlad Satanovski, @ervion (Software Engineer)
 - Josiah Savary, @jozanza (Software Engineer)
 - Leah Scampoli, @leahscampoli (Technical Writer, Ruma)
 - Tobi Schäfer, @p3k (Antville.org)
@@ -684,4 +685,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Vlad Satanovski, @ervion (Software Engineer)
