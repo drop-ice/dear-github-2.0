@@ -186,6 +186,7 @@ Signed,
 - Michael Daryabeygi, @ginkgoMZD (CiviCRM Contributor)
 - Mate David, @rothens (Software Dev)
 - Logan Davis, @brainsnail
+- Ada Davis, @natryte (Web Developer)
 - Guilherme de Assis, @guias12 (Web Developer)
 - Jan De Wilde, @jandw (Web developer)
 - Ian Delahorne, @iandelahorne
