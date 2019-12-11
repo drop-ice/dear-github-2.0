@@ -93,6 +93,7 @@ Signed,
 - Christian Aust, @datenimperator (Software Developer)
 - Arber Avdullahu, @labbloom (Software Engineer)
 - Delan Azabani, @delan (software person)
+- Gideon B., @eignnx (github user, unemployed hobbiest)
 - Pierre-Yves Baccou, @pyb (Light Meta)
 - Kevin Backhouse, @kevinbackhouse (Security Researcher, GitHub)
 - Evan Bailey, @cynicaloptimist (Improved Initiative)
