@@ -191,6 +191,7 @@ Signed,
 - Matthew Dean, @matthew-dean (Less.js)
 - Suhas Deshpande, @suhasdeshpande (Typescript & Angular contributor)
 - Henry Desroches, @xdesro (Faculty)
+- Pranoy Dev, @devpranoy (Product & Engineering Manager @IIA)
 - iliana destroyer of worlds, @iliana (Amazon Web Services)
 - Chance Dickson, @chancedickson (Product Engineer @ Glitch)
 - Gordon Diggs, @gdiggs
