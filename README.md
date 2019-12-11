@@ -85,6 +85,7 @@ Signed,
 - Heladio Amaya, @Heladio-ac (Software Developer)
 - Anderson, @p1r-a-t3 (Software Engineer)
 - Zac Anger, @zacanger (Node packages maintainer)
+- Jack Aponte, @jackaponte (Palante Technology Cooperative, Backdrop CMS)
 - Patrick Arnett, @patrickarnett (Software Developer)
 - Peter Aronoff, @telemachus (Lua modules split and tapered)
 - Joshua Arulsamy, @jarulsamy (Software Developer, Student)
