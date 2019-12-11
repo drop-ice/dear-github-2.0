@@ -126,6 +126,7 @@ Signed,
 - Tarun Boddupalli, @tarunbod (Software Developer)
 - Daniel Bolivar, @ddanielbee (Software Engineer)
 - Remie Bolte, @remie (YouTransfer.io, gfc.io)
+- Louis Bon, @Bonlou (Web Developer)
 - Cédric Bonhomme, @cedricbonhomme (Software Engineer)
 - Nathan Bouscal, @nbouscal (Software Engineer)
 - Giles Bowkett, @gilesbowkett (various Ruby & JS contributions and personal projects)
