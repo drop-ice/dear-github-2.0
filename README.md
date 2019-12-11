@@ -660,6 +660,7 @@ Signed,
 - Thomas Wouters, @Yhg1s (Python)
 - Amy Wright, @AmyWrightDev (Game Programmer and Reverse Engineer)
 - Nate Wright, @NateWr (Software Developer, Public Knowledge Project)
+- Yoshua Wuyts, @yoshuawuyts (choo.js, async-std)
 - Adam Yi, @adamyi (Software Engineer)
 - Cheng You Bai, @cybai (Software Engineer)
 - Brendan Zabarauskas, @brendanzab (Software Engineer)
