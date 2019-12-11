@@ -217,6 +217,7 @@ Signed,
 - Kévin Dunglas, @dunglas (Creator of @api-platform, co-maintainer of @symfony, co-founder of @coopTilleuls)
 - Greg Dunlap, @heyrocker (Drupal)
 - Robin Dupret, @robin850 (Redcarpet, Propel and Ruby on Rails contributor)
+- Adham Ehab, @adhaamehab (Senior Software Engineer, open source contributor)
 - Coraline Ada Ehmke, @coralineada (Contributor Covenant, Beacon, Hippocratic License, and EthicalSource.dev)
 - Shawn Eisenach, @wholewheattoast (Artist and Software Developer)
 - Melissa Elliott, @0xabad1dea (infosec researcher)
