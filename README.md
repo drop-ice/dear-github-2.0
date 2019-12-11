@@ -515,6 +515,7 @@ Signed,
 - Filipe Roman Veloso, @rovel (Umanni)
 - Koz Ross, @kozross (awesome-c)
 - Larry Ruane, @LarryRuane (Software Engineer, Electric Coin Company)
+- Philipp Rudloff, @kleinfreund (Front-end Developer)
 - Felipe Rueda, @ferueda (Product Manager)
 - Carlos Rufo, @swcarlosrj (Software Engineer)
 - Jakob Runge, @runjak (Software Engineer)
