@@ -386,6 +386,7 @@ Signed,
 - Johan Le Baut, @yohanness (Software Engineer)
 - Laurent le Beau-Martin, @laurentlbm (Tech Lead)
 - Anthony Lee, @antwonlee (Software Engineer)
+- Jessie Lee, @rroseselavy42 (Palante Technology Cooperative)
 - Joey Lee, @joeyklee (Open source contributor, ml5js)
 - Leonard S. S. Lee, @sheeeng (Pipeline Plumber)
 - Jannis Leidel, @jezdez (Python developer and community member)
