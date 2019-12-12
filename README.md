@@ -428,7 +428,7 @@ Signed,
 - Pablo Meier, @pablo-meier (a human)
 - Jeremy Meiss, @jerdog (DevRel, Community)
 - Edgar Mejía, @edgarMejia (Creativa Consultores)
-- Ismail Mekni @Ismail-Mekni (Software engineer)
+- Ismail Mekni, @Ismail-Mekni (Software engineer)
 - Benjamin Melançon, @mlncn (Web Developer and FLOSS contributor, Agaric)
 - Meredith Mello, @merryMellody (Software Engineer)
 - Federico Mena Quintero, @federicomenaquintero (GNOME)
