@@ -330,6 +330,7 @@ Signed,
 - Dmytro Izotov, @dizotoff (Web Developer)
 - Carter Landis, @ccarterlandis (CHAOSS Researcher, Maintainer & Developer, Student)
 - Andrew-David Jahchan, @AndrewDavid (Definitely Not A Co, Wild Gamut)
+- Sambhav Jain, @sambhav2612 (Software Engineer)
 - David James, @mego22 (SRE)
 - Tomas Jansson, @mastoj (VP Engineering, Unacast)
 - Jake Jarvis, @jakejarvis (Front-End Web Developer)
