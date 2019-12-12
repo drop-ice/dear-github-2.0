@@ -85,6 +85,7 @@ Signed,
 - Heladio Amaya, @Heladio-ac (Software Developer)
 - Anderson, @p1r-a-t3 (Software Engineer)
 - Zac Anger, @zacanger (Node packages maintainer)
+- Ivo Anjo, @ivoanjo (Open-source fan+contributor)
 - Dave Ankin, @alexanderankin (Software Developer)
 - Patrick Arnett, @patrickarnett (Software Developer)
 - Peter Aronoff, @telemachus (Lua modules split and tapered)
