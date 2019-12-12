@@ -105,9 +105,9 @@ console.log('✅ Signature is formatted correctly');
 
 
 //(naively) check alphabetization
-const beforeLastName = beforeLine[1].trim().split(',', 1)[0].split(/\s+/g).pop();
-const afterLastName = afterLine[1].trim().split(',', 1)[0].split(/\s+/g).pop();
-const lastName = line[1].trim().split(',', 1)[0].split(/\s+/g).pop();
+const beforeLastName = beforeLine[1].trim().split(',', 1)[0].split(/\s+/g).pop().toLowerCase();
+const afterLastName = afterLine[1].trim().split(',', 1)[0].split(/\s+/g).pop().toLowerCase();
+const lastName = line[1].trim().split(',', 1)[0].split(/\s+/g).pop().toLowerCase();
 
 if (beforeLastName > lastName || afterLastName < lastName) {
 	console.error('❗Signature does not appear to be alphabetical order');
