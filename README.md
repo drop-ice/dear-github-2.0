@@ -531,6 +531,7 @@ Signed,
 - Jan-Erik Rediger, @badboy (Rust, Rust Berlin, RustFest, Mozilla)
 - Justin Reese, @justaddcoffee
 - Enno Rehling, @ennorehling (Software Engineer)
+- Benjamin Jacob Reji, @benjaminjacobreji (Computer Science Student)
 - Benard Rémi, @remopong (Student in electronics)
 - James Renken, @jprenken (Site Reliability Engineer)
 - Pedro Reys, @pedroreys (Programmer)
