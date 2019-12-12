@@ -599,6 +599,7 @@ Signed,
 - Patrick Smith, @vectorpark (Artist)
 - David Snyder, @gypsydangerous (Student/Software Engineer)
 - Caroline Soares, @carolcodes (Front End Engineer)
+- Ricardo Solano, @rsolano (Software Engineer)
 - Shubham Soni, @shubxam (Flutter Developer)
 - Georgios Spanos, @drvspan (Algorithmic design, Security analyst)
 - Adam H. Sparks, @adamhsparks (#rstats package author and other FOSS projects)
