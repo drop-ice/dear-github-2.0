@@ -507,6 +507,7 @@ Signed,
 - Erin Power, @XAMPPRocky (Rust-lang contributor, tokei)
 - Steve Purcell, @purcell
 - Gustav Pursche, @gustavpursche (Software Engineer)
+- Dan Q, @Dan-Q (Software Engineer)
 - Daniel Quinn, @danielquinn (Paperless, Aletheia, mt103)
 - Guillaume Quittet, @gquittet (Software Developer, UNIX lover)
 - Rahul, @rahuldottech (Student, Developer)
@@ -684,4 +685,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Dan Q, @Dan-Q (Software Engineer)
