@@ -31,6 +31,7 @@ Signed,
 - Marc Cornellà, @mcornella (Oh My Zsh)
 - Matt Cowley, @MattIPv4 (cdnjs)
 - Kushal Das, @kushaldas (Public Interest Technologist, Freedom of the Press Foundation)
+- Aaron Davis, @kumavis (engineer, @MetaMask)
 - Dessalines, @dessalines (OSS developer)
 - Chris Dickinson, @chrisdickinson (Entropic)
 - Buck Doyle, @backspace (Nomad contributor)
