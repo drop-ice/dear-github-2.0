@@ -272,6 +272,7 @@ Signed,
 - Gyuri Grell, @ggrell (RxReactor, Software Developer)
 - Jack Grigg, @str4d (Cryptographic Engineer, Electric Coin Company)
 - Enrico Grillo, @redbassett (Engineer, Mobile & Web)
+- Tijn Groenen, @Rhydium (Front-End Web Developer, Vurtuality IT Solutions)
 - Ryan Grove, @rgrove (Software Engineer, SmugMug; author of the Sanitize Ruby gem that GitHub uses in the rendering pipeline for this README)
 - Jürgen Gmach, @jugmac00 (Software Engineer)
 - Artem Golovin, @awave1 (Web/Mobile Developer, beatmaker)
