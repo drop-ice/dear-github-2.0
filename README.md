@@ -606,6 +606,7 @@ Signed,
 - Prat Tana, @pt2121 (Software Engineer)
 - Eriec Tanijaya, @EriecTanijaya (College Student)
 - Cassie Tarakajian, @catarak (software engineer, Processing  Foundation, Cycling '74)
+- Jake Tarren, @tarrenj (Acting CISO, Cyber Security and Systems Engineer)
 - Ryan Taylor, @ryanewtaylor (Software Engineer)
 - Gueorgui Tcherednitchenko, @gueorgui (A Possible Space)
 - Bhavika Tekwani, @bhavika (Software Engineer) 
