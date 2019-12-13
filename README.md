@@ -77,6 +77,7 @@ Signed,
 - Zac Adam-MacEwen, @ZAdamMac (KSL)
 - Ryan Addessi, @raddessi (Systems/Network Engineer)
 - Ehsan Akhgari, @ehsan (Principal Engineer, Mozilla)
+- Julian Alberts, @julian-alberts (Software Developer)
 - Omar Al-Ejel, @oalejel (Software Engineer, Umich EECS Student Instructor)
 - Nick Aliferopoulos, @naliferopoulos (Information Security Researcher)
 - Giacomo Alonzi, @giacomoalonzi (Frontend Developer @ Moze)
