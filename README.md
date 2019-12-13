@@ -591,6 +591,7 @@ Signed,
 - Joshua Shao, @jhuashao (Product Designer)
 - Justin Sherman, @jsherman256 (Software Engineer)
 - Ryan Shipp, @rshipp (Software Engineer)
+- Diogo Silva, @fsdiogo (Software Engineer)
 - Josh Simmons, @joshsimmons (FOSS community organizer)
 - Kyle Simpson, @getify (Getify, YDKJS)
 - Praveen Sinha, @h0mee (Senior Software Engineer)
