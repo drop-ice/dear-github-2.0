@@ -505,6 +505,7 @@ Signed,
 - Rosa Pérez, @paintedlbird7 (Aspiring Sofware Developer)
 - Marco Perone, @marcosh (Statebox)
 - Steve Peters, @scpeters (Software Engineer, Homebrew maintainer)
+- Tuan Pham, @tuanpham96 (Neuroscience student)
 - Penelope Phippen, @penelope_zone (Maintainer RSpec/Rubyfmt)
 - Trey Piepmeier, @trey (Trey Labs)
 - Simon Pieters, @zcorpan (Web Standards, Bocoup)
@@ -699,4 +700,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Tuan Pham, @tuanpham96 (Neuroscience student) 
