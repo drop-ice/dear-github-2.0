@@ -516,6 +516,7 @@ Signed,
 - Darryl Pogue, @dpogue (Software Developer, open-source contributor, Apache Cordova committer)
 - Giorgio Pomettini, @pomettini (Game Developer)
 - Brian Pond, @PMojito (Software Developer)
+- Mikhail Popov, @bearloga (Data person at Wikimedia Foundation, R OSS package maintainer)
 - Erin Power, @XAMPPRocky (Rust-lang contributor, tokei)
 - Steve Purcell, @purcell
 - Gustav Pursche, @gustavpursche (Software Engineer)
@@ -699,4 +700,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Mikhail Popov, @bearloga (Data person at Wikimedia Foundation, R OSS package maintainer)
