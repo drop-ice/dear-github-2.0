@@ -234,6 +234,7 @@ Signed,
 - James Farmer, @jpfarmer (Honey Milk Software)
 - Corey Farwell, @frewsxcv (@kickstarter, Rust)
 - Gianpaolo Fili, @gianpaolof (Software Engineer)
+- Ursin Filli, @ursinn (Software Engineer)
 - Rian Finnegan, @xtellurian (Amphora Data)
 - Tony Fischetti, @tonyfischetti (Open source developer)
 - Katherine Flavel, @katef (Software Engineer)
