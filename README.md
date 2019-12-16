@@ -699,4 +699,4 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Mikhail Popov, @bearloga (Wikimedia Foundation)
+- Mikhail Popov, @bearloga (Data person at Wikimedia Foundation, R OSS package maintainer)
