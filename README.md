@@ -467,6 +467,7 @@ Signed,
 - Leo Nesfield, @thelmgn (Open source developer)
 - Liam Newman, @bitwiseman (Jenkins project contributor, github-api, js-beautify)
 - Vui Nguyen, @vuinguyen (iOS and JavaScript Contributor of open-source projects)
+- v0idifier Nickname, @makmm (Free Software Hacker)
 - Luna Nielsen, @Member1221 (Glimpse, PolyplexEngine)
 - Sebastian Vilhelm Nielsen, @VilhelmNielsen (Software Engineer)
 - Palash Nigam, @palash25 (Student, Contributor to various projects)
@@ -699,4 +700,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- v0idifier, @makmm (Free Software Hacker)
