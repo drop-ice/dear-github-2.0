@@ -407,6 +407,7 @@ Signed,
 - Brian Lonsdorf, @drboolean (Author, Software Developer)
 - isis lovecruft, @isislovecruft (Cryptographer)
 - Benard Luca, @lubenard (42 School Student)
+- José Ignacio Lucas Lledó, @ignasilucas (University of Valencia)
 - Joseph Luck, @josephluck (Software Engineer, various open source)
 - Luna Lunapiena, @lunacodes (Web Developer)
 - Conner Luzier, @cluzier (Software Developer, CyberMedics LLC)
