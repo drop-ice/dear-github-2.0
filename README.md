@@ -644,6 +644,7 @@ Signed,
 - María Lucía Vidart-Delgado, @mlvidart (DX/UX Researcher)
 - Immanuel von Detten, @ypislon (Ready To Code @readytocode, Software Engineer)
 - James Vorderbruggen, @JamesVorder (MassMesh)
+- Vincent D. Warmerdam, @koaning (Data Person)
 - Bex Warner, @hiimbex (X-GitHubber, Software Engineer, Human Being)
 - Jeremy Wagner, @malchata (yall.js, independent web performance consultant)
 - Shuo Wan, @wansho (Software Developer, Student)
@@ -684,4 +685,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Vincent D. Warmerdam, @koaning (Data Person)
