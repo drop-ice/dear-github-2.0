@@ -576,6 +576,7 @@ Signed,
 - Andrew Scheuermann, @a15n (Airbnb)
 - Moritz Schlarb, @moschlar (Cloud Engineer)
 - Ruben Schmidmeister, @bash (Software Developer)
+- Rikki Schulte, @acao (GraphQL Foundation, Cleveland, OH, US)
 - Eric Schultz, @wwahammy (CommitChange, Houdini Project)
 - Michael Schurter, @schmichael (HashiCorp Nomad Team Lead)
 - Alanna Scott, @ascott (Software Engineer)
