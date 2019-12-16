@@ -370,6 +370,7 @@ Signed,
 - Anna Krasner, @annakrasner (Software Engineer, Game Developer)
 - Kevin Krieger, @kkrieger85 (#Openmage, different Magento1 Modules/Shops)
 - Dennis Kromhout van der Meer, @flxfxp (Salesforce, Director of Product Management)
+- Tejas Kumthekar, @tk26 (Software Developer)
 - Simon Kunz @MDSLKTR (Software Engineer, npm package author)
 - Jamie Kyle, @jamiebuilds (Babel, Yarn, Parcel, Lerna, Flow, Marionette, Dear GitHub 1.0)
 - Soni L., @soniex2 (GAnarchy)
