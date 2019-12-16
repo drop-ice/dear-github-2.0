@@ -576,6 +576,7 @@ Signed,
 - Andrew Scheuermann, @a15n (Airbnb)
 - Moritz Schlarb, @moschlar (Cloud Engineer)
 - Ruben Schmidmeister, @bash (Software Developer)
+- Guido Schmidt, @guidoschmidt (Creative Developer & Designer)
 - Eric Schultz, @wwahammy (CommitChange, Houdini Project)
 - Michael Schurter, @schmichael (HashiCorp Nomad Team Lead)
 - Alanna Scott, @ascott (Software Engineer)
@@ -699,4 +700,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Guido Schmidt, @guidoschmidt
