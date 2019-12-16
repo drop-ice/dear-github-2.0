@@ -233,6 +233,7 @@ Signed,
 - Jake Brussel Faria, @jacobbf (Developer, technical writer, working on open source type projects)
 - James Farmer, @jpfarmer (Honey Milk Software)
 - Corey Farwell, @frewsxcv (@kickstarter, Rust)
+- Jan Nils Ferner, @jnferner (Software Engineer and Author)
 - Gianpaolo Fili, @gianpaolof (Software Engineer)
 - Rian Finnegan, @xtellurian (Amphora Data)
 - Tony Fischetti, @tonyfischetti (Open source developer)
@@ -699,4 +700,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Jan Nils Ferner, @jnferner (Software Engineer and Author)
