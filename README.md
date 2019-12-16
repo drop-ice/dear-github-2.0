@@ -126,6 +126,7 @@ Signed,
 - Hannah Blau, @hannahblau (research software engineer)
 - Bobbbay Bobbbayan, @bobbbay (Full Stack Web Developer)
 - Tarun Boddupalli, @tarunbod (Software Developer)
+- Mike Boers, @mikeboers
 - Daniel Bolivar, @ddanielbee (Software Engineer)
 - Remie Bolte, @remie (YouTransfer.io, gfc.io)
 - Louis Bon, @Bonlou (Web Developer)
