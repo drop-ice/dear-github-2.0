@@ -284,6 +284,7 @@ Signed,
 - John-Mark Gurney, @jmgurney (personal, boycott GitHub)
 - Gusted, @Gusted (Student)
 - April H, @NthPortal (Scala contributor)
+- Chris Hallberg, @crhallberg (Web Developer, Teacher)
 - Martin Haesler, @mswift42 (Software Developer)
 - Robert Hafner, @tedivm (GitConsensus, various PHP and Python libraries)
 - Evan Hahn, @EvanHahn (Helmet.js)
