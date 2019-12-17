@@ -663,6 +663,7 @@ Signed,
 - Jeremy Wagner, @malchata (yall.js, independent web performance consultant)
 - Shuo Wan, @wansho (Software Developer, Student)
 - Joel Wasserman, @joelwass (Software Engineer, The Teacher Fund)
+- Matt Watson, @mbwatson (Web Developer)
 - Casey Webb, @caseyWebb (Software Developer)
 - Max Dominik Weber, @fenhl (Computer Science student, hobbyist programmer)
 - Michael Weems, @weems (Information Security Researcher, Programmer)
