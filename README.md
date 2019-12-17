@@ -339,6 +339,7 @@ Signed,
 - Brian Jenkins, @bonkydog (npm)
 - Adam Jetmalani, @akjetma (Programmer)
 - Andrei Jiroh, @AndreiJirohHaliliDev2006 (Project Maintainer, MadeByThePinsHub)
+- Vanessa Jimenez @vjimenez327 (Software Engineer)
 - Pete Johns, @johnsyweb (Developer)
 - Josh Junon, @qix- (Chalk, Debug, Storybook, Better Exceptions, formerly ZEIT)
 - Dave Justice, @meandavejustice (Senior Software Engineer, Mozilla)
