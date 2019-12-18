@@ -500,6 +500,7 @@ Signed,
 - Byungjin Park, @posquit0 (Software Engineer)
 - Saad Pasta, @saadpasta (Jr Software Developer)
 - Atish Patel, @atishpatel (Software Engineer)
+- Robert Paul, @robkpaul (Student/Software Engineer)
 - Alexander Payne, @myrrlyn (Rust community)
 - Viktor Penkov, @vpenkoff (Software Developer)
 - Rosa Pérez, @paintedlbird7 (Aspiring Sofware Developer)
