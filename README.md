@@ -503,6 +503,7 @@ Signed,
 - Alexander Payne, @myrrlyn (Rust community)
 - Viktor Penkov, @vpenkoff (Software Developer)
 - Rosa Pérez, @paintedlbird7 (Aspiring Sofware Developer)
+- Caio Perdona, @perdona (Software Engineer)
 - Marco Perone, @marcosh (Statebox)
 - Steve Peters, @scpeters (Software Engineer, Homebrew maintainer)
 - Penelope Phippen, @penelope_zone (Maintainer RSpec/Rubyfmt)
