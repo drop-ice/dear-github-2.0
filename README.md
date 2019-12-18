@@ -394,6 +394,7 @@ Signed,
 - Joey Lee, @joeyklee (Open source contributor, ml5js)
 - Leonard S. S. Lee, @sheeeng (Pipeline Plumber)
 - Jannis Leidel, @jezdez (Python developer and community member)
+- Ygor Lemos, @ygbr (CTO / Software Engineer)
 - Danilo Lekovic, @almightypush (Computing Science Student)
 - Judson Lester, @nyarly (Many small projects and contributions)
 - Myles Lewando, @codemacabre (CodeMacabre, OpenPlanetary)
