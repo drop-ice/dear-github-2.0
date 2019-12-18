@@ -616,6 +616,7 @@ Signed,
 - Tomasz Surowiec, @DerivedMate (Software Developer, Student)
 - Colby Swandale, @colby-swandale (Bundler, Rubygems, RubyGems.org)
 - Zac Sweers, @ZacSweers (Software engineer, speaker, open source developer, son of an immigrant father, from a "shithole" country)
+- Ziad Abouelfarah, @ziadab (College Student, Software enginner)
 - Vladimir Támara, @vtamara (@pasosdeJesus)
 - Prat Tana, @pt2121 (Software Engineer)
 - Eriec Tanijaya, @EriecTanijaya (College Student)
