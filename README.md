@@ -405,6 +405,7 @@ Signed,
 - Leonard S. S. Lee, @sheeeng (Pipeline Plumber)
 - Jannis Leidel, @jezdez (Python developer and community member)
 - Danilo Lekovic, @almightypush (Computing Science Student)
+- Ygor Lemos, @ygbr (CTO / Software Engineer)
 - Judson Lester, @nyarly (Many small projects and contributions)
 - Myles Lewando, @codemacabre (CodeMacabre, OpenPlanetary)
 - Eric Lewis, @ericandrewlewis (Software Engineer)
