@@ -602,6 +602,7 @@ Signed,
 - Justin Sherman, @jsherman256 (Software Engineer)
 - Ryan Shipp, @rshipp (Software Engineer)
 - Diogo Silva, @fsdiogo (Software Engineer)
+- Antoni Silvestrovic, @vincentrodriguez (Developer @ Quassum Manus)
 - Josh Simmons, @joshsimmons (FOSS community organizer)
 - Kyle Simpson, @getify (Getify, YDKJS)
 - Praveen Sinha, @h0mee (Senior Software Engineer)
