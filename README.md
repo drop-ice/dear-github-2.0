@@ -236,6 +236,7 @@ Signed,
 - Corey Farwell, @frewsxcv (@kickstarter, Rust)
 - Patrick Ferris, @patricoferris (CS Student, Social Justice Advocate)
 - Gianpaolo Fili, @gianpaolof (Software Engineer)
+- Ursin Filli, @ursinn (Software Engineer)
 - Rian Finnegan, @xtellurian (Amphora Data)
 - Tony Fischetti, @tonyfischetti (Open source developer)
 - Katherine Flavel, @katef (Software Engineer)
