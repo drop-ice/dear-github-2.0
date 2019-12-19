@@ -124,6 +124,7 @@ Signed,
 - Ben Blackmore, @bripkens (Software Engineer and NPM package author)
 - Tamzin Blake, @tamzinblake (Software Engineer)
 - Hannah Blau, @hannahblau (research software engineer)
+- Chris Bloom, @chrisbloom7 (Software Engineer, GitHub)
 - Bobbbay Bobbbayan, @bobbbay (Full Stack Web Developer)
 - Tarun Boddupalli, @tarunbod (Software Developer)
 - Mike Boers, @mikeboers
