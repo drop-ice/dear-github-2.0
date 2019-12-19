@@ -519,6 +519,7 @@ Signed,
 - Erin Power, @XAMPPRocky (Rust-lang contributor, tokei)
 - Steve Purcell, @purcell
 - Gustav Pursche, @gustavpursche (Software Engineer)
+- Dan Q, @Dan-Q (Software Engineer)
 - Daniel Quinn, @danielquinn (Paperless, Aletheia, mt103)
 - Guillaume Quittet, @gquittet (Software Developer, UNIX lover)
 - Rahul, @rahuldottech (Student, Developer)
