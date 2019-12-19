@@ -199,6 +199,7 @@ Signed,
 - Andy Davidoff, @disruptek (computer user)
 - Aaron Davis, @kumavis (engineer, @MetaMask)
 - Matthew Dean, @matthew-dean (Less.js)
+- Ryan Delaney, @rpdelaney (Software Engineer)
 - Suhas Deshpande, @suhasdeshpande (Typescript & Angular contributor)
 - Henry Desroches, @xdesro (Faculty)
 - Dessalines, @dessalines (OSS developer)
