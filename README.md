@@ -591,6 +591,7 @@ Signed,
 - Moritz Schlarb, @moschlar (Cloud Engineer)
 - Ruben Schmidmeister, @bash (Software Developer)
 - Guido Schmidt, @guidoschmidt (Creative Developer & Designer)
+- Rikki Schulte, @acao (GraphQL Foundation, Cleveland, OH, US)
 - Eric Schultz, @wwahammy (CommitChange, Houdini Project)
 - Michael Schurter, @schmichael (HashiCorp Nomad Team Lead)
 - Alanna Scott, @ascott (Software Engineer)
