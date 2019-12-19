@@ -677,6 +677,7 @@ Signed,
 - Sylvia van Os, @TheLastProject (UNIX Engineer, Open Source developer)
 - Tara Vancil, @taravancil (Software Engineer, Glitch)
 - André Varandas, @iamvarandas (Software Developer)
+- Anurag Veekancheri, @talentedandrew (Software Engineer)
 - Josue Villanueva, @idjevm (Software Engineer, Wallbreakers)
 - Sergei Visotsky @sergeivisotsky (Java Developer)
 - Felipe Ventura, @fvntr (Techqueria)
