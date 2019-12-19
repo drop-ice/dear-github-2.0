@@ -611,6 +611,7 @@ Signed,
 - Joshua Shao, @jhuashao (Product Designer)
 - Justin Sherman, @jsherman256 (Software Engineer)
 - Ryan Shipp, @rshipp (Software Engineer)
+- Julia Silge, @juliasilge (Data scientist, R OSS package maintainer)
 - Diogo Silva, @fsdiogo (Software Engineer)
 - Antoni Silvestrovic, @vincentrodriguez (Developer @ Quassum Manus)
 - Josh Simmons, @joshsimmons (FOSS community organizer)
