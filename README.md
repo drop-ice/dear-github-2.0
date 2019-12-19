@@ -76,6 +76,7 @@ Signed,
 - Artur Diniz Adam, @artdiniz (Instructor and developer @Caelum)
 - Zac Adam-MacEwen, @ZAdamMac (KSL)
 - Ryan Addessi, @raddessi (Systems/Network Engineer)
+- Juan Aguilar, @botika (Software Engineer)
 - Ehsan Akhgari, @ehsan (Principal Engineer, Mozilla)
 - Omar Al-Ejel, @oalejel (Software Engineer, Umich EECS Student Instructor)
 - Nick Aliferopoulos, @naliferopoulos (Information Security Researcher)
