@@ -438,6 +438,7 @@ Signed,
 - Rob McLarty, @robmclarty (js, bikes, infosec)
 - Damien McKenna, @damienmckenna (Drupal contributor)
 - Julie McMurry, @jmcmurry (Monarch Initiative, Oregon State Faculty)
+- Amelia McNamara, @AmeliaMN (University of St Thomas statistics faculty)
 - Pablo Meier, @pablo-meier (a human)
 - Jeremy Meiss, @jerdog (DevRel, Community)
 - Edgar Mejía, @edgarMejia (Creativa Consultores)
