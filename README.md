@@ -468,6 +468,7 @@ Signed,
 - Ferdous Nasri, @ferbsx (Web developer, code curious and ruby monstas)
 - Andrey Nering, @andreynering (Software Engineer)
 - Leo Nesfield, @thelmgn (Open source developer)
+- William Newell, @w-n-c (Web Developer)
 - Liam Newman, @bitwiseman (Jenkins project contributor, github-api, js-beautify)
 - Vui Nguyen, @vuinguyen (iOS and JavaScript Contributor of open-source projects)
 - Luna Nielsen, @Member1221 (Glimpse, PolyplexEngine)
