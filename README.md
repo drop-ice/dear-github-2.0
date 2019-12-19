@@ -313,6 +313,7 @@ Signed,
 - Guilherme Herzog, @guiherzog (Software Engineer)
 - Patrick Hickey, @pchickey (WebAssembly software developer)
 - Chris Hiestand, @chrishiestand (GitHub App Creator www.boss.dev)
+- Keith Hill, @vic10us (Software Engineer)
 - Auron Hines, @ghostslayer989 (Hacktoberfest, Web Developer)
 - Robert Hofmann, @bert2 (Software Developer)
 - Zach Holman, @holman (Employee #9, GitHub)
