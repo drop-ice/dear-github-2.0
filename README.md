@@ -476,6 +476,7 @@ Signed,
 - William Newell, @w-n-c (Web Developer)
 - Liam Newman, @bitwiseman (Jenkins project contributor, github-api, js-beautify)
 - Vui Nguyen, @vuinguyen (iOS and JavaScript Contributor of open-source projects)
+- v0idifier Nickname, @makmm (Free Software Hacker)
 - Luna Nielsen, @Member1221 (Glimpse, PolyplexEngine)
 - Sebastian Vilhelm Nielsen, @VilhelmNielsen (Software Engineer)
 - Palash Nigam, @palash25 (Student, Contributor to various projects)
