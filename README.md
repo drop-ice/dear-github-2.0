@@ -607,6 +607,7 @@ Signed,
 - Robyn Speer, @rspeer (ConceptNet)
 - Hugh Spiller, @y6nH (Software Engineer)
 - Martin Splitt, @avgp (Developer Advocate, Rendertron maintainer, open source developer, Google)
+- Jan Sprinz, @neothethird (Ubuntu Touch dev at the UBports Foundation)
 - Peter Squicciarini, @stripedpajamas (VSCodium)
 - Thorr Stevens, @thorrstevens (Javascript Developer, date-fns contributor)
 - William Stewart, @zoidbergwill (Software Engineer)
