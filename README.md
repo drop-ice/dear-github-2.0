@@ -71,6 +71,7 @@ Signed,
 - Ron. A, @0xadada (Unredacted Word)
 - Iddan Aaronsohn, @iddan (Open source maintainer)
 - Felix Ableitner, @nutomic (/e/ foundation, former developer of syncthing-android)
+- Ziad Abouelfarah, @ziadab (College Student, Software Engineer)
 - Syed AbuTalib, @SyedAbuTalib (Software Engineer)
 - Dave Ackley, @daveackley (Best effort advocate and developer of MFM, ulam, SPLAT)
 - Artur Diniz Adam, @artdiniz (Instructor and developer @Caelum)
