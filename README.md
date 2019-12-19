@@ -293,6 +293,7 @@ Signed,
 - Martin Haesler, @mswift42 (Software Developer)
 - Robert Hafner, @tedivm (GitConsensus, various PHP and Python libraries)
 - Evan Hahn, @EvanHahn (Helmet.js)
+- Chris Hallberg, @crhallberg (Web Developer, Teacher)
 - Beshoy Hanna, @behoyh (Software Developer)
 - Philipp Hansch, @phansch (Rust & rust-clippy contributor)
 - Sumana Harihareswara, @brainwane (Changeset Consulting)
