@@ -48,6 +48,7 @@ Signed,
 - Tatiana Mac, @TatianaMac (Self-Defined Dictionary)
 - Kat Marchán, @zkat (Entropic)
 - Lauren McCarthy, @lmccart (p5.js, Processing Foundation)
+- Gustavo Moda, @gustavomoda (Software Engineer, DevOps)
 - Buster Neece, @SlvrEagle23 (AzuraCast)
 - David Nicholson, @NickleDave (contributor to scientific Python libraries)
 - Tim Pope, @tpope (Vim plugins)
