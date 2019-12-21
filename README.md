@@ -263,6 +263,7 @@ Signed,
 - Jake Gealer, @JakeMakesStuff (MagicCap)
 - Marius Gedminas, @mgedmin (Software engineer, OSS maintainer, contributor to various Python projects)
 - Pejman Ghorbanzade, @ghorbanzade (Software Engineer)
+- Alexandros Giallos, @xelinorg (Software Engineer)
 - Florian Gilcher, @skade (Rust, Rust Berlin, Ruby Berlin e.V.)
 - Cate Golding, @decafhotchocolate (Student, Software & Web Developer)
 - Moises Gonzalez, @moigonzalez (Web Developer)
