@@ -310,6 +310,7 @@ Signed,
 - Raquel Hernandez, @maggit (Senior Software Engineer / Engineering Manager @raqueldotnyc) 
 - Uriel Hernández, @urielhdz (Software Engineer)
 - Jacob Herrington, @jacobherrington (Solidus)
+- Benjamin Herzig, @c0nscience (Software Engineer)
 - Guilherme Herzog, @guiherzog (Software Engineer)
 - Patrick Hickey, @pchickey (WebAssembly software developer)
 - Chris Hiestand, @chrishiestand (GitHub App Creator www.boss.dev)
