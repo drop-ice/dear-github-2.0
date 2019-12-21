@@ -517,6 +517,7 @@ Signed,
 - Saad Pasta, @saadpasta (Jr Software Developer)
 - Atish Patel, @atishpatel (Software Engineer)
 - Robert Paul, @robkpaul (Student/Software Engineer)
+- Henry Paulino, @corasan (Front End Developer)
 - Alexander Payne, @myrrlyn (Rust community)
 - Viktor Penkov, @vpenkoff (Software Developer)
 - Rosa Pérez, @paintedlbird7 (Aspiring Sofware Developer)
