@@ -641,6 +641,7 @@ Signed,
 - Christoph Stock, @stockulus (Software Engineer)
 - Peter Storch, @pstorch (Developer)
 - Christopher Styles, @christopherstyles (Software Writer, allthefarms.com co-founder)
+- Domingo Suárez, @domix (Software Engineer)
 - Rodrigo Suárez, @toti1212 (Software Engineer)
 - Tim Sullivan, @timsully (UI/Human Factors Engineer, Splunk>, Effective.AF)
 - Tomasz Surowiec, @DerivedMate (Software Developer, Student)
@@ -733,4 +734,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Domingo Suarez Torres, @domix (Software Writer)
