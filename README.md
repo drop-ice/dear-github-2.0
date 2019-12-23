@@ -254,6 +254,7 @@ Signed,
 - Liz Fong-Jones, @lizthegrey (Principal Developer Advocate, @honeycombio; @opentelemetry governance committee; affiliations for identification purposes only)
 - Daniel De Lucca Fonseca, @odelucca (Software Engineer)
 - Jeff Forcier, @bitprophet (Fabric, Paramiko, etc)
+- Joshua Fox, @coffeejoshua (Software Developer)
 - Logan Franken, @loganfranken (Developer)
 - Thomas Fuchs, @madrobby (Zepto, scriptaculous)
 - Noam Gal, @atgardner (Software Engineer)
