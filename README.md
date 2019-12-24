@@ -642,6 +642,7 @@ Signed,
 - Peter Storch, @pstorch (Developer)
 - Christopher Styles, @christopherstyles (Software Writer, allthefarms.com co-founder)
 - Rodrigo Suárez, @toti1212 (Software Engineer)
+- Johano R. Sulfuro, @Raccoon-JS (Game Developer, Computer Science student, and Programmemr)
 - Tim Sullivan, @timsully (UI/Human Factors Engineer, Splunk>, Effective.AF)
 - Tomasz Surowiec, @DerivedMate (Software Developer, Student)
 - Colby Swandale, @colby-swandale (Bundler, Rubygems, RubyGems.org)
@@ -733,4 +734,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Johano R. Sulfuro, @Raccoon_JS (Game Developer, Computer Science student, and Programmemr)
