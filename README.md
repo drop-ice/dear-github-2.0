@@ -641,7 +641,7 @@ Signed,
 - Christoph Stock, @stockulus (Software Engineer)
 - Peter Storch, @pstorch (Developer)
 - Christopher Styles, @christopherstyles (Software Writer, allthefarms.com co-founder)
-- Rodrigo Suárez, @toti1212 (Software Engineer)
+- Rodrigo Suarez, @toti1212 (Software Engineer)
 - Johano R. Sulfuro, @Raccoon-JS (Game Developer, Computer Science student, and Programmemr)
 - Tim Sullivan, @timsully (UI/Human Factors Engineer, Splunk>, Effective.AF)
 - Tomasz Surowiec, @DerivedMate (Software Developer, Student)
