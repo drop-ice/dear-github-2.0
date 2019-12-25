@@ -536,6 +536,7 @@ Signed,
 - Giorgio Pomettini, @pomettini (Game Developer)
 - Brian Pond, @PMojito (Software Developer)
 - Mikhail Popov, @bearloga (Data person at Wikimedia Foundation, R OSS package maintainer)
+- Thomas Povinelli, @elunico (Programmer)
 - Erin Power, @XAMPPRocky (Rust-lang contributor, tokei)
 - Steve Purcell, @purcell
 - Gustav Pursche, @gustavpursche (Software Engineer)
