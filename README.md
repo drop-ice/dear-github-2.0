@@ -436,6 +436,7 @@ Signed,
 - Sebastian Martinez, @sebastinez (Software Engineer)
 - Danilo Martins, @mawkee (Software Engineer)
 - Matthew Masurka, @gigamesh (Web Developer)
+- Johnett Mathew, @Johnett (Android Dev)
 - Rahul Mathews, @rahulmathews (Full Stack Developer)
 - Jefferson Matheus, @jefferson227 (Software Developer)
 - Scott Matsuda, @Scotterpops19
@@ -733,4 +734,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Johnett Mathew, @Johnett (Android Dev)
