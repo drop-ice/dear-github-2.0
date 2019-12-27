@@ -319,6 +319,7 @@ Signed,
 - Daira Hopwood, @daira (Protocol Designer, Electric Coin Company)
 - Karl Horky, @karlhorky (Founder, Teacher @ upleveled.io)
 - Joshua Hoskins, @friendtocephalopods (Square)
+- Jacob Hotz, @hotzjacobb (fellow human)
 - Jaafari El Housseine, @jefferyhus (Software Engineer)
 - Hannah Howard, @hannahhoward (Carbon Five, RxReact)
 - Alec Hoyland, @alec-hoyland (Scientific Programmer, Xolotl)
