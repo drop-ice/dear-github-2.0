@@ -262,6 +262,7 @@ Signed,
 - Kristal Garcia, @kgmajor (Techqueria)
 - Jake Gealer, @JakeMakesStuff (MagicCap)
 - Marius Gedminas, @mgedmin (Software engineer, OSS maintainer, contributor to various Python projects)
+- James George, @jamesgeorge007 (Full Stack Engineer, Author of MEVN-CLI and teachcode)
 - Pejman Ghorbanzade, @ghorbanzade (Software Engineer)
 - Florian Gilcher, @skade (Rust, Rust Berlin, Ruby Berlin e.V.)
 - Cate Golding, @decafhotchocolate (Student, Software & Web Developer)
