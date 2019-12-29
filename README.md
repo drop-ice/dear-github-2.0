@@ -617,6 +617,7 @@ Signed,
 - Ryan Shipp, @rshipp (Software Engineer)
 - Julia Silge, @juliasilge (Data scientist, R OSS package maintainer)
 - Diogo Silva, @fsdiogo (Software Engineer)
+- Quentin Silva, @Asthriona (Sirius Media Group)
 - Antoni Silvestrovic, @vincentrodriguez (Developer @ Quassum Manus)
 - Josh Simmons, @joshsimmons (FOSS community organizer)
 - Kyle Simpson, @getify (Getify, YDKJS)
