@@ -424,6 +424,7 @@ Signed,
 - Safyre Lyons, @SafyreLyons (Software Engineer, Sysadmin, Open-Source Contributer)
 - Jeremy Macaluso, @jvluso (Ethereum-oauth, Frame)
 - Evan Machnic, @emachnic (Railsinstaller Maintainer and Chef contributor)
+- Daniel Madruga, @masihi (Software Engineer)
 - Mathew Maidment, @lioncash (Emulator developer; Dolphin, Citra, yuzu)
 - Anthony Maki, @4cm4k1 (Software Engineer)
 - Esteban Manchado Velázquez, @emanchado (RoboHydra)
