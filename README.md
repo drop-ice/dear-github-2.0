@@ -255,6 +255,7 @@ Signed,
 - Daniel De Lucca Fonseca, @odelucca (Software Engineer)
 - Jeff Forcier, @bitprophet (Fabric, Paramiko, etc)
 - Logan Franken, @loganfranken (Developer)
+- Anthony Fu, @antfu (Software Engineer)
 - Thomas Fuchs, @madrobby (Zepto, scriptaculous)
 - Noam Gal, @atgardner (Software Engineer)
 - Chris Galardi, @ixtli (Engineer, iphone dev team)
@@ -733,4 +734,4 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Anthony Fu, @antfu (Software Engineer)
+
