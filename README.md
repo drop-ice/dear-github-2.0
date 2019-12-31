@@ -537,6 +537,7 @@ Signed,
 - Brian Pond, @PMojito (Software Developer)
 - Mikhail Popov, @bearloga (Data person at Wikimedia Foundation, R OSS package maintainer)
 - Erin Power, @XAMPPRocky (Rust-lang contributor, tokei)
+- Aleksandar Puharic, @xZero707 (Software Engineer)
 - Steve Purcell, @purcell
 - Gustav Pursche, @gustavpursche (Software Engineer)
 - Dan Q, @Dan-Q (Software Engineer)
