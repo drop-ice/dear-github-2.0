@@ -378,6 +378,7 @@ Signed,
 - Jakub Koralewski, @JakubKoralewski (j³)
 - Jakub Kozłowski, @kubukoz (Scala developer, Cats contributor)
 - Anna Krasner, @annakrasner (Software Engineer, Game Developer)
+- Agamemnon Krasoulis, @agamemnonc (Biomedical Engineering Researcher)
 - Kevin Krieger, @kkrieger85 (#Openmage, different Magento1 Modules/Shops)
 - Dennis Kromhout van der Meer, @flxfxp (Salesforce, Director of Product Management)
 - Simon Kunz @MDSLKTR (Software Engineer, npm package author)
@@ -733,4 +734,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Agamemnon Krasoulis, @agamemnonc (Biomedical Engineering Researcher)
