@@ -349,6 +349,7 @@ Signed,
 - Adam Jetmalani, @akjetma (Programmer)
 - Andrei Jiroh, @AndreiJirohHaliliDev2006 (Project Maintainer, MadeByThePinsHub)
 - Pete Johns, @johnsyweb (Developer)
+- Martin Junker, @martinjunker (Software Developer)
 - Josh Junon, @qix- (Chalk, Debug, Storybook, Better Exceptions, formerly ZEIT)
 - Dave Justice, @meandavejustice (Senior Software Engineer, Mozilla)
 - Joe Kachmar, @jkachmar (Software Developer, Open Source Contributor)
