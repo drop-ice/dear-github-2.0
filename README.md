@@ -708,6 +708,7 @@ Signed,
 - Stephanie Wilkinson, @stephaniewilkinson (@naisorg)
 - Dominik Wilkowski, @dominikwilkowski (Thinkmill, Australian Government, Westpac)
 - Lars Willighagen, @larsgw (open-source contributor, Citation.js maintainer)
+- Timmy Willison, @timmywil (jQuery, OpenJS Foundation)
 - Ryan Wilson-Perkin, @ryanwilsonperkin (Sofware Developer)
 - Mitch Winn, @mitchwinn (Developer)
 - Tim de Wit, @tim-dewit (Web developer)
