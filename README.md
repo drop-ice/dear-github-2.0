@@ -164,6 +164,7 @@ Signed,
 - Mitch Chapman, @mchapman87501 (Software Developer)
 - Christian Chaux, @Xwilarg (Software Developer, Student)
 - James Cherven, @jcherven (Web Hobbyist)
+- Miłosz Chmura, @mieszko4 (Software Engineer, Human)
 - David Chopin, @ChopinDavid (Software Developer, student)
 - Andrew Chou, @achou11 (Software Engineer)
 - Bryan Clark, @bryanjclark (Mobile Lead, Khan Academy)
