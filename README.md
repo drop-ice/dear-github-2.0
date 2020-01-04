@@ -50,6 +50,7 @@ Signed,
 - Lauren McCarthy, @lmccart (p5.js, Processing Foundation)
 - Buster Neece, @SlvrEagle23 (AzuraCast)
 - David Nicholson, @NickleDave (contributor to scientific Python libraries)
+- Kix Panganiban, @kixpanganiban (Software Engineer)
 - Tim Pope, @tpope (Vim plugins)
 - Jordan Rose, @belkadan (Swift contributor)
 - Gaurav Sachdeva, @gauravano (Maintainer, Public Lab)
