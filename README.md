@@ -416,6 +416,7 @@ Signed,
 - Enric Llagostera, @enricllagostera (Game designer and PhD student, Concordia University)
 - Noel Francis Lobo, @coffeestains (Web Developer, Python Programmer)
 - Brian Lonsdorf, @drboolean (Author, Software Developer)
+- Edward Loveall, @edwardloveall (Senior Developer, thoughtbot)
 - isis lovecruft, @isislovecruft (Cryptographer)
 - Benard Luca, @lubenard (42 School Student)
 - Joseph Luck, @josephluck (Software Engineer, various open source)
