@@ -646,6 +646,7 @@ Signed,
 - Tomasz Surowiec, @DerivedMate (Software Developer, Student)
 - Colby Swandale, @colby-swandale (Bundler, Rubygems, RubyGems.org)
 - Zac Sweers, @ZacSweers (Software engineer, speaker, open source developer, son of an immigrant father, from a "shithole" country)
+- Bjørn Hald Sørensen, @crevil (Software Engineer)
 - Vladimir Támara, @vtamara (@pasosdeJesus)
 - Prat Tana, @pt2121 (Software Engineer)
 - Eriec Tanijaya, @EriecTanijaya (College Student)
@@ -733,4 +734,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Bjørn Hald Sørensen, @crevil (Software Engineer)
