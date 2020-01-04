@@ -528,6 +528,7 @@ Signed,
 - Simon Pieters, @zcorpan (Web Standards, Bocoup)
 - Louis Pilfold, @lpil (Gleam, BEAM ecosystem)
 - Natalie Pilgeram, @Nzfinch (Doctoral Student)
+- Yokim Pillay, @yokimpillay (Software Developer)
 - Emily Pillmore, @emilypi (cohomolo.gy)
 - Juan Pichardo, @xMinota (Student, Web Developer)
 - Henrique Pinto, @henvic (Software Engineer)
