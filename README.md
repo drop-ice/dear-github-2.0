@@ -671,6 +671,7 @@ Signed,
 - Bobby Tromm, @btromm (Neuroscience student, Research Assistant)
 - Jonathan Turner, @jonathandturner (Nushell, Rust, TypeScript)
 - Rebecca Turner, @9999years (Xoogler)
+- Pavel Vergeev, @vergeev (Web Developer)
 - Manuel Uberti, @manuel-uberti
 - Kashif Umair Liaqat, @kashif-umair (Senior Software Engineer)
 - Amy Unruh, @amygdala
