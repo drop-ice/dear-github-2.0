@@ -671,7 +671,6 @@ Signed,
 - Bobby Tromm, @btromm (Neuroscience student, Research Assistant)
 - Jonathan Turner, @jonathandturner (Nushell, Rust, TypeScript)
 - Rebecca Turner, @9999years (Xoogler)
-- Pavel Vergeev, @vergeev (Web Developer)
 - Manuel Uberti, @manuel-uberti
 - Kashif Umair Liaqat, @kashif-umair (Senior Software Engineer)
 - Amy Unruh, @amygdala
@@ -685,6 +684,7 @@ Signed,
 - Tara Vancil, @taravancil (Software Engineer, Glitch)
 - André Varandas, @iamvarandas (Software Developer)
 - Anurag Veekancheri, @talentedandrew (Software Engineer)
+- Pavel Vergeev, @vergeev (Web Developer)
 - Josue Villanueva, @idjevm (Software Engineer, Wallbreakers)
 - Sergei Visotsky @sergeivisotsky (Java Developer)
 - Felipe Ventura, @fvntr (Techqueria)
