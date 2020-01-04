@@ -591,6 +591,7 @@ Signed,
 - Gabriele Sarti, @gsarti (MSc Student, University of Trieste)
 - Aki Sasaki, @escapewindow (Staff Software Engineer, Mozilla)
 - Vlad Satanovski, @ervion (Software Engineer)
+- Ross Savage, @dangeross (Software Engineer, Radicle UG)
 - Josiah Savary, @jozanza (Software Engineer)
 - Leah Scampoli, @leahscampoli (Technical Writer, Ruma)
 - Tobi Schäfer, @p3k (Antville.org)
