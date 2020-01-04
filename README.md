@@ -518,6 +518,7 @@ Signed,
 - Atish Patel, @atishpatel (Software Engineer)
 - Robert Paul, @robkpaul (Student/Software Engineer)
 - Alexander Payne, @myrrlyn (Rust community)
+- Guillaume Pellerin, @yomguy (Head Web Development, IRCAM, France)
 - Viktor Penkov, @vpenkoff (Software Developer)
 - Rosa Pérez, @paintedlbird7 (Aspiring Sofware Developer)
 - Marco Perone, @marcosh (Statebox)
