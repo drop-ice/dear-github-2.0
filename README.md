@@ -166,6 +166,7 @@ Signed,
 - James Cherven, @jcherven (Web Hobbyist)
 - David Chopin, @ChopinDavid (Software Developer, student)
 - Andrew Chou, @achou11 (Software Engineer)
+- Kseniia Chumachenko, @timeofneon (Web/Application Developer)
 - Bryan Clark, @bryanjclark (Mobile Lead, Khan Academy)
 - Joe Clay, @17cupsofcoffee (Software Engineer)
 - Garret Cleare, @g4rret
