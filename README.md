@@ -306,6 +306,7 @@ Signed,
 - Martin Heidegger, @martinheidegger (consento-org, jsconfjp, ...)
 - Jacob Helwig, @jhelwig (Calagator)
 - Julian Hem, @notnite (Software Engineer)
+- Rene Henkenius, @r3ne_pew (Junior Data Analyst, Student)
 - Jashua Heredia, @Jouo (Software Developer, Student)
 - Raquel Hernandez, @maggit (Senior Software Engineer / Engineering Manager @raqueldotnyc) 
 - Uriel Hernández, @urielhdz (Software Engineer)
