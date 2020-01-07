@@ -296,6 +296,7 @@ Signed,
 - Evan Hahn, @EvanHahn (Helmet.js)
 - Chris Hallberg, @crhallberg (Web Developer, Teacher)
 - Beshoy Hanna, @behoyh (Software Developer)
+- Jay Hannah, @jhannah (Programmer)
 - Philipp Hansch, @phansch (Rust & rust-clippy contributor)
 - Sumana Harihareswara, @brainwane (Changeset Consulting)
 - Frédéric Harper, @fharper
