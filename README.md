@@ -67,6 +67,9 @@ Signed,
 ----
 
 [Add your signature below](https://github.com/drop-ice/dear-github-2.0/issues/16)
+
+- M. Martins, @MartinsMessias
+- Kleber Germano, @klebergermano
 - Sayak Brahmachari, @sayalbrm (Student, hobbyist, programmer)
 - Ron. A, @0xadada (Unredacted Word)
 - Iddan Aaronsohn, @iddan (Open source maintainer)
