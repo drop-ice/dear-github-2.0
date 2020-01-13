@@ -470,6 +470,7 @@ Signed,
 - Keziah Moselle, @KeziahMoselle (Front-end developer)
 - Miguel Mota, @miguelmota (Software Developer)
 - Ryan Mottley, @ligerzero459 (Help.com)
+- Ismail Mourtada, @mourtisma (Software Engineer)
 - Alex Munoz, @alexmunoz905 (CEO at Napend)
 - Jose Munoz, @jdmg94 (Software Engineer)
 - Peter Murphy, @ptrfrncsmrph (Software Engineer)
@@ -733,4 +734,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Ismail Mourtada, @mourtisma (Software Engineer)
