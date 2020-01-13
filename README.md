@@ -337,6 +337,7 @@ Signed,
 - Dante Issaias, @danteissaias (Full Stack Developer)
 - Dmytro Izotov, @dizotoff (Web Developer)
 - Carter Landis, @ccarterlandis (CHAOSS Researcher, Maintainer & Developer, Student)
+- Kurt Jacobson, @kurtjx (Software Engineer)
 - Andrew-David Jahchan, @AndrewDavid (Definitely Not A Co, Wild Gamut)
 - Sambhav Jain, @sambhav2612 (Software Engineer)
 - David James, @mego22 (SRE)
