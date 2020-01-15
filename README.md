@@ -658,6 +658,7 @@ Signed,
 - Cathy Theys, @YesCT (Web Developer)
 - Tilde Thurium, @annthurium (Atom Editor contributor, Write Speak Code organizer)
 - Nigel Tiany, @nigeltiany (Concerned Immigrant)
+- Josh Ting, @joshhting (Software Engineer)
 - Erick Todd, @ddot727 (Software Engineer)
 - Xavi Torelló, @XaviTorello (software engineer, itsec consultant, GNUites, Python Girona organizer)
 - Thomas Tortorini, @mr21 (gridsound)
