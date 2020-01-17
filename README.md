@@ -507,6 +507,7 @@ Signed,
 - Eniola Oyewole, @BetiDev (Developer)
 - Sefa Ozalp, @sefabey (Data Science Researcher @ Cardiff University, HateLab)
 - Ave Ozkal, @aveao (Lead Software Developer, open source contributor; team at @elixire, @lasagnaltd, @reswitched, @switchroot)
+- Odyssey, @tvOdyssey (Main Developer at @exordium-dev)
 - Juan Pablo P., @youngkaneda (Software Engineer, Open Source developer)
 - Luis Padron, @luispadron (Software Engineer, ICE disliker)
 - Julien Pagès, @parkouss
