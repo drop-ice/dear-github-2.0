@@ -374,6 +374,7 @@ Signed,
 - Zach Klippenstein, @zach-klippenstein (Square)
 - Brian Knox, @taotetek (GoCZMQ, contributor to CZMQ, Rsyslog)
 - Masafumi Koba, @ybiquitous (Software Developer)
+- Robin Kolstad, @Zawaken (Student, Linux User, Hobbyist Developer)
 - Renée Kooi, @goto-bus-stop (browserify; Clinic.js; Uppy)
 - Jakub Koralewski, @JakubKoralewski (j³)
 - Jakub Kozłowski, @kubukoz (Scala developer, Cats contributor)
