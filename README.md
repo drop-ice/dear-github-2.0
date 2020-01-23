@@ -353,6 +353,7 @@ Signed,
 - Dave Justice, @meandavejustice (Senior Software Engineer, Mozilla)
 - Joe Kachmar, @jkachmar (Software Developer, Open Source Contributor)
 - Matt Kaemmerer, @mkaemmerer (Design Technologist)
+- Ravi Kalia, @project-delphi (Software Developer, Open Source Contributor)
 - Ivan Kaloyanov, @IvanKaloyanov (Software Developer)
 - Piotr Kaminski, @piotrekkaminski (Product Manager in the open source space)
 - Kaveh Karimi, @ka7eh (Software Developer)
