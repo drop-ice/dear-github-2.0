@@ -217,6 +217,7 @@ Signed,
 - Kate Donaldson, @katelovescode (Software Engineer)
 - Thomas Donoghue, @TomDonoghue (open-source software developer)
 - Jonathan Dorety, @kyullog (Software Developer)
+- Lauren Dorman, @laurendorman (Software Developer)
 - Nick Doty, @nldoty (Software Engineer)
 - Jarad Downing, @jaraddowning (DevOps Engineer)
 - Chris Drackett, @chrisdrackett (Designer, Engineer)
