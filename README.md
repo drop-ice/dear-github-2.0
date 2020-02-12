@@ -178,6 +178,7 @@ Signed,
 - Frances Coronel, @fvcproductions (Co-Director, Techqueria)
 - Dalia Coss, @daliacoss (Software Engineer)
 - Denis Costa, @deniscostadsc (Programmer)
+- Ellie Coyle, @bluexbyte (Software Engineer)
 - Scott Cranfill, @Scotchester (web developer)
 - Anna Cruz, @annacruz (Software developer, ofx gem maintainer)
 - Matthew Cruz, @mattcruzz (Software Engineer)
