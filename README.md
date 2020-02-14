@@ -501,6 +501,7 @@ Signed,
 - Gray Olson, @termhn (Rust community, Amethyst contributor, ASU)
 - Ryan Olson, @ryanolsonx (UI Architect, Contributor to various projects)
 - Rhodey Orbits, @rhodey (RadioWitness)
+- Jitender Saini, @jitender-saini (Software Engineer)
 - Uğur Oruc, @ketcap (Developer)
 - Edoardo Ottavianelli, @edoardottt (Python/Java maintainer)
 - Leslie Owusu-Appiah, @leslieoa (Developer)
@@ -733,4 +734,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Jitender Saini, @jitender-saini (Software Engineer)
