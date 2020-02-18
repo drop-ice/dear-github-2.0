@@ -546,6 +546,7 @@ Signed,
 - Railken, @railken (web developer)
 - Kurtis Rainbolt-Greene, @krainboltgreene (Difference Engineers, owner of vcr.rb, mastodon core contributor, former rubygems core contributor)
 - Shubha Rajan, @shubha-rajan (Ada Developers Academy, STEM Education advocate && Software Developer)
+- Rogério Ramos, @habutre (Software Engineer, Empathy that matters)
 - David Ranzolin, @daranzolin (San Francisco State University)
 - Gaurav Rao, @wizgrao (Flipout)
 - Keith Rarick, @kr
@@ -733,4 +734,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Rogério Ramos, @habutre (Software Engineer, Empathy that matters)
