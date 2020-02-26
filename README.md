@@ -472,6 +472,7 @@ Signed,
 - Ryan Mottley, @ligerzero459 (Help.com)
 - Alex Munoz, @alexmunoz905 (CEO at Napend)
 - Jose Munoz, @jdmg94 (Software Engineer)
+- Alexis Murauskas, @alexis-murauskas (Software Engineer)
 - Peter Murphy, @ptrfrncsmrph (Software Engineer)
 - Thomas Russell Murphy, @thomasrussellmurphy (iStyle Verilog maintainer)
 - Laneia Murray, @laneia (Software Engineer)
