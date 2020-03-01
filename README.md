@@ -580,6 +580,7 @@ Signed,
 - Ray Ryan, @rjrjr (Square)
 - Sam Saccone, @samccone (Developer)
 - Vaibhav Sagar, @vaibhavsagar (IHaskell maintainer)
+- Imran Said, @AInME93 (Developer)
 - Vikash Saini, @enigma10 (Software Engineer)
 - Ryan Samarakoon, @SimplyBallistic (Freelance Developer)
 - Alex Sanders, @sndrs (Software Engineer)
