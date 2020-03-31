@@ -542,7 +542,7 @@ Signed,
 - Dan Q, @Dan-Q (Software Engineer)
 - Daniel Quinn, @danielquinn (Paperless, Aletheia, mt103)
 - Guillaume Quittet, @gquittet (Software Developer, UNIX lover)
-- Ayan Rafique, @ayanrafique 
+- Ayan Rafique, @ayanrafique (WeBuild Prosthetics)
 - Rahul, @rahuldottech (Student, Developer)
 - Railken, @railken (web developer)
 - Kurtis Rainbolt-Greene, @krainboltgreene (Difference Engineers, owner of vcr.rb, mastodon core contributor, former rubygems core contributor)
