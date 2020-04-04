@@ -566,6 +566,7 @@ Signed,
 - Tiago Rodrigues, @trodrigues (Software Engineer, open source contributor, previously LXJS organizer)
 - Dennis Rohner, @midzer (Software & Web Developer)
 - Filipe Roman Veloso, @rovel (Umanni)
+- Paulo Romeira, @pauloromeira (Data Engineer)
 - Koz Ross, @kozross (awesome-c)
 - Larry Ruane, @LarryRuane (Software Engineer, Electric Coin Company)
 - Sara Rubin, @que-sara-sara (Software Engineer, HuffPost)
