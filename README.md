@@ -606,6 +606,7 @@ Signed,
 - Camille Seaberry, @camille-s (Data analyst)
 - Loren Segal, @lsegal (YARD, RubyDoc.info)
 - Eden Segal-Grossman, @edensg (Open Pit, Parent Company)
+- Sam Seltzer-Johnston, @sbseltzer (Game Developer & Software Engineer)
 - Subhrajyoti Sen, @SubhrajyotiSen (Mozilla contributor)
 - Potekhin Sergey, @pavlovdog (Software engineer)
 - Afonso Serra, @nadacomum (Computer Engineering Undergraduate)
