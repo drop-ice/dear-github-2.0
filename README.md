@@ -733,3 +733,4 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
+- Tuukka, @tpelaaja (Discord Bot Developer & Discord Bot List Site Owner)
