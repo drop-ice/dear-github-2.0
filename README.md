@@ -653,6 +653,7 @@ Signed,
 - Jake Tarren, @tarrenj (Acting CISO, Cyber Security and Systems Engineer)
 - Ryan Taylor, @ryanewtaylor (Software Engineer)
 - Gueorgui Tcherednitchenko, @gueorgui (A Possible Space)
+- Dexter Teed, @dexterateed (A lot of Discord bots)
 - Bhavika Tekwani, @bhavika (Software Engineer) 
 - Peter Thaleikis, @spekulatius (Software engineer)
 - Cathy Theys, @YesCT (Web Developer)
