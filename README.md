@@ -660,7 +660,7 @@ Signed,
 - Nigel Tiany, @nigeltiany (Concerned Immigrant)
 - Erick Todd, @ddot727 (Software Engineer)
 - Xavi Torelló, @XaviTorello (software engineer, itsec consultant, GNUites, Python Girona organizer)
-- Patxi Torrealdea, @papomail (Clinical Scientist)
+- Patxi Torrealdea, @papomail (Clinical Scientist, UCLH)
 - Thomas Tortorini, @mr21 (gridsound)
 - Artemis Tosini, @artemist (independent security researcher)
 - Edmond de Tournadre, @Djohn12
