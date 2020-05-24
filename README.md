@@ -242,6 +242,7 @@ Signed,
 - Gianpaolo Fili, @gianpaolof (Software Engineer)
 - Ursin Filli, @ursinn (Software Engineer)
 - Rian Finnegan, @xtellurian (Amphora Data)
+- Nathan Fiscaletti, @nathan-fiscaletti (Software Engineer)
 - Tony Fischetti, @tonyfischetti (Open source developer)
 - Katherine Flavel, @katef (Software Engineer)
 - Rob Fletcher, @robfletcher (Spinnaker contributor)
@@ -733,4 +734,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Nathan Fiscaletti, @nathan-fiscaletti (Software Engineer)
