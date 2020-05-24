@@ -242,6 +242,7 @@ Signed,
 - Gianpaolo Fili, @gianpaolof (Software Engineer)
 - Ursin Filli, @ursinn (Software Engineer)
 - Rian Finnegan, @xtellurian (Amphora Data)
+- Nathan Fiscaletti, @nathan-fiscaletti (Software Engineer)
 - Tony Fischetti, @tonyfischetti (Open source developer)
 - Katherine Flavel, @katef (Software Engineer)
 - Rob Fletcher, @robfletcher (Spinnaker contributor)
