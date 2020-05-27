@@ -258,6 +258,7 @@ Signed,
 - Thomas Fuchs, @madrobby (Zepto, scriptaculous)
 - Noam Gal, @atgardner (Software Engineer)
 - Chris Galardi, @ixtli (Engineer, iphone dev team)
+- Juan Garay, @juangaray93 (web developer)
 - Jason Garber, @jgarber623 (web developer and standards advocate)
 - Kristal Garcia, @kgmajor (Techqueria)
 - Jake Gealer, @JakeMakesStuff (MagicCap)
