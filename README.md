@@ -272,6 +272,7 @@ Signed,
 - Anthony Graca, @anthonygraca (Software Developer)
 - Matheus Graciano, @graciano (tananã)
 - Vincent Grafé, @vgrafe
+- Kevin Granger, @KevinMGranger (Software Engineer)
 - Reilly Grant, @reillyeon (W3C Devices and Sensors WG Co-chair, Google)
 - Joe Granville, @metaregress (hobbyist)
 - Gavin Gray, @gngdb (Machine Learning Researcher)
