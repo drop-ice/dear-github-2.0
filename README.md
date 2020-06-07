@@ -262,6 +262,7 @@ Signed,
 - Kristal Garcia, @kgmajor (Techqueria)
 - Jake Gealer, @JakeMakesStuff (MagicCap)
 - Marius Gedminas, @mgedmin (Software engineer, OSS maintainer, contributor to various Python projects)
+- Kelsey Geiger, @KelseyGeiger (Game Engine Programmer, Developer @ New Constellations)
 - Pejman Ghorbanzade, @ghorbanzade (Software Engineer)
 - Florian Gilcher, @skade (Rust, Rust Berlin, Ruby Berlin e.V.)
 - Cate Golding, @decafhotchocolate (Student, Software & Web Developer)
