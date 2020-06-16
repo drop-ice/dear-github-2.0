@@ -636,6 +636,7 @@ Signed,
 - Martin Splitt, @avgp (Developer Advocate, Rendertron maintainer, open source developer, Google)
 - Jan Sprinz, @neothethird (Ubuntu Touch dev at the UBports Foundation)
 - Peter Squicciarini, @stripedpajamas (VSCodium)
+- Nishant Srivastava, @nisrulz (Android Engineer)
 - Thorr Stevens, @thorrstevens (Javascript Developer, date-fns contributor)
 - William Stewart, @zoidbergwill (Software Engineer)
 - Christoph Stock, @stockulus (Software Engineer)
@@ -733,4 +734,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Nishant Srivastava, @nisrulz (Android Engineer)
