@@ -153,6 +153,7 @@ Signed,
 - Lachlan Campbell, @lachlanjc (Hack Club)
 - Christine Carpenter, @CodingCCarpenter (ReactJS developer)
 - Andrew Cassidy, @drewcassidy (Engineering Student and KSP modder)
+- Claudiu Ceia, @ClaudiuCeia (Software Engineer)
 - David Celis, @davidcelis (maintainer of and contributor to various Ruby gems)
 - Stefano Cerelli, @scerelli (Software Engineer, Game Developer)
 - Ibrahim Cesar, @ibrahimcesar (React Lite YouTube Embed)
