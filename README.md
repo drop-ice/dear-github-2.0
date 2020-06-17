@@ -487,6 +487,7 @@ Signed,
 - Palash Nigam, @palash25 (Student, Contributor to various projects)
 - Johnathan Nightingale, @johnath (rawsignal.ca)
 - Forrest L Norvell, @othiym23 (Software Engineer, open source contributor)
+- Filip Novotný, @henckellbach (Software Engineer, OAK'S LAB)
 - Víctor Núñez, @Skeiceee (Web Developer)
 - Robert O'Rourke, @roborourke (Software Engineer, open source contributor)
 - Kira Oakley, @noffle (Digital Democracy, Cabal Club)
