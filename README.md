@@ -688,6 +688,7 @@ Signed,
 - Sergei Visotsky @sergeivisotsky (Java Developer)
 - Felipe Ventura, @fvntr (Techqueria)
 - María Lucía Vidart-Delgado, @mlvidart (DX/UX Researcher)
+- Fabian Volkers, @FabianVolkers (Software Engineer)
 - Immanuel von Detten, @ypislon (Ready To Code @readytocode, Software Engineer)
 - James Vorderbruggen, @JamesVorder (MassMesh)
 - Vincent D. Warmerdam, @koaning (Data Person)
