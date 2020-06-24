@@ -567,6 +567,7 @@ Signed,
 - Dennis Rohner, @midzer (Software & Web Developer)
 - Filipe Roman Veloso, @rovel (Umanni)
 - Koz Ross, @kozross (awesome-c)
+- Eyal Rozenberg, @eyalroz (Researcher & Software Developer)
 - Larry Ruane, @LarryRuane (Software Engineer, Electric Coin Company)
 - Sara Rubin, @que-sara-sara (Software Engineer, HuffPost)
 - Philipp Rudloff, @kleinfreund (Front-end Developer)
