@@ -232,6 +232,7 @@ Signed,
 - Abraham (Silur) Endre, @silur (Cryptographer)
 - Mike Engel, @mike-engel (Web developer)
 - Eric, @TheLastZombie (webpages, scrapers, bots, tools)
+- Zach Eriksen, @0xLeif (Swift Developer)
 - Dante Falzone, @DanteFalzone0 (Student, C and Rust programmer, advocate for social justice)
 - Matheus Fantinel, @matfantinel (Software Developer)
 - Jake Brussel Faria, @jacobbf (Developer, technical writer, working on open source type projects)
