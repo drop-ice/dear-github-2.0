@@ -87,6 +87,7 @@ Signed,
 - Zac Anger, @zacanger (Node packages maintainer)
 - Ivo Anjo, @ivoanjo (Open-source fan+contributor)
 - Dave Ankin, @alexanderankin (Software Developer)
+- Janey Annis, @jjjaney (Product Manager)
 - Patrick Arnett, @patrickarnett (Software Developer)
 - Peter Aronoff, @telemachus (Lua modules split and tapered)
 - Joshua Arulsamy, @jarulsamy (Software Developer, Student)
