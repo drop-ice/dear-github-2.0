@@ -466,6 +466,7 @@ Signed,
 - Tony Miller, @mcfiredrill (@datafruits, @streampusher, open source contributor)
 - Matt Mills, @photomattmills (Software Engineer, ElixirBridge co-founder)
 - Benaiah Mischenko, @benaiah (software developer and open source contributor)
+- Eugene Monnier, @eugenemonnier (Coder's Living Instant Journal, MoviesNOW)
 - Todd Morningstar, @stratigos (Software Engineer, freedom lover)
 - Keziah Moselle, @KeziahMoselle (Front-end developer)
 - Miguel Mota, @miguelmota (Software Developer)
