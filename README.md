@@ -609,6 +609,7 @@ Signed,
 - Subhrajyoti Sen, @SubhrajyotiSen (Mozilla contributor)
 - Potekhin Sergey, @pavlovdog (Software engineer)
 - Afonso Serra, @nadacomum (Computer Engineering Undergraduate)
+- Amanjeev Sethi, @amanjeev (Research Software Engineer)
 - Rahul Shah, @rahulpshah (Software Engineer)
 - Saul Shanabrook, @saulshanabrook (Quansight, Jupyter)
 - Shanley, @shanley (Model View Culture, Fund Club, #NoTechforICE)
