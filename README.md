@@ -733,3 +733,4 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
+- Dina Elhanan, @digitaldina (Electrical Eng student @ McMaster, Hack Club)
