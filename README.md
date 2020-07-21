@@ -276,6 +276,7 @@ Signed,
 - Joe Granville, @metaregress (hobbyist)
 - Gavin Gray, @gngdb (Machine Learning Researcher)
 - Garrett Green, @garrett-green (Software Developer)
+- Joshua Greenlaw, @josh-greenlaw (Database Administrator, Software Engineer)
 - Gyuri Grell, @ggrell (RxReactor, Software Developer)
 - Jack Grigg, @str4d (Cryptographic Engineer, Electric Coin Company)
 - Enrico Grillo, @redbassett (Engineer, Mobile & Web)
