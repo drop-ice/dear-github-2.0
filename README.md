@@ -514,6 +514,7 @@ Signed,
 - Daniele Paliotta, @dpstart (Student, ML Engineer)
 - Benjamin Pang, @molarmanful (NYU Abu Dhabi, Developer)
 - Byungjin Park, @posquit0 (Software Engineer)
+- Joshua Pasciuto, @JoshuaPasciuto (Student and Developer)
 - Saad Pasta, @saadpasta (Jr Software Developer)
 - Atish Patel, @atishpatel (Software Engineer)
 - Robert Paul, @robkpaul (Student/Software Engineer)
