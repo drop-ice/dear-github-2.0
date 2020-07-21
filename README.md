@@ -583,6 +583,7 @@ Signed,
 - Vikash Saini, @enigma10 (Software Engineer)
 - Ryan Samarakoon, @SimplyBallistic (Freelance Developer)
 - Alex Sanders, @sndrs (Software Engineer)
+- Karen Santamaria, @kbsantamaria (Systems Engineer)
 - Dorothy R. Santos, @dorothysantos (Processing Foundation)
 - Aleph Santos Oliveira, @haple
 - Daniel Santos, @imdanielsp (Software Engineer)
