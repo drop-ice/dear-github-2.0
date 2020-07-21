@@ -537,6 +537,7 @@ Signed,
 - Brian Pond, @PMojito (Software Developer)
 - Mikhail Popov, @bearloga (Data person at Wikimedia Foundation, R OSS package maintainer)
 - Erin Power, @XAMPPRocky (Rust-lang contributor, tokei)
+- Ben Ptacek, @bennysp (Principal DevOps Engineer)
 - Steve Purcell, @purcell
 - Gustav Pursche, @gustavpursche (Software Engineer)
 - Dan Q, @Dan-Q (Software Engineer)
@@ -733,4 +734,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Ben Ptacek, @bennysp (Principal DevOps Engineer)
