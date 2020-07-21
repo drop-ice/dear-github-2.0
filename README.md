@@ -316,6 +316,7 @@ Signed,
 - Auron Hines, @ghostslayer989 (Hacktoberfest, Web Developer)
 - Robert Hofmann, @bert2 (Software Developer)
 - Zach Holman, @holman (Employee #9, GitHub)
+- Dave Holt, @hippydave (Independent Developer)
 - Daira Hopwood, @daira (Protocol Designer, Electric Coin Company)
 - Karl Horky, @karlhorky (Founder, Teacher @ upleveled.io)
 - Joshua Hoskins, @friendtocephalopods (Square)
