@@ -228,6 +228,7 @@ Signed,
 - Adham Ehab, @adhaamehab (Senior Software Engineer, open source contributor)
 - Coraline Ada Ehmke, @coralineada (Contributor Covenant, Beacon, Hippocratic License, and EthicalSource.dev)
 - Shawn Eisenach, @wholewheattoast (Artist and Software Developer)
+- Dina Elhanan, @digitaldina (Electrical Eng student @ McMaster, Hack Club)
 - Melissa Elliott, @0xabad1dea (infosec researcher)
 - Abraham (Silur) Endre, @silur (Cryptographer)
 - Mike Engel, @mike-engel (Web developer)
