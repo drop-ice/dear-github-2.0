@@ -623,6 +623,7 @@ Signed,
 - Praveen Sinha, @h0mee (Senior Software Engineer)
 - Ruby Sinreich, @rubyji (Drupal developer & community organizer)
 - Gene Smith, @gene-smith (Tech Director, Developer)
+- Josh Smith, @joshua-s (Software Engineer)
 - Patrick Smith, @vectorpark (Artist)
 - David Snyder, @gypsydangerous (Student/Software Engineer)
 - Caroline Soares, @carolcodes (Front End Engineer)
@@ -733,4 +734,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Josh Smith, @joshua-s (Software Engineer)
