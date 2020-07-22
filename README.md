@@ -305,6 +305,7 @@ Signed,
 - Richo Healey, @richo (Computer Jerk)
 - Martin Heidegger, @martinheidegger (consento-org, jsconfjp, ...)
 - Jacob Helwig, @jhelwig (Calagator)
+- Ashton Hellwig, @ashellwig @ashwig (Founder, Student, Systems Administrator, Activist)
 - Julian Hem, @notnite (Software Engineer)
 - Jashua Heredia, @Jouo (Software Developer, Student)
 - Raquel Hernandez, @maggit (Senior Software Engineer / Engineering Manager @raqueldotnyc) 
