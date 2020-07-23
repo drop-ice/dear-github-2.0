@@ -222,6 +222,7 @@ Signed,
 - Chris Drackett, @chrisdrackett (Designer, Engineer)
 - Oliver Drotbohm, @odrotbohm (Software Engineer, Spring Framework)
 - Victor Du, @DrDab (Full-Stack Developer, Infosec Researcher)
+- Ross J. Duff, @rjdbcm (Graduate Student, UMKC SBC)
 - Kévin Dunglas, @dunglas (Creator of @api-platform, co-maintainer of @symfony, co-founder of @coopTilleuls)
 - Greg Dunlap, @heyrocker (Drupal)
 - Robin Dupret, @robin850 (Redcarpet, Propel and Ruby on Rails contributor)
@@ -733,4 +734,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Ross J. Duff, @rjdbcm (Graduate Student, UMKC SBC)
