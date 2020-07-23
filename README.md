@@ -237,6 +237,7 @@ Signed,
 - Jake Brussel Faria, @jacobbf (Developer, technical writer, working on open source type projects)
 - James Farmer, @jpfarmer (Honey Milk Software)
 - Corey Farwell, @frewsxcv (@kickstarter, Rust)
+- Daniel Fenz, @Fancy11111 (Software Engineer and CS Student)
 - Jan Nils Ferner, @jnferner (Software Engineer and Author)
 - Patrick Ferris, @patricoferris (CS Student, Social Justice Advocate)
 - Gianpaolo Fili, @gianpaolof (Software Engineer)
