@@ -182,6 +182,7 @@ Signed,
 - Anna Cruz, @annacruz (Software developer, ofx gem maintainer)
 - Matthew Cruz, @mattcruzz (Software Engineer)
 - Jimmy Cuadra, @jimmycuadra (Lita, Ruma)
+- David Cumps, @cumpsd (Polyglot Developer)
 - Tomás Agustin Cunningham, @Cunntomas (Web developer)
 - Nguyen Manh Cuong, @starfruitjsc (JavaScript Developer)
 - Tierney Cyren, @bnb (Node.js, OpenJS Foundation, Cutenode, Electron)
