@@ -231,6 +231,7 @@ Signed,
 - Melissa Elliott, @0xabad1dea (infosec researcher)
 - Abraham (Silur) Endre, @silur (Cryptographer)
 - Mike Engel, @mike-engel (Web developer)
+- Gerardo Espinosa, @IvanMtze (Software Enginner student)
 - Eric, @TheLastZombie (webpages, scrapers, bots, tools)
 - Dante Falzone, @DanteFalzone0 (Student, C and Rust programmer, advocate for social justice)
 - Matheus Fantinel, @matfantinel (Software Developer)
@@ -733,4 +734,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Gerardo Espinosa, @IvanMtze (Software Enginner student)
