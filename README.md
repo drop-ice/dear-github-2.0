@@ -733,4 +733,4 @@ Signed,
 - Leonardo Zavala, @dlz21 (Web Developer)
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
-- Greg Ziegan, @thebritican (Software Enginee)
+- Greg Ziegan, @thebritican (Software Engineer)
