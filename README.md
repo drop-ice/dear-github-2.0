@@ -435,6 +435,7 @@ Signed,
 - Jason Martens, @jasonmartens (Software Engineer)
 - Sebastian Martinez, @sebastinez (Software Engineer)
 - Danilo Martins, @mawkee (Software Engineer)
+- Isabel Maskrey, @satyrnidae (Software Engineer)
 - Matthew Masurka, @gigamesh (Web Developer)
 - Rahul Mathews, @rahulmathews (Full Stack Developer)
 - Jefferson Matheus, @jefferson227 (Software Developer)
