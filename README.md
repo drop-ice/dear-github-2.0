@@ -218,6 +218,7 @@ Signed,
 - Thomas Donoghue, @TomDonoghue (open-source software developer)
 - Jonathan Dorety, @kyullog (Software Developer)
 - Nick Doty, @nldoty (Software Engineer)
+- Pepe Doval, @pepellou (Full-Stack Developer)
 - Jarad Downing, @jaraddowning (DevOps Engineer)
 - Chris Drackett, @chrisdrackett (Designer, Engineer)
 - Oliver Drotbohm, @odrotbohm (Software Engineer, Spring Framework)
