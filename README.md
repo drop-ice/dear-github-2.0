@@ -699,3 +699,4 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
+- Nabanita Dash, @dnabanita7 (senior year undergraduate/AI research)
