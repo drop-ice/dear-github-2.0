@@ -470,6 +470,7 @@ Signed,
 - Keziah Moselle, @KeziahMoselle (Front-end developer)
 - Miguel Mota, @miguelmota (Software Developer)
 - Ryan Mottley, @ligerzero459 (Help.com)
+- Sarah Mullins, @rynogg (Game Developer, RynoGG)
 - Alex Munoz, @alexmunoz905 (CEO at Napend)
 - Jose Munoz, @jdmg94 (Software Engineer)
 - Peter Murphy, @ptrfrncsmrph (Software Engineer)
