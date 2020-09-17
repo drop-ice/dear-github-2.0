@@ -207,6 +207,7 @@ Signed,
 - Henry Desroches, @xdesro (Faculty)
 - Dessalines, @dessalines (OSS developer)
 - Pranoy Dev, @devpranoy (Product & Engineering Manager @IIA)
+- Christopher De Vries, @nissyen (Network Engineer)
 - iliana destroyer of worlds, @iliana (Amazon Web Services)
 - Chance Dickson, @chancedickson (Product Engineer @ Glitch)
 - Gordon Diggs, @gdiggs
