@@ -145,6 +145,7 @@ Signed,
 - Benjamin Bultman, @bbultman (Bruny Digital)
 - Ivan Bunčić, @ivanbuncic (Web Developer)
 - Kylan Byrd, @AvianAnalyst (Software Developer)
+- Matěj Bystřický, @matronator (Front-End Developer)
 - Akin C., @incrementis (Software Engineer)
 - Griffin C., @KerbalKore (Amatuer coder and aspiring game modder)
 - Heather C., @EpicTroll1365 (University student and hack coder)
