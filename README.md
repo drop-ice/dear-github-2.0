@@ -685,7 +685,7 @@ Signed,
 - André Varandas, @iamvarandas (Software Developer)
 - Anurag Veekancheri, @talentedandrew (Software Engineer)
 - Josue Villanueva, @idjevm (Software Engineer, Wallbreakers)
-- Sergei Visotsky @sergeivisotsky (Java Developer)
+- Sergei Visotsky, @sergeivisotsky (Java Developer)
 - Felipe Ventura, @fvntr (Techqueria)
 - María Lucía Vidart-Delgado, @mlvidart (DX/UX Researcher)
 - Immanuel von Detten, @ypislon (Ready To Code @readytocode, Software Engineer)
