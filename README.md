@@ -685,6 +685,7 @@ Signed,
 - André Varandas, @iamvarandas (Software Developer)
 - Anurag Veekancheri, @talentedandrew (Software Engineer)
 - Josue Villanueva, @idjevm (Software Engineer, Wallbreakers)
+- André Vital, @andrevitalb (Full Stack Developer, AI Student)
 - Sergei Visotsky, @sergeivisotsky (Java Developer)
 - Felipe Ventura, @fvntr (Techqueria)
 - María Lucía Vidart-Delgado, @mlvidart (DX/UX Researcher)
