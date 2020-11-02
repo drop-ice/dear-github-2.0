@@ -638,6 +638,7 @@ Signed,
 - Peter Squicciarini, @stripedpajamas (VSCodium)
 - Thorr Stevens, @thorrstevens (Javascript Developer, date-fns contributor)
 - William Stewart, @zoidbergwill (Software Engineer)
+- Spencer Stith, @spencerstith (Software Developer, Student)
 - Christoph Stock, @stockulus (Software Engineer)
 - Peter Storch, @pstorch (Developer)
 - Christopher Styles, @christopherstyles (Software Writer, allthefarms.com co-founder)
