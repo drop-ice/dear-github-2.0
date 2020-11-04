@@ -417,6 +417,7 @@ Signed,
 - Noel Francis Lobo, @coffeestains (Web Developer, Python Programmer)
 - Brian Lonsdorf, @drboolean (Author, Software Developer)
 - isis lovecruft, @isislovecruft (Cryptographer)
+- Andrew Luca, @iamandrewluca (All in Developers)
 - Benard Luca, @lubenard (42 School Student)
 - Joseph Luck, @josephluck (Software Engineer, various open source)
 - Luna Lunapiena, @lunacodes (Web Developer)
