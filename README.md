@@ -201,6 +201,7 @@ Signed,
 - Marco Dalla Stella, @mdallastella (7bridges.eu co-founder)
 - Andy Davidoff, @disruptek (computer user)
 - Aaron Davis, @kumavis (engineer, @MetaMask)
+- Jonathan Dayton, @jdayton3 (Software Developer, Data Scientist)
 - Matthew Dean, @matthew-dean (Less.js)
 - Ryan Delaney, @rpdelaney (Software Engineer)
 - Suhas Deshpande, @suhasdeshpande (Typescript & Angular contributor)
