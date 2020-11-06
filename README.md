@@ -185,6 +185,7 @@ Signed,
 - Tomás Agustin Cunningham, @Cunntomas (Web developer)
 - Nguyen Manh Cuong, @starfruitjsc (JavaScript Developer)
 - Tierney Cyren, @bnb (Node.js, OpenJS Foundation, Cutenode, Electron)
+- Simon Dagfinrud, @kvasimon (Designer, Developer)
 - Paul D'Ambra, @pauldambra (Software Engineer)
 - Timothy Dang, @timdang (Software Engineer)
 - Jon Daniel, @binarycleric (Infrastructure Engineer, Heroku)
