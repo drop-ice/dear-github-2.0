@@ -322,6 +322,7 @@ Signed,
 - Jaafari El Housseine, @jefferyhus (Software Engineer)
 - Hannah Howard, @hannahhoward (Carbon Five, RxReact)
 - Alec Hoyland, @alec-hoyland (Scientific Programmer, Xolotl)
+- Kevin Hu, @pkvinhu (Software Engineer)
 - Ivan Huayraña, @ivanhuay (Software Engineer, open source contributor)
 - Peter Huene, @peterhuene (Mozilla)
 - Stephen P. Huff, @hakamadare (SRE)
