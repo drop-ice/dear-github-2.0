@@ -563,6 +563,7 @@ Signed,
 - Sebastian Riedel, @kraih (Mojolicious)
 - Matt Riel, @mriel (Front-End Developer)
 - Travis Ripley, @travezripley (All Humans of Planet Earth)
+- Elviro Rocca, @broomburgo (Software Engineer)
 - Tiago Rodrigues, @trodrigues (Software Engineer, open source contributor, previously LXJS organizer)
 - Dennis Rohner, @midzer (Software & Web Developer)
 - Filipe Roman Veloso, @rovel (Umanni)
@@ -733,4 +734,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Elviro Rocca, @broomburgo (Software Engineer)
