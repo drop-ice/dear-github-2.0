@@ -80,6 +80,7 @@ Signed,
 - Ehsan Akhgari, @ehsan (Principal Engineer, Mozilla)
 - Omar Al-Ejel, @oalejel (Software Engineer, Umich EECS Student Instructor)
 - Nick Aliferopoulos, @naliferopoulos (Information Security Researcher)
+- Omar Allaham, @omiz (Software Engineer)
 - Giacomo Alonzi, @giacomoalonzi (Frontend Developer @ Moze)
 - Dov Alperin, @DAlperin (Software Developer)
 - Heladio Amaya, @Heladio-ac (Software Developer)
@@ -733,5 +734,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Omar Allaham, @omiz (Software Engineer)
-
