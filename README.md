@@ -315,7 +315,7 @@ Signed,
 - Chris Hiestand, @chrishiestand (GitHub App Creator www.boss.dev)
 - Auron Hines, @ghostslayer989 (Hacktoberfest, Web Developer)
 - Robert Hofmann, @bert2 (Software Developer)
-- Elisha Hollander @donno2048 (Student)
+- Elisha Hollander, @donno2048 (Student)
 - Zach Holman, @holman (Employee #9, GitHub)
 - Daira Hopwood, @daira (Protocol Designer, Electric Coin Company)
 - Karl Horky, @karlhorky (Founder, Teacher @ upleveled.io)
