@@ -560,6 +560,7 @@ Signed,
 - Pedro Reys, @pedroreys (Programmer)
 - Kay Rhodes, @masukomi (maintainer of and contributer to multiple projects)
 - Becca Ricks, @baricks (Mozilla Foundation, tendernet)
+- Cole Ricketts, @Ded-Ex (Computer Science Student)
 - Sebastian Riedel, @kraih (Mojolicious)
 - Matt Riel, @mriel (Front-End Developer)
 - Travis Ripley, @travezripley (All Humans of Planet Earth)
