@@ -283,6 +283,7 @@ Signed,
 - Ryan Grove, @rgrove (Software Engineer, SmugMug; author of the Sanitize Ruby gem that GitHub uses in the rendering pipeline for this README)
 - Jürgen Gmach, @jugmac00 (Software Engineer)
 - Artem Golovin, @awave1 (Web/Mobile Developer, beatmaker)
+- Henrique Goncalves, @kamushadenes (Security Specialist)
 - Thibaud Guillaume-Gentil, @thibaudgg (creator and contributor of various Ruby gems)
 - Francis Gulotta, @reconbot (Node Serialport, Request)
 - E.L. Guerrero, @thinkbulecount2 (Software Developer, PKP)
