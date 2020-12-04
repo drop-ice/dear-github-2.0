@@ -163,6 +163,7 @@ Signed,
 - Matt Chapman, @matt2000 (Code Contributor to many open-source projects)
 - Mitch Chapman, @mchapman87501 (Software Developer)
 - Christian Chaux, @Xwilarg (Software Developer, Student)
+- Angelo Chaves, @aechaves (Software Depeloper)
 - James Cherven, @jcherven (Web Hobbyist)
 - David Chopin, @ChopinDavid (Software Developer, student)
 - Andrew Chou, @achou11 (Software Engineer)
