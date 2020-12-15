@@ -124,6 +124,7 @@ Signed,
 - Owen Blacker, @owenblacker (technologist and activist, trustee Open Rights Group, ex-trustee mySociety)
 - Ben Blackmore, @bripkens (Software Engineer and NPM package author)
 - Tamzin Blake, @tamzinblake (Software Engineer)
+- Bailey Blankenship, @bblanke (Software Engineer)
 - Hannah Blau, @hannahblau (research software engineer)
 - Chris Bloom, @chrisbloom7 (Software Engineer, GitHub)
 - Bobbbay Bobbbayan, @bobbbay (Full Stack Web Developer)
