@@ -104,6 +104,7 @@ Signed,
 - Allen Ballway, @lballway (Software Engineer)
 - Phil Barbato, @philbarbato (Web Developer)
 - Jerome Bark, @ecentaur (QA Engineer)
+- B. W. Barker, @brentwbarker
 - Artur Barseghyan, @barseghyanartur (open-source contributor)
 - Francis Barton, @francisbarton (tinkerer)
 - Will Barton, @willbarton
