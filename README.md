@@ -379,6 +379,7 @@ Signed,
 - Jakub Kozłowski, @kubukoz (Scala developer, Cats contributor)
 - Anna Krasner, @annakrasner (Software Engineer, Game Developer)
 - Kevin Krieger, @kkrieger85 (#Openmage, different Magento1 Modules/Shops)
+- Sam van der Kris, @samvdkris (computer science student, hobbyist)
 - Dennis Kromhout van der Meer, @flxfxp (Salesforce, Director of Product Management)
 - Simon Kunz @MDSLKTR (Software Engineer, npm package author)
 - Jamie Kyle, @jamiebuilds (Babel, Yarn, Parcel, Lerna, Flow, Marionette, Dear GitHub 1.0)
