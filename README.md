@@ -33,6 +33,7 @@ Signed,
 - Kushal Das, @kushaldas (Public Interest Technologist, Freedom of the Press Foundation)
 - Chris Dickinson, @chrisdickinson (Entropic)
 - Buck Doyle, @backspace (Nomad contributor)
+- Roman Edirisinghe, @rediris (Director of Technology, Gymnasium)
 - Audrey Eschright, @aeschright (Calagator)
 - Steffen Forkmann, @forki (Paket, FAKE)
 - Brian Gesiak, @modocache (Swift, LLVM)
