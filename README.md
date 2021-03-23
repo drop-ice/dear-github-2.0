@@ -82,6 +82,7 @@ Signed,
 - Nick Aliferopoulos, @naliferopoulos (Information Security Researcher)
 - Giacomo Alonzi, @giacomoalonzi (Frontend Developer @ Moze)
 - Dov Alperin, @DAlperin (Software Developer)
+- Ben Altair, @benaltair (I.T. Coordinator, @bahaistudies)
 - Heladio Amaya, @Heladio-ac (Software Developer)
 - Anderson, @p1r-a-t3 (Software Engineer)
 - Zac Anger, @zacanger (Node packages maintainer)
@@ -733,4 +734,3 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Ben Altair, @benaltair (I.T. Coordinator, @bahaistudies)
