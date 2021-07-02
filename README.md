@@ -98,6 +98,7 @@ Signed,
 - Gideon B., @eignnx (github user, unemployed hobbiest)
 - Pierre-Yves Baccou, @pyb (Light Meta)
 - Kevin Backhouse, @kevinbackhouse (Security Researcher, GitHub)
+- Hans Baier, @hansfbaier (Software Developer)
 - Evan Bailey, @cynicaloptimist (Improved Initiative)
 - Laryn Kragt Bakker, @laryn (Backdrop CMS and CiviCRM contributor)
 - Amr Bakry, @amrrbakry (Software Engineer)
