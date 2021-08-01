@@ -627,6 +627,7 @@ Signed,
 - David Snyder, @gypsydangerous (Student/Software Engineer)
 - Caroline Soares, @carolcodes (Front End Engineer)
 - Ricardo Solano, @rsolano (Software Engineer)
+- Andrew Solanto, @solanto (Civil & Systems Eng. student @ Johns Hopkins)
 - Shubham Soni, @shubxam (Flutter Developer)
 - Elmer Sorto, @elansh (Web Developer)
 - Georgios Spanos, @drvspan (Algorithmic design, Security analyst)
