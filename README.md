@@ -116,6 +116,7 @@ Signed,
 - Reid Beels, @reidab (Calagator, etc.)
 - Peter Benjamin, @pbnj (Software Engineer)
 - Dan Bentley, @dbentley (Tilt)
+- Melroy van den Berg, @danger89 (LibreWeb, Bumblebee Project, Open-source Software Engineer)
 - Noah Berman, @bermannoah (small but mighty Ruby OSS projects, coffeebot)
 - Aatish Bhatia, @aatishb (aatishb.com)
 - Roshni Biswas, @roshni-b (Software Engineer)
