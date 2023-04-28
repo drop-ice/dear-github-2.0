@@ -733,4 +733,4 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
-- Mauro Baladés, @thebritican (Software Engineer, Web/Application developer and more)
+- Mauro Baladés, @mauro-balades (Software Engineer, Web/Application developer and more)
