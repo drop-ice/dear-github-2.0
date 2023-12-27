@@ -733,3 +733,4 @@ Signed,
 - Andreas Zecher, @pixelate (Web Developer)
 - Markus Zeller, @markuszeller (Web/Application Developer)
 - Greg Ziegan, @thebritican (Software Engineer)
+- Md Sulaiman @sulaiman-coder (boss-net, open-source contributor)
